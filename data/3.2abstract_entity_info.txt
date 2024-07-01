@@ -1,0 +1,2809 @@
+pumedid	entity_id	entity	entity_type	correct	not_an_entity	wrong_border	entity_position
+35366864	001	high pathogenicity avian influenza	phenotype	0	0	0	43:76
+35353676	001	host factors	phenotype	0	0	0	114:125
+35353676	002	genetic host factors	phenotype	0	0	0	447:466
+35256126	001	ocular disease	phenotype	0	0	0	32:45
+35256126	002	eye fluke infection	phenotype	0	0	0	453:471
+35256126	003	eye flukes	phenotype	0	0	0	1327:1336,1553:1562
+35256126	004	eye damage	phenotype	0	0	0	1752:1761
+35256126	005	eye parasite	phenotype	0	0	0	2799:2810
+35142170	001	acute intermittent respiratory distress	phenotype	0	0	0	82:120
+35142170	002	tracheal defect	phenotype	0	0	0	263:277
+35142170	003	tracheal rupture	phenotype	0	0	0	397:412
+35112695	001	PTEN	gene	0	0	0	261:264,777:780,818:821,777:780,818:821,1429:1432
+35112695	002	NLRP3	gene	0	0	0	969:973,1048:1052,969:973,1048:1052
+35112695	003	NEK7	gene	0	0	0	976:979
+35112695	004	GSDMA	gene	0	0	0	994:998
+35112695	005	GSDMD	gene	0	0	0	1063:1067
+35112695	006	Cyt C	gene	0	0	0	1145:1149
+35112695	007	trace element imbalance	phenotype	0	0	0	663:685
+35112695	008	liver function	phenotype	0	0	0	688:701
+35112695	009	histomorphological abnormalities in the duck liver	phenotype	0	0	0	707:756
+35106300	001	gastrointestinal parasites	phenotype	0	0	0	42:67,676:701
+35106300	002	Syngamus trachea	phenotype	0	0	0	805:820
+35106300	003	Choanotaenia infundibulum	phenotype	0	0	0	917:941
+35106300	004	gastrointestinal parasite	phenotype	0	0	0	1144:1168
+35094630	001	white plumage	phenotype	0	0	0	224:236,1647:1659
+35094630	002	feather bulbs of black	phenotype	0	0	0	353:374
+35094630	003	white feather bulbs	phenotype	0	0	0	515:533
+35094630	004	ASIP	gene	0	0	0	1212:1215
+35094630	005	GNAI1	gene	0	0	0	1262:1266
+35094630	006	KITLG	gene	0	0	0	1328:1332
+35094630	007	EDN3	gene	0	0	0	1335:1338
+35094630	008	FZD4	gene	0	0	0	1344:1347
+35094630	009	feather albinism	phenotype	0	0	0	1433:1448
+35094630	00A	feather pigmentation	phenotype	0	0	0	1563:1582
+35090373	001	epithelial tumors	phenotype	0	0	0	60:76
+35068101	001	matrix protein	gene	0	0	0	627:640
+35068101	002	polymerase basic proteins 1 and 2	gene	0	0	0	843:875
+35068101	003	polymerase acidic protein	gene	0	0	0	878:902
+35068101	004	nucleocapsid protein genes	gene	0	0	0	909:934
+34995644	001	pituitaryadrenal axis	phenotype	0	0	0	211:231
+34995644	002	stress responses	phenotype	0	0	0	310:325
+34995644	003	adrenocorticotropin hormone	gene	0	0	0	615:641
+34995644	004	GC	gene	0	0	0	1175:1176
+34995644	005	lymphocyte ratios	phenotype	0	0	0	1285:1301
+34970593	001	TLR3	gene	0	0	0	694:697
+34970593	002	TLR7	gene	0	0	0	700:703
+34958264	001	systemic disease	phenotype	0	0	0	264:279
+34944363	001	male ducklings	phenotype	0	0	0	190:203
+34944363	002	body weight	phenotype	0	0	0	242:252,791:801,870:880
+34944363	003	inflammatory response	phenotype	0	0	0	962:982
+34944363	004	TLR4	gene	0	0	0	1145:1148,1291:1294
+34944363	005	growth performance	phenotype	0	0	0	1222:1239
+34944306	001	loss of consciousness	phenotype	0	0	0	260:280,1192:1212
+34944306	002	cranial nerve reflexes	phenotype	0	0	0	339:360
+34944306	003	muscle tension	phenotype	0	0	0	367:380
+34944306	004	neck cut	phenotype	0	0	0	453:460,721:728
+34944306	005	neck pathology	phenotype	0	0	0	607:620
+34944306	006	loss of balance	phenotype	0	0	0	927:941,1097:1111
+34944306	007	neck tension	phenotype	0	0	0	1117:1128
+34944291	001	liver injury	phenotype	0	0	0	392:403
+34944291	002	cytochrome P450	gene	0	0	0	997:1011
+34944291	003	liver damage	phenotype	0	0	0	983:994
+34944291	004	oxidative stress	phenotype	0	0	0	1061:1076,1359:1374
+34944291	005	liver apoptosis	phenotype	0	0	0	1097:1111
+34944291	006	nuclear factor E2	gene	0	0	0	1256:1272
+34944291	007	related factor 2	gene	0	0	0	1274:1289
+34924861	001	2 aquatic plant species	phenotype	0	0	0	658:680
+34924861	002	Nymphaea nouchali and Nymphaea lotus	phenotype	0	0	0	683:718
+34924861	003	porphyria	phenotype	0	0	0	1064:1072
+34923880	001	SCNN1B	gene	0	0	0	68:73,174:179,245:250,68:73,174:179,245:250,68:73,174:179,245:250,345:350,481:486,771:776,898:903,1079:1084,1246:1251,1403:1408,1605:1610,1781:1786,1963:1968,1781:1786,1963:1968,2028:2033
+34923880	002	eggshell strength	phenotype	0	0	0	1302:1318
+34903938	001	bacterial illnesses	phenotype	0	0	0	54:72
+34837623	001	dry weight	phenotype	0	0	0	528:537
+34815022	001	gastrointestinal tract	phenotype	0	0	0	1597:1618
+34815022	002	breast muscle	phenotype	0	0	0	1677:1689
+34804075	001	inflammatory responses	phenotype	0	0	0	1740:1761
+34780047	001	superoxide dismutase A	gene	0	0	0	434:455
+34780047	002	phosphate dehydrogenase	gene	0	0	0	502:524
+34780047	003	clinical condition	phenotype	0	0	0	1096:1113
+34729831	001	destruction of intestinal structure	phenotype	0	0	0	417:451
+34729831	002	oxidative stress	phenotype	0	0	0	454:469
+34729831	003	mitochondrial dysfunction	phenotype	0	0	0	472:496
+34729831	004	inflammatory response	phenotype	0	0	0	499:519
+34729831	005	permeability alteration	phenotype	0	0	0	525:547
+34729831	006	Occludin	gene	0	0	0	739:746
+34729831	007	intestinal dysfunction	phenotype	0	0	0	593:614
+34729831	008	T	gene	0	0	0	962:962,985:985
+34729831	009	CAT	gene	0	0	0	983:985
+34729831	00A	Keap1	gene	0	0	0	1017:1021,1174:1178
+34729831	00B	TLR4	gene	0	0	0	1270:1273
+34729831	00C	TXNIP	gene	0	0	0	1362:1366
+34729831	00D	NLRP3	gene	0	0	0	1369:1373
+34729831	00E	TNF	gene	0	0	0	1468:1470
+34729831	00F	acute ileitis	phenotype	0	0	0	1631:1643
+34677035	001	left pelvic limb lameness	phenotype	0	0	0	280:304
+34677035	002	osteomyelitis	phenotype	0	0	0	566:578
+34677035	003	gastrointestinal foreign	phenotype	0	0	0	994:1017
+34635656	001	type lectin	gene	0	0	0	462:472
+34635656	002	NR2F2	gene	0	0	0	756:760
+34635656	003	adipose deposition	phenotype	0	0	0	846:863
+34582734	001	white noise	phenotype	0	0	0	763:773
+34521392	001	poultry infection	phenotype	0	0	0	204:220
+34474531	001	caging stress	phenotype	0	0	0	142:154,392:404,1835:1847
+34474531	002	oxidative stress	phenotype	0	0	0	514:529
+34474531	003	fatty acids	phenotype	0	0	0	1651:1661
+34468515	001	blood parasites	phenotype	0	0	0	894:908
+34468515	002	Histomonas meleagridis 8	phenotype	0	0	0	1600:1623
+34460868	001	Avian influenza A viruses	phenotype	0	0	0	1:25
+34426624	001	feeding habits	phenotype	0	0	0	664:677
+34421865	001	SE infection	phenotype	0	0	0	297:308,1494:1505
+34421865	002	systemic infection	phenotype	0	0	0	1402:1419
+34421865	003	IL15	gene	0	0	0	1587:1590
+34421865	004	CD40	gene	0	0	0	1593:1596
+34421865	005	CCR7	gene	0	0	0	1603:1606
+34358313	001	helminth parasite infections	phenotype	0	0	0	13:40
+34339137	001	purulent lesions	phenotype	0	0	0	79:94
+34339137	002	osteomyelitis	phenotype	0	0	0	215:227
+34339137	003	hepatic fibriscess	phenotype	0	0	0	258:275
+34339137	004	inflammatory cell inflammation	phenotype	0	0	0	779:808
+34330207	001	Calcium signaling	phenotype	0	0	0	946:962
+34330207	002	IFNAR1	gene	0	0	0	1254:1259
+34330207	003	TLR5	gene	0	0	0	1265:1268
+34323380	001	viral infection	phenotype	0	0	0	840:854
+34323380	002	viral excretion	phenotype	0	0	0	857:871
+34198498	001	ileum injury	phenotype	0	0	0	216:227
+34198498	002	body weight	phenotype	0	0	0	461:471
+34198498	003	ileum damage	phenotype	0	0	0	574:585
+34142323	001	transmembrane pattern recognition receptors	gene	0	0	0	36:78
+34142323	002	velogenic Newcastle disease	phenotype	0	0	0	595:621
+34142323	003	viral infection	phenotype	0	0	0	1619:1633,2066:2080
+34142323	004	NDV infection	phenotype	0	0	0	1716:1728
+34116495	001	glutathione peroxidase	gene	0	0	0	367:388
+34116495	002	cooking loss	phenotype	0	0	0	588:599
+34116495	003	volatile compounds concentration	phenotype	0	0	0	605:636
+34076170	001	turkeys Meleagris gallopavo and grey francolin Francolinus pondicerinus	phenotype	0	0	0	211:281
+34076170	002	egg weight	phenotype	0	0	0	500:509
+34076170	003	egg length	phenotype	0	0	0	512:521,635:644
+34076170	004	higher egg weight	phenotype	0	0	0	616:632
+34076170	005	egg density	phenotype	0	0	0	997:1007,1115:1125
+34031452	001	detecting disease outbreaks	phenotype	0	0	0	256:282
+34031452	002	body temperature	phenotype	0	0	0	572:587
+34031452	003	heart rate	phenotype	0	0	0	590:599
+34020141	001	zinc finger antiviral protein	gene	0	0	0	49:77
+34020141	002	) polymerase	gene	0	0	0	298:309
+34020141	003	transcription factors IRF1	gene	0	0	0	508:533
+34020141	004	IFN	gene	0	0	0	567:569,693:695,812:814
+33997340	001	gastrointestinal tract	phenotype	0	0	0	269:290
+33997340	002	gastrointestinal tract weight	phenotype	0	0	0	637:665
+33997340	003	liver weight	phenotype	0	0	0	1075:1086
+33919914	001	DBP	gene	0	0	0	123:125,830:832,1017:1019
+33919914	002	OPN4	gene	0	0	0	234:237,777:780,1268:1271
+33919914	003	OPN5	gene	0	0	0	243:246,791:794
+33898795	001	cercarial dermatitis	phenotype	0	0	0	81:100
+33849442	001	PNPLA8	gene	0	0	0	1519:1524
+33849442	002	THAP5	gene	0	0	0	1527:1531
+33849442	003	DNAJB9	gene	0	0	0	1538:1543
+33849442	004	ADCYAP1R1	gene	0	0	0	1805:1813
+33849442	005	PDC	gene	0	0	0	1819:1821
+33849442	006	IGF1R	gene	0	0	0	1910:1914
+33849442	007	cell growth	phenotype	0	0	0	1891:1901
+33834927	001	Chlamydia psittaci infection	phenotype	0	0	0	37:64
+33834927	002	shedding dynamics of C. psittaci	phenotype	0	0	0	67:98
+33834927	003	bacterial shedding	phenotype	0	0	0	1524:1541
+33834927	004	duck feeding	phenotype	0	0	0	1994:2005
+33827194	001	Respiratory depression	phenotype	0	0	0	1:22
+33827194	002	anesthetic concentration	phenotype	0	0	0	476:499
+33827194	003	apnea	phenotype	0	0	0	689:693,715:719,689:693,715:719,784:788,1129:1133
+33827194	004	Heart rate	phenotype	0	0	0	803:812
+33827194	005	systolic arterial pressure	phenotype	0	0	0	815:840
+33827194	006	respiratory rate	phenotype	0	0	0	843:858
+33736731	001	intestinal parasites	phenotype	0	0	0	357:376
+33736731	002	cytochrome c oxidase	gene	0	0	0	1434:1453
+33686142	001	clutch initiation dates	phenotype	0	0	0	469:491
+33686142	002	spring temperature	phenotype	0	0	0	1161:1178
+33677537	001	body size	phenotype	0	0	0	1268:1276
+33669581	001	muscle development	phenotype	0	0	0	313:330
+33669581	002	transcription start	gene	0	0	0	1336:1354
+33669581	003	breast muscle	phenotype	0	0	0	1564:1576,1684:1696
+33669581	004	CREBL2	gene	0	0	0	1884:1889
+33669581	005	RHEB	gene	0	0	0	1892:1895
+33669581	006	GDF6	gene	0	0	0	1898:1901
+33669581	007	SHISA2	gene	0	0	0	1904:1909
+33669581	008	MYLK2	gene	0	0	0	1912:1916
+33669581	009	ACTN3	gene	0	0	0	1919:1923
+33669581	00A	RYR3	gene	0	0	0	1926:1929
+33669581	00B	STMN1	gene	0	0	0	1936:1940
+33669581	00C	duck skeletal muscle	phenotype	0	0	0	2339:2358
+33525657	001	prion protein	gene	0	0	0	12:24,59:71,12:24,59:71
+33525657	002	prion disease	phenotype	0	0	0	90:102,114:126,224:236,393:405
+33525657	003	prion diseases	phenotype	0	0	0	224:237
+33525657	004	prion protein gene	gene	0	0	0	441:458
+33525657	005	PRNP	gene	0	0	0	461:464,566:569,1053:1056,1588:1591
+33525657	006	MEGA X	gene	0	0	0	805:810
+33477842	001	sepsis	phenotype	0	0	0	154:159
+33472667	001	hemorrhagic spots	phenotype	0	0	0	106:122
+33472667	002	necrotic foci of the livers and spleens	phenotype	0	0	0	128:166
+33472667	003	box helicase 1	gene	0	0	0	174:187
+33472667	004	DDX1	gene	0	0	0	190:193,297:300,305:308,1415:1418,1500:1503
+33472667	005	viral infection	phenotype	0	0	0	254:268
+33472667	006	RNA virus infection	phenotype	0	0	0	319:337
+33472667	007	NDRV infection	phenotype	0	0	0	363:376,1526:1539
+33472667	008	transcription factors IRF	gene	0	0	0	891:915
+33472667	009	IFN	gene	0	0	0	945:947
+33472667	00A	TLR2	gene	0	0	0	1013:1016
+33472667	00B	TLR3	gene	0	0	0	1019:1022
+33472667	00C	TLR4	gene	0	0	0	1029:1032
+33472667	00D	duck virus infection	phenotype	0	0	0	1600:1619
+33433322	001	Cercarial dermatitis	phenotype	0	0	0	204:223
+33433322	002	cercarial dermatitis	phenotype	0	0	0	1092:1111
+33372351	001	ABCG2	gene	0	0	0	619:623,805:809,1162:1166
+33361418	001	wildlife infectious disease	phenotype	0	0	0	107:133
+33361418	002	Influenza A	phenotype	0	0	0	145:155
+33215508	001	like receptor ( TLR	gene	0	0	0	
+33215508	002	host defence	phenotype	0	0	0	257:268
+33215508	003	viral infection	phenotype	0	0	0	278:292
+33215508	004	TLR3	gene	0	0	0	390:393,521:524,661:664,762:765,887:890,1139:1142,1220:1223,1381:1384
+33215508	005	breast muscle	phenotype	0	0	0	992:1004
+33215508	006	IFN	gene	0	0	0	1269:1271
+33215508	007	IRF7	gene	0	0	0	1279:1282
+33215508	008	STAT1	gene	0	0	0	1295:1299
+33215508	009	STAT2	gene	0	0	0	1305:1309
+33215508	00A	bacterial infections	phenotype	0	0	0	1441:1460
+33207803	001	influenza A	phenotype	0	0	0	34:44
+33207803	002	IA viral	phenotype	0	0	0	963:970
+33207803	003	AI RNA	gene	0	0	0	1938:1943
+33207803	004	IAV infection	phenotype	0	0	0	2658:2670
+33193588	001	Canis lupus familiaris	phenotype	0	0	0	488:509
+33167978	001	acid receptors	gene	0	0	0	356:369
+33167978	002	LPAIV infection	phenotype	0	0	0	1956:1970
+33117797	001	ASIP	gene	0	0	0	252:255,2147:2150,2209:2212
+33117797	002	agouti signal protein	gene	0	0	0	258:278
+33117797	003	melanin deposition	phenotype	0	0	0	665:682
+33117797	004	embryonic white	phenotype	0	0	0	1441:1455
+33117797	005	TYR	gene	0	0	0	1604:1606,1609:1611,2159:2161,2168:2170
+33117797	006	TYRP1	gene	0	0	0	1609:1613,2168:2172
+33117797	007	MLANA	gene	0	0	0	1616:1620
+33117797	008	RAB38	gene	0	0	0	1623:1627
+33117797	009	OCA2	gene	0	0	0	1630:1633
+33117797	00A	TSPAN10	gene	0	0	0	1636:1642
+33117797	00B	MC1R	gene	0	0	0	1645:1648,2153:2156
+33117797	00C	MSLN	gene	0	0	0	1655:1658
+33117797	00D	dorsoventral plumage	phenotype	0	0	0	1822:1841
+33053451	001	TMUV infection	phenotype	0	0	0	1558:1571
+33046566	001	ventilation frequency	phenotype	0	0	0	1581:1601
+33046566	002	systemic development	phenotype	0	0	0	1892:1911
+33005675	001	gastrointestinal parasites	phenotype	0	0	0	204:229
+33005675	002	Syngamus trachea	phenotype	0	0	0	1088:1103
+32989837	001	sperm concentration	phenotype	0	0	0	378:396
+32956594	001	WNT3A	gene	0	0	0	682:686
+32956594	002	NOTCH1	gene	0	0	0	689:694
+32956594	003	SHH	gene	0	0	0	697:699
+32956594	004	BMP2	gene	0	0	0	702:705
+32956594	005	NOG	gene	0	0	0	708:710
+32956594	006	SMAD3	gene	0	0	0	713:717
+32920930	001	TRPV1	gene	0	0	0	670:674
+32920930	002	TRPV2	gene	0	0	0	677:681,1160:1164
+32920930	003	TRPV3	gene	0	0	0	684:688,916:920,1170:1174
+32920930	004	TRPV4	gene	0	0	0	691:695,926:930
+32920930	005	TRPV5	gene	0	0	0	736:740,1000:1004
+32920930	006	TRPV6	gene	0	0	0	746:750
+32609043	001	TLR7	gene	0	0	0	128:131,277:280,412:415,420:423,719:722,750:753,1219:1222
+32609043	002	IFN	gene	0	0	0	1110:1112
+32609043	003	IRF7	gene	0	0	0	1131:1134
+32609043	004	STAT1	gene	0	0	0	1147:1151
+32609043	005	STAT2	gene	0	0	0	1157:1161
+32608095	001	renal ischaemia	phenotype	0	0	0	397:411
+32603233	001	gland weight	phenotype	0	0	0	575:586
+32366736	001	Retinoic acid	gene	0	0	0	213:225
+32366736	002	IFN	gene	0	0	0	1134:1136
+32366736	003	IRF7	gene	0	0	0	1141:1144
+32366736	004	STAT1	gene	0	0	0	1157:1161
+32366736	005	STAT2	gene	0	0	0	1167:1171
+32333043	001	platyrhynchos in the wetland National Park Boujagh	phenotype	0	0	0	352:401
+32184998	001	hens breeding	phenotype	0	0	0	432:444
+32180490	001	Specificity Protein 3	gene	0	0	0	1:21
+32180490	002	SP3	gene	0	0	0	24:26,173:175,180:182,494:496,1233:1235
+32180490	003	bp open reading frame	phenotype	0	0	0	399:419
+32180490	004	viral infections	phenotype	0	0	0	1290:1305
+32088756	001	narrow host	phenotype	0	0	0	790:800
+32076524	001	greater survival	phenotype	0	0	0	1320:1335
+31969057	001	clinical disease	phenotype	0	0	0	728:743
+31952469	001	fatty acid accumulation	phenotype	0	0	0	158:180,280:302,1695:1717
+31952469	002	breast muscle	phenotype	0	0	0	452:464,1901:1913
+31952469	003	fatty acids	phenotype	0	0	0	565:575,826:836,565:575,826:836,1607:1617
+31952469	004	duck breast muscle	phenotype	0	0	0	594:611
+31952469	005	fatty acid	phenotype	0	0	0	1869:1878,1952:1961
+31895644	001	Australapatemon minor	phenotype	0	0	0	1365:1385
+31872482	001	wild black ducks	phenotype	0	0	0	2126:2141
+31779284	001	flaccid paralysis	phenotype	0	0	0	1062:1078
+31770824	001	MAA antigen	gene	0	0	0	994:1004
+31770824	002	duodenal glands	phenotype	0	0	0	1179:1193
+31741265	001	hepatic steatosis	phenotype	0	0	0	39:55,1391:1407
+31741265	002	glucose metabolism	phenotype	0	0	0	163:180,1111:1128,1442:1459
+31741265	003	fatty liver	phenotype	0	0	0	206:216
+31741265	004	glucose transporters	gene	0	0	0	616:635
+31662999	001	transcription factor	gene	0	0	0	27:46
+31662999	002	MITF	gene	0	0	0	49:52,173:176,344:347,487:490,518:521,487:490,518:521,606:609,742:745,1146:1149,1296:1299,1595:1598
+31662999	003	white feather bulbs	phenotype	0	0	0	542:560,855:873
+31662999	004	White feather bulbs	phenotype	0	0	0	1010:1028
+31605424	001	HPAIV infection	phenotype	0	0	0	705:719,895:909
+31556839	001	HP	gene	0	0	0	33:34,110:111,237:238,423:424,559:560,845:846,1027:1028,1161:1162,1027:1028,1161:1162,1560:1561
+31556839	002	LP H5 antigen	gene	0	0	0	1074:1086
+31549541	001	rice breast disease	phenotype	0	0	0	498:516
+31509442	001	fatty acid binding protein	gene	0	0	0	14:39
+31509442	002	fatty acid uptake	phenotype	0	0	0	70:86
+31509442	003	liver weight	phenotype	0	0	0	1326:1337
+31509442	004	body weight	phenotype	0	0	0	1358:1368
+31474416	001	reverse transcriptase	gene	0	0	0	136:156
+31474416	002	CR1	gene	0	0	0	690:692
+31441617	001	TAT	gene	0	0	0	286:287,591:592,806:807,832:833,806:807,832:833,920:921,975:976
+31356812	001	5 receptor	gene	0	0	0	18:27
+31356812	002	MC5R	gene	0	0	0	30:33,256:259,484:487,525:528,559:562,602:605,640:643,703:706,1813:1816,1851:1854
+31356812	003	lipid production	phenotype	0	0	0	124:139
+31331531	001	embryonic mortality	phenotype	0	0	0	342:360,412:430
+31331531	002	egg size	phenotype	0	0	0	603:610
+31331531	003	male embryonic	phenotype	0	0	0	980:993
+31310637	001	body type	phenotype	0	0	0	430:438,1589:1597
+31310637	002	body mass	phenotype	0	0	0	501:509
+31310637	003	group size	phenotype	0	0	0	516:525,705:714,1473:1482,1680:1689
+31269347	001	histocompatibility complex class I	gene	0	0	0	45:78
+31251524	001	ataxia	phenotype	0	0	0	1180:1185,1345:1350
+31237879	001	CYP1B1 CYP19A1	gene	0	0	0	1002:1015
+31077316	001	short reads	phenotype	0	0	0	1100:1110
+31049835	001	intestinal injury	phenotype	0	0	0	307:323,2901:2917
+31049835	002	duodenal libraries	phenotype	0	0	0	1870:1887
+31049835	003	jejunal libraries	phenotype	0	0	0	1916:1932
+31049835	004	lean reads	phenotype	0	0	0	1856:1865,1902:1911,1950:1959
+31049835	005	ileal libraries	phenotype	0	0	0	1964:1978
+31046421	001	Tumour necrosis factor receptor	gene	0	0	0	4:34
+31046421	002	factor 3	gene	0	0	0	47:54
+31046421	003	TRAF3	gene	0	0	0	57:61,192:196,201:205,260:264,192:196,201:205,260:264,951:955,1272:1276
+31046421	004	interferon ( IFN	gene	0	0	0	
+31046421	005	IFN	gene	0	0	0	961:963
+31046421	006	peripheral blood mononuclear cells	phenotype	0	0	0	888:921
+31016183	001	SERPINA1	gene	0	0	0	1:8,182:189,1237:1244,1378:1385
+31016183	002	serine protease	gene	0	0	0	25:39
+31016183	003	viral infection	phenotype	0	0	0	222:236
+31016183	004	du SERPINA1	gene	0	0	0	610:620,732:742,1077:1087
+30993577	001	breast muscle	phenotype	0	0	0	441:453
+30986433	001	IFN	gene	0	0	0	833:835
+30986433	002	duck plague virus infections	phenotype	0	0	0	1349:1376
+30968708	001	TNNI1	gene	0	0	0	41:45,241:245,337:341,630:634,690:694,1597:1601,1730:1734
+30968708	002	transcription factor	gene	0	0	0	1438:1457
+30968708	003	Sp1	gene	0	0	0	1483:1485
+30968708	004	Myc	gene	0	0	0	1490:1492
+30961809	001	duck amyloidosis	phenotype	0	0	0	63:78
+30961809	002	amyloidosis	phenotype	0	0	0	231:241,770:780,789:799
+30961809	003	TNF	gene	0	0	0	359:361,862:864
+30961809	004	SAA2	gene	0	0	0	373:376,876:879
+30961809	005	amyloid proteins	gene	0	0	0	556:571
+30961809	006	AA amyloidosis	phenotype	0	0	0	786:799
+30961809	007	secondary amyloidosis	phenotype	0	0	0	960:980
+30941418	001	embryonic development	phenotype	0	0	0	203:223,679:699,1138:1158
+30845667	001	gastrointestinal parasites	phenotype	0	0	0	704:729
+30845667	002	parasitic diseases	phenotype	0	0	0	1271:1288
+30794961	001	breast muscle oxidative damage	phenotype	0	0	0	540:569
+30794961	002	oxidative damage	phenotype	0	0	0	1126:1141,1494:1509
+30794961	003	oxidative stress	phenotype	0	0	0	1381:1396
+30701142	001	SE infection	phenotype	0	0	0	347:358,917:928,2061:2072
+30701142	002	tissue lesions	phenotype	0	0	0	675:688
+30701142	003	bacterial shedding	phenotype	0	0	0	795:812
+30701142	004	CD4	gene	0	0	0	1210:1212
+30701142	005	TLR2	gene	0	0	0	1455:1458,1476:1479
+30701142	006	TLR4	gene	0	0	0	1461:1464
+30701142	007	NOD1	gene	0	0	0	1504:1507
+30701142	008	NLRX1	gene	0	0	0	1510:1514
+30701142	009	NLRP12	gene	0	0	0	1517:1522
+30701142	00A	IFN	gene	0	0	0	1609:1611
+30701142	00B	TLR3	gene	0	0	0	1721:1724
+30701142	00C	TLR7	gene	0	0	0	1727:1730
+30701142	00D	NLRC3	gene	0	0	0	1733:1737
+30701142	00E	NLRC5	gene	0	0	0	1740:1744
+30701142	00F	TNF	gene	0	0	0	1751:1753
+30701142	00G	egg production	phenotype	0	0	0	1851:1864
+30634898	001	influenza A virus infections	phenotype	0	0	0	423:450
+30634898	002	A virus	phenotype	0	0	0	1411:1417
+30634898	003	influenza A virus infection	phenotype	0	0	0	1697:1723
+30624718	001	heme oxygenase 1	gene	0	0	0	399:414
+30624718	002	HMOX1	gene	0	0	0	417:421,640:644
+30624718	003	duck shell gland	phenotype	0	0	0	427:442
+30624718	004	5 - aminolevulinate synthase 1	gene	0	0	0	
+30624718	005	nuclear factor	gene	0	0	0	915:928
+30624718	006	period circadian clock 2	gene	0	0	0	954:977
+30624718	007	shell gland	phenotype	0	0	0	1041:1051
+30624718	008	solute carrier family 13 member 5	gene	0	0	0	1125:1157
+30624718	009	formation of blue egg	phenotype	0	0	0	1183:1203,1397:1417
+30624718	00A	ALAS1	gene	0	0	0	1364:1368
+30595026	001	white plumage	phenotype	0	0	0	44:56
+30595026	002	Associated Transcription Factor	gene	0	0	0	399:429
+30595026	003	MITF	gene	0	0	0	432:435,559:562,733:736
+30425731	001	genetic diseases	phenotype	0	0	0	57:72
+30425731	002	energy metabolism	phenotype	0	0	0	1620:1636
+30382421	001	embryonic development	phenotype	0	0	0	565:585
+30381731	001	expressed antimicrobial peptide 2	gene	0	0	0	60:92
+32175449	001	heat stress	phenotype	0	0	0	33:43,729:739,806:816,884:894,729:739,806:816,884:894,729:739,806:816,884:894,2534:2544
+32175449	002	lower blood homeostasis	phenotype	0	0	0	79:101
+32175449	003	stress hormones	phenotype	0	0	0	300:314
+32175449	004	aspartate aminotransferase	gene	0	0	0	1246:1271
+32175449	005	alanine aminotransferase	gene	0	0	0	1284:1307
+32175449	006	HCO 3	gene	0	0	0	1899:1903
+32175449	007	T	gene	0	0	0	1911:1911
+32175449	008	PO 2	gene	0	0	0	2040:2043
+30349536	001	pyrin domain containing 3	gene	0	0	0	67:91
+30349536	002	NLRP3	gene	0	0	0	94:98,938:942,1003:1007
+30349536	003	host innate immunity	phenotype	0	0	0	155:174
+30349536	004	TNF	gene	0	0	0	1199:1201,1723:1725
+30349536	005	APEC infection	phenotype	0	0	0	1243:1256
+30349536	006	coli infection	phenotype	0	0	0	1551:1564,1875:1888
+30349536	007	inflammatory response	phenotype	0	0	0	1990:2010
+30337766	001	AIV infection	phenotype	0	0	0	378:390,978:990,1223:1235,1385:1397,1223:1235,1385:1397
+30337766	002	susceptibility to infection	phenotype	0	0	0	747:773
+30337766	003	influenza virus infection	phenotype	0	0	0	1806:1830
+30311520	001	swelling	phenotype	0	0	0	142:149
+30311520	002	traumatic injury to the upper	phenotype	0	0	0	181:209
+30311520	003	left eye	phenotype	0	0	0	395:402
+30311520	004	cyst redeveloped	phenotype	0	0	0	1009:1024
+30311520	005	cyst formation	phenotype	0	0	0	1369:1382
+30311520	006	adnexal injury	phenotype	0	0	0	1390:1403
+30311520	007	intraorbital cysts	phenotype	0	0	0	1745:1762
+30305481	001	transmembrane and immunoglobulin domain containing 1	gene	0	0	0	146:197
+30300504	001	type I polyketide synthases	gene	0	0	0	11:37
+30300504	002	acyl carrier protein	gene	0	0	0	257:276
+30300504	003	fatty acid synthases	phenotype	0	0	0	1001:1020
+30291502	001	cutaneous lesions	phenotype	0	0	0	79:95
+30187087	001	histocompatibility complex class I	gene	0	0	0	7:40
+30173341	001	digenean spermatozoa type	phenotype	0	0	0	580:604
+30159217	001	cell proliferation	phenotype	0	0	0	115:132
+30159217	002	vascular inhibition	phenotype	0	0	0	909:927,1137:1155
+30159217	003	vascular damage	phenotype	0	0	0	986:1000
+30118893	001	Blood serum	phenotype	0	0	0	719:729
+30053696	001	type II and III	phenotype	0	0	0	734:748
+30038859	001	Smew Mergellus albellus and Goosander Mergus merganser	phenotype	0	0	0	613:666
+30038859	002	Great Crested Grebe Podiceps cristatus and Eurasian Coot Fulica atra	phenotype	0	0	0	886:953
+30038859	003	Eurasian Teal Anas crecca and Garganey Spatula querquedula	phenotype	0	0	0	1149:1206
+29981515	001	death of	phenotype	0	0	0	202:209
+29981515	002	infection intensity	phenotype	0	0	0	585:603,1019:1037
+29981515	003	Intestinal helminths	phenotype	0	0	0	739:758
+29971756	001	duck spleen	phenotype	0	0	0	125:135,1239:1249
+29971756	002	periellipsoidal lymphatic sheaths	phenotype	0	0	0	561:593
+29971756	003	periarteriolar lymphatic sheaths	phenotype	0	0	0	631:662
+29971756	004	splenic nodules	phenotype	0	0	0	675:689
+29948159	001	heart rate	phenotype	0	0	0	222:231,764:773,851:860,1018:1027
+29948159	002	blood pressure	phenotype	0	0	0	237:250
+29948159	003	stage embryonic	phenotype	0	0	0	306:320
+29948159	004	arterial blood pressure	phenotype	0	0	0	1085:1107,1157:1179
+29948159	005	cardiovascular regulation	phenotype	0	0	0	1389:1413
+29945164	001	primer extension	phenotype	0	0	0	69:84
+29904657	001	LPAI infection	phenotype	0	0	0	462:475
+29773616	001	acute septicemia	phenotype	0	0	0	129:144
+29771917	001	transcription factors	gene	0	0	0	117:137
+29771917	002	peroxisome proliferator activated receptor gamma	gene	0	0	0	897:944
+29771917	003	enhancer binding protein	gene	0	0	0	965:988
+29771917	004	adipocyte fatty acid binding protein 4	gene	0	0	0	1010:1047
+29771917	005	FABP4	gene	0	0	0	1050:1054
+29771917	006	fatty acid synthetase	gene	0	0	0	1062:1082
+29771917	007	FAS	gene	0	0	0	1085:1087
+29771917	008	lipid production	phenotype	0	0	0	1255:1270
+29742160	001	slower embryonic development	phenotype	0	0	0	281:308
+29742160	002	limb primordia	phenotype	0	0	0	1209:1222
+29720294	001	peroxisome proliferator - activated receptor gamma	gene	0	0	0	
+29720294	002	PPARG	gene	0	0	0	94:98,597:601,1102:1106
+29720294	003	hepatic steatosis	phenotype	0	0	0	203:219,260:276,542:558
+29720294	004	'adipogenic hepatic steatosis	phenotype	0	0	0	248:276
+29720294	005	genetic obese	phenotype	0	0	0	342:354
+29720294	006	adipose tissues	phenotype	0	0	0	740:754
+29720294	007	binding protein 4	gene	0	0	0	1123:1139
+29720294	008	leptin receptor	gene	0	0	0	1179:1193
+29720294	009	adipose tissue	phenotype	0	0	0	1296:1309
+29720294	00A	fatty liver	phenotype	0	0	0	1327:1337,1437:1447,1327:1337,1437:1447
+29707734	001	Newcastle disease	phenotype	0	0	0	43:59
+29698066	001	Ligament damage	phenotype	0	0	0	59:73
+29698066	002	traumatic injury	phenotype	0	0	0	127:142
+29698066	003	growth deformities	phenotype	0	0	0	147:164
+29698066	004	effusive swelling	phenotype	0	0	0	370:386
+29698066	005	rupture of the medial collateral ligament	phenotype	0	0	0	605:645
+29698066	006	bone tunnels	phenotype	0	0	0	688:699
+29698066	007	collateral ligament rupture in this joint of ducks	phenotype	0	0	0	1034:1083
+29684538	001	enhancer binding protein alpha	gene	0	0	0	7:36
+29684538	002	low complexity	phenotype	0	0	0	389:402
+29684538	003	lipid accumulation	phenotype	0	0	0	972:989
+29684538	004	lipid metabolism	phenotype	0	0	0	1056:1071,1485:1500
+29684538	005	fatty acid desaturation	phenotype	0	0	0	1194:1216
+29684538	006	fatty acid elongation	phenotype	0	0	0	1306:1326
+29670093	001	poultry disease	phenotype	0	0	0	59:73
+29670093	002	clinical disease	phenotype	0	0	0	1152:1167
+29670093	003	systemic disease	phenotype	0	0	0	1275:1290
+29670093	004	decreased disease	phenotype	0	0	0	1529:1545
+29651281	001	bacterial gastroenteritis	phenotype	0	0	0	46:70
+29651281	002	bacterial survival	phenotype	0	0	0	522:539
+29651281	003	wild host	phenotype	0	0	0	853:861
+29620470	001	multifocal nonsuppurative encephalomyelitis	phenotype	0	0	0	738:780
+29620470	002	myocarditis	phenotype	0	0	0	783:793
+29620470	003	myositis	phenotype	0	0	0	796:803
+29575915	001	egg white transfer	phenotype	0	0	0	14:31,225:242,1051:1068
+29575915	002	follow egg white transfer	phenotype	0	0	0	465:489
+29575915	003	transferred egg white	phenotype	0	0	0	1147:1167
+29557225	001	TNNI1	gene	0	0	0	1:5,140:144,199:203,680:684,861:865,1065:1069,1121:1125,1065:1069,1121:1125
+29535295	001	WNV infection	phenotype	0	0	0	876:888
+29517403	001	The open reading frame	phenotype	0	0	0	485:506
+29407578	001	retinoic acid inducible gene 1	gene	0	0	0	592:621
+29407578	002	viral infection	phenotype	0	0	0	1398:1412
+29242677	001	host mortality	phenotype	0	0	0	31:44
+29242677	002	conjunctivitis	phenotype	0	0	0	645:658,1395:1408
+29242677	003	MG infection	phenotype	0	0	0	1216:1227,1420:1431
+29211883	001	breast muscle	phenotype	0	0	0	484:496
+29211883	002	Body weight	phenotype	0	0	0	565:575
+29211883	003	carcass weight	phenotype	0	0	0	586:599
+29211883	004	male symbol	phenotype	0	0	0	788:798,813:823,883:893,908:918,957:967,982:992,1015:1025,1039:1049,788:798,813:823,883:893,908:918,957:967,982:992,1015:1025,1039:1049,1102:1112,1123:1133,1163:1173,1186:1196,1300:1310,1326:1336,1387:1397,1413:1423,1479:1489,1503:1513,1300:1310,1326:1336,1387:1397,1413:1423,1479:1489,1503:1513,1300:1310,1326:1336,1387:1397,1413:1423,1479:1489,1503:1513
+29211883	005	fatty acids	gene	0	0	0	1261:1271,1356:1366,1446:1456
+29211883	006	fatty acids	phenotype	0	0	0	1261:1271,1356:1366,1446:1456,1261:1271,1356:1366,1446:1456
+29211883	007	cooking loss	phenotype	0	0	0	1701:1712
+29157881	001	middle ear pressure	phenotype	0	0	0	229:247,518:536,909:927,1030:1048,1122:1140,909:927,1030:1048,1122:1140,909:927,1030:1048,1122:1140,1211:1229,1537:1555,1686:1704
+29157881	002	avian middle ear	phenotype	0	0	0	456:471
+29157881	003	pharyngotympanic tube	phenotype	0	0	0	567:587,1453:1473,2053:2073
+29157881	004	deformations of the chicken	phenotype	0	0	0	639:665
+29157881	005	middle ear structures	phenotype	0	0	0	694:714
+29157881	006	middle ear pressure alterations	phenotype	0	0	0	732:762
+29157881	007	ambient pressure	phenotype	0	0	0	1270:1285
+29157881	008	middle ear venting	phenotype	0	0	0	1657:1674
+29157881	009	avian middle	phenotype	0	0	0	1885:1896
+29157282	001	transcription unit	gene	0	0	0	511:528
+29157282	002	cytochrome b	gene	0	0	0	1040:1051
+29157282	003	nicotinamide dehydrogenase subunit 1	gene	0	0	0	1060:1095
+29157282	004	cytochrome c oxidase subunit 1	gene	0	0	0	1108:1137
+29139147	001	salivary glands	phenotype	0	0	0	125:139
+29139147	002	entoglossal cartilage	phenotype	0	0	0	1125:1145,1518:1538
+29139147	003	basibranchial bone	phenotype	0	0	0	1151:1168
+28992055	001	fungal infection	phenotype	0	0	0	20:35
+28992055	002	fungal pneumonia	phenotype	0	0	0	175:190
+28968179	001	tree sparrow Passer montanus	phenotype	0	0	0	810:837
+28964597	001	version 1.2	gene	0	0	0	118:128
+28899357	001	green eggshell color	phenotype	0	0	0	28:47
+28899357	002	laying white eggs	phenotype	0	0	0	473:489
+28899357	003	cholesterol contents	phenotype	0	0	0	1901:1920
+28878764	001	II ) transactivator	gene	0	0	0	
+28878764	002	CIITA	gene	0	0	0	68:72
+28878764	003	inflammatory cytokine production	phenotype	0	0	0	1302:1333
+28874792	001	HP H5N1	gene	0	0	0	1319:1325
+28837606	001	influenza A virus	phenotype	0	0	0	15:31
+28837606	002	IAV infection	phenotype	0	0	0	499:511
+28782536	001	opsin 5	gene	0	0	0	288:294,1481:1487
+28782536	002	opsin 2	gene	0	0	0	1519:1525
+28782536	003	tyrosine hydroxylase	gene	0	0	0	1611:1630
+28701165	001	skin infections	phenotype	0	0	0	865:879
+28701165	002	sexual weakness	phenotype	0	0	0	885:899
+28701165	003	Lepus nigricollis dayanus and Ovis aries	phenotype	0	0	0	1071:1110
+28701165	004	Gallus gallus and Passer domesticus	phenotype	0	0	0	1191:1225
+28674235	001	stimulating hormone	gene	0	0	0	10:28
+28674235	002	FSHR	gene	0	0	0	243:246,392:395,438:441,392:395,438:441,522:525,657:660,752:755,958:961,1208:1211
+28627759	001	PBDE 47	gene	0	0	0	1799:1805
+28627759	002	PCB 153	gene	0	0	0	1811:1817
+28627759	003	ATR	gene	0	0	0	2352:2354
+28606119	001	gastrointestinal diseases	phenotype	0	0	0	43:67
+28434758	001	wing chord length	phenotype	0	0	0	858:874
+28434758	002	phallus length	phenotype	0	0	0	969:982
+28434758	003	CYP2H1	gene	0	0	0	1129:1134
+28424047	001	fatty liver proteins	gene	0	0	0	612:631
+28424047	002	fatty liver	phenotype	0	0	0	575:585,612:622,2095:2105
+28424047	003	fatty acid synthase	gene	0	0	0	1008:1026
+28424047	004	apolipoprotein A1	gene	0	0	0	1152:1168
+28424047	005	glutamate dehydrogenase	gene	0	0	0	1813:1835,1922:1944
+28424047	006	glutamate dehydrogenase 1	gene	0	0	0	1922:1946
+28424047	007	blood level of glucose	phenotype	0	0	0	1720:1741
+28424047	008	increased glucose absorption	phenotype	0	0	0	1871:1898
+28423047	001	IAV infection	phenotype	0	0	0	374:386,895:907
+28423047	002	body weight	phenotype	0	0	0	708:718,796:806
+28423047	003	body weight class	phenotype	0	0	0	796:812
+28423047	004	body condition	phenotype	0	0	0	1363:1376
+28411463	001	lactate dehydrogenase	gene	0	0	0	952:972
+28411463	002	argininosuccinate lyase	gene	0	0	0	1038:1060
+28411463	003	ASL	gene	0	0	0	1063:1065
+28411463	004	amide I	gene	0	0	0	1256:1262,1286:1292,1410:1416,1438:1444,1256:1262,1286:1292,1410:1416,1438:1444
+28411463	005	amide III	phenotype	0	0	0	1256:1264,1410:1418
+28370610	001	embryonic blood	phenotype	0	0	0	1282:1296
+28341929	001	anteriorly located ovary and testes	phenotype	0	0	0	1022:1056
+28341929	002	posteriorly located ovary	phenotype	0	0	0	1271:1295
+28341929	003	angle spines	phenotype	0	0	0	1604:1615
+28341929	004	body length	phenotype	0	0	0	1738:1748
+28341929	005	body size	phenotype	0	0	0	2016:2024
+28277035	001	Pb deposits	phenotype	0	0	0	673:683,975:985
+28277035	002	deterioration of mitochondria	phenotype	0	0	0	749:777
+28198082	001	Phosphoenolpyruvate carboxykinase 1	gene	0	0	0	1:35
+28198082	002	PCK1	gene	0	0	0	48:51,221:224,322:325,987:990,1063:1066,1274:1277,1063:1066,1274:1277,1364:1367,1545:1548,1660:1663,1545:1548,1660:1663
+28198082	003	Jinyun Pockmark ducks and Cherry Valley ducks	phenotype	0	0	0	395:439
+28198082	004	triglyceride level	phenotype	0	0	0	658:675
+28198082	005	FBP1	gene	0	0	0	903:906
+28198082	006	FBP2	gene	0	0	0	912:915
+28198082	007	G6PC2	gene	0	0	0	954:958
+28198082	008	forkhead box A2	gene	0	0	0	1079:1093
+28198082	009	FOXA2	gene	0	0	0	1096:1100
+28198082	00A	NR4A1	gene	0	0	0	1155:1159
+28198082	00B	NR4A2	gene	0	0	0	1162:1166
+28198082	00C	NR4A3	gene	0	0	0	1172:1176
+28198082	00D	glucose homeostasis	phenotype	0	0	0	1586:1604
+28174080	001	loss modulus	phenotype	0	0	0	769:780
+28170210	001	poor immunological status	phenotype	0	0	0	120:144
+28170210	002	parasitic infections	phenotype	0	0	0	994:1013
+28107070	001	acute respiratory distress	phenotype	0	0	0	91:116
+28107070	002	head shaking	phenotype	0	0	0	119:130
+28107070	003	poor prognosis	phenotype	0	0	0	293:306
+28107070	004	tracheal collapse	phenotype	0	0	0	372:388,874:890
+28107070	005	osseous metaplasia of the cartilage	phenotype	0	0	0	732:766
+28107070	006	lymphocytic infiltration	phenotype	0	0	0	802:825
+27995135	001	virus infection	phenotype	0	0	0	151:165
+27995135	002	tripartite motif containing 25	gene	0	0	0	172:201
+27995135	003	TRIM25	gene	0	0	0	213:218,342:347,453:458,742:747,776:781,813:818,742:747,776:781,813:818,742:747,776:781,813:818,821:826,918:923,1250:1255
+27995135	004	IFN	gene	0	0	0	965:967,982:984,1003:1005,965:967,982:984,1003:1005,965:967,982:984,1003:1005
+27921292	001	cranial kinesis	phenotype	0	0	0	24:38,2108:2122,2451:2465
+27921292	002	behavioral features	phenotype	0	0	0	193:211
+27921292	003	craniofacial hinge	phenotype	0	0	0	1301:1318
+27921292	004	articular cartilage	phenotype	0	0	0	1514:1532
+27921292	005	fibrous capsule	phenotype	0	0	0	1591:1605
+27921292	006	secondary articular cartilage	phenotype	0	0	0	2182:2210
+27844479	001	ALB	gene	0	0	0	13:15,1548:1550
+27844479	002	transcription factor	gene	0	0	0	990:1009
+27844479	003	hepatocyte nuclear factor	gene	0	0	0	1039:1063
+27844479	004	nuclear factor	gene	0	0	0	1050:1063,1158:1171
+27836493	001	crowding stress	phenotype	0	0	0	752:766
+27805842	001	viable parasites	phenotype	0	0	0	1119:1134
+27373315	001	ataxia	phenotype	0	0	0	335:340
+27373315	002	dorsal recumbency	phenotype	0	0	0	346:362
+27373315	003	RA infection	phenotype	0	0	0	425:436
+27373315	004	heterophilic pericarditis	phenotype	0	0	0	453:477
+27373315	005	ventriculitis and meningitis	phenotype	0	0	0	510:537
+27004808	001	genetic distance	phenotype	0	0	0	532:547
+27736234	001	cerebellar disease	phenotype	0	0	0	114:131
+27736234	002	microphthalmia	phenotype	0	0	0	164:177
+27736234	003	erratic head movements	phenotype	0	0	0	180:201
+27736234	004	ataxia	phenotype	0	0	0	208:213
+27736234	005	bone defects	phenotype	0	0	0	302:313
+27736234	006	cerebral cyst	phenotype	0	0	0	543:555
+27736234	007	poor prognosis	phenotype	0	0	0	784:797
+27726904	001	decreased sperm viability	phenotype	0	0	0	737:761
+27726904	002	Plasma aminotransferase	gene	0	0	0	974:996
+27726904	003	alanine aminotransferase	gene	0	0	0	1008:1031
+27726904	004	Plasma testosterone concentrations	phenotype	0	0	0	1114:1147
+27726904	005	dilated seminiferous tubules	phenotype	0	0	0	1345:1372
+27702920	001	Heat stress	phenotype	0	0	0	1:11
+27702920	002	heat stress	phenotype	0	0	0	254:264,709:719,1332:1342,1462:1472
+27702920	003	body weight gain	phenotype	0	0	0	656:671
+27702920	004	fatty acids	phenotype	0	0	0	1121:1131
+27702920	005	heat stress conditions	phenotype	0	0	0	1187:1208
+27702920	006	body weight	phenotype	0	0	0	1542:1552
+27695931	001	gastrointestinal tract	phenotype	0	0	0	255:276
+27638121	001	flaccid paralysis	phenotype	0	0	0	168:184
+27638121	002	WNV infection	phenotype	0	0	0	435:447
+27638121	003	JEV infection	phenotype	0	0	0	1362:1374
+27610730	001	avium infection	phenotype	0	0	0	320:334
+27561967	001	asymmetrical contests	phenotype	0	0	0	286:306
+27561967	002	ovarian follicle maturation	phenotype	0	0	0	1120:1146
+27531612	001	PPIA	gene	0	0	0	421:423,511:513,421:423,511:513,561:563
+27524825	001	disruption of microbial membranes	phenotype	0	0	0	408:440
+27520070	001	egg weight increased	phenotype	0	0	0	367:386
+27520070	002	egg length	phenotype	0	0	0	1077:1086,1507:1516
+27520070	003	egg weight	phenotype	0	0	0	1254:1263,1371:1380,1439:1448,1371:1380,1439:1448
+27520070	004	body weight	phenotype	0	0	0	1290:1300,1386:1396
+27520070	005	egg shell thickness	phenotype	0	0	0	1579:1597
+27469959	001	Newcastle disease	phenotype	0	0	0	60:76
+27449955	001	short beak	phenotype	0	0	0	103:112
+27449955	002	growth retardation	phenotype	0	0	0	125:142
+27449955	003	duck short beak	phenotype	0	0	0	230:244
+27449955	004	dwarfism syndrome	phenotype	0	0	0	250:266
+32908388	001	normal morphology	phenotype	0	0	0	67:83
+32908388	002	plasma membrane integrity	phenotype	0	0	0	90:114
+32908388	003	early embryonic mortality	phenotype	0	0	0	606:630
+32908388	004	survival embryo rate	phenotype	0	0	0	646:665
+27430716	001	TAP1	gene	0	0	0	519:522
+27430716	002	TAP2	gene	0	0	0	524:527,588:591,524:527,588:591
+27430716	003	genetic defects	phenotype	0	0	0	964:978
+27387535	001	increased growth rate	phenotype	0	0	0	23:43
+27387535	002	muscle mass	phenotype	0	0	0	49:59
+27387535	003	mobility issues	phenotype	0	0	0	105:119
+27387535	004	poor gait	phenotype	0	0	0	125:133
+27387535	005	gait problems	phenotype	0	0	0	281:293
+27387535	006	breast muscle mass	phenotype	0	0	0	613:630
+27342841	001	TAP2	gene	0	0	0	748:751,811:814,748:751,811:814
+27340332	001	lingual combs	phenotype	0	0	0	795:807
+27314852	001	adaptive policies	phenotype	0	0	0	953:969
+27309073	001	HPAIV infection	phenotype	0	0	0	325:339
+27309057	001	hemagglutination inhibition	phenotype	0	0	0	1292:1318
+27260395	001	trypsin cDNAs	gene	0	0	0	463:475
+27260395	002	trypsin I	gene	0	0	0	586:594
+27188826	001	gastrointestinal tract	phenotype	0	0	0	378:399
+29988198	001	Parasitic infection	phenotype	0	0	0	1:19
+29988198	002	shaped effracter	phenotype	0	0	0	1073:1088
+29988198	003	male genitalia	phenotype	0	0	0	1097:1110
+27175180	001	cytochrome b	gene	0	0	0	525:536,1257:1268
+27175180	002	CLC	gene	0	0	0	669:671
+27175180	003	coturnix and	phenotype	0	0	0	1130:1141
+27175180	004	Meleagris gallopavo and Columba livia	phenotype	0	0	0	1162:1198
+27115519	001	MLH1	gene	0	0	0	85:88,393:396,569:572
+27115519	002	synaptonemal complexes	phenotype	0	0	0	216:237
+27115519	003	meiotic nuclei	phenotype	0	0	0	246:259
+27064738	001	Myocyte enhancer transcription factor 2D	gene	0	0	0	1:40
+27064738	002	MEF2D	gene	0	0	0	43:47,205:209,348:352,402:406,561:565,627:631,561:565,627:631,759:763,810:814,844:848,810:814,844:848,1367:1371,1466:1470,1367:1371,1466:1470
+27064738	003	transcription factor	gene	0	0	0	18:37,66:85
+27064738	004	the growth and development of muscle	phenotype	0	0	0	101:136
+27044589	001	neuropeptide Y	gene	0	0	0	69:82
+27044589	002	NPY	gene	0	0	0	85:87,455:457,897:899,987:989,1546:1548,1700:1702,2236:2238
+27044589	003	GAL	gene	0	0	0	103:105,463:465,845:847,996:998,1902:1904,2245:2247
+27044589	004	pterygopalatine ganglion	phenotype	0	0	0	474:497
+27044589	005	facial nerve	phenotype	0	0	0	1358:1369
+27044589	006	lacrimal gland	phenotype	0	0	0	2443:2456
+27040525	001	binding motif proteins 24	gene	0	0	0	5:29
+27040525	002	MEF2C	gene	0	0	0	1303:1307
+27040525	003	MEF2A	gene	0	0	0	1369:1373
+27040525	004	myoblast differentiation	phenotype	0	0	0	1587:1610
+27040525	005	muscle development	phenotype	0	0	0	1625:1642
+26998334	001	IAV infection	phenotype	0	0	0	552:564
+26998334	002	LPAIV infection	phenotype	0	0	0	1102:1116
+26957635	001	duck egg white	phenotype	0	0	0	541:554,756:769
+26957635	002	extracellular fatty acid	gene	0	0	0	834:857
+26957635	003	binding protein precursor	gene	0	0	0	859:883
+26957635	004	prostaglandin D2 synthase	gene	0	0	0	900:924
+26957635	005	PG D2 synthase	gene	0	0	0	927:940
+26957635	006	deleted in malignant brain tumors 1	gene	0	0	0	1008:1042
+26957635	007	DMBT1	gene	0	0	0	1054:1058
+26957635	008	cell defense	phenotype	0	0	0	1245:1256
+26957635	009	embryonic development	phenotype	0	0	0	1287:1307
+26908889	001	Yolk fertility	phenotype	0	0	0	462:475
+26908889	002	yolk size	phenotype	0	0	0	545:553
+26896549	001	heart ventricle mass	phenotype	0	0	0	527:546
+26896549	002	body mass	phenotype	0	0	0	1036:1044
+26896549	003	cardiac ventricles	phenotype	0	0	0	1401:1418
+26886224	001	GAPDH	gene	0	0	0	580:584,1176:1180
+26886224	002	gastrointestinal tract	phenotype	0	0	0	1127:1148
+26886224	003	pathogen infection	phenotype	0	0	0	1712:1729
+26862514	001	skeletal system	phenotype	0	0	0	393:407
+26861074	001	lipid metabolism	phenotype	0	0	0	1080:1095
+26861074	002	OTX2	gene	0	0	0	1175:1178
+26861074	003	lecithin : cholesterol acyltransferase	gene	0	0	0	
+26861074	004	LCAT	gene	0	0	0	1223:1226
+26861074	005	apolipoprotein A	gene	0	0	0	1398:1413
+26861074	006	APOA1	gene	0	0	0	1418:1422
+26824840	001	body size	phenotype	0	0	0	394:402
+26824796	001	Newcastle disease virus	phenotype	0	0	0	87:109
+26824796	002	Newcastle disease enzootic	phenotype	0	0	0	898:923
+26819540	001	TCF7L2	gene	0	0	0	1128:1133
+26819540	002	EIF2AK3	gene	0	0	0	1136:1142
+26819540	003	ELOVL2	gene	0	0	0	1145:1150
+26819540	004	binding protein family	gene	0	0	0	1168:1189
+26818053	001	oxygen consumption	phenotype	0	0	0	411:428
+26818053	002	hypercapnia	phenotype	0	0	0	589:599,1063:1073,1166:1176,1291:1301
+26782512	001	Tyrosinase	gene	0	0	0	1:10
+26782512	002	TYR	gene	0	0	0	28:30
+26782512	003	Liancheng white ducks	phenotype	0	0	0	222:242
+26782512	004	transcription factor	gene	0	0	0	668:687
+26690963	001	hepatic steatosis	phenotype	0	0	0	754:770
+26690963	002	methionine deficiency	phenotype	0	0	0	1229:1249
+26690963	003	weight gain	phenotype	0	0	0	1313:1323,1602:1612
+26690963	004	abdominal fat weight	phenotype	0	0	0	1360:1379
+26690963	005	triglyceride contents	phenotype	0	0	0	1408:1428
+26690963	006	body weight	phenotype	0	0	0	1561:1571,1658:1668,1675:1685,1561:1571,1658:1668,1675:1685,1561:1571,1658:1668,1675:1685
+26690963	007	liver weight	phenotype	0	0	0	1752:1763
+26690963	008	lipid metabolism	phenotype	0	0	0	1941:1956
+26648768	001	IgG A	gene	0	0	0	583:587
+26648768	002	IgG B	gene	0	0	0	590:594
+26648768	003	IgG C	gene	0	0	0	597:601
+26634762	001	Newcastle disease	phenotype	0	0	0	50:66
+26631753	001	cercarial dermatitis	phenotype	0	0	0	119:138
+26631753	002	dwelling schistosomes of water birds	phenotype	0	0	0	217:252
+26631753	003	cytochrome oxidase1	gene	0	0	0	1688:1706
+26630129	001	developmental stage	phenotype	0	0	0	856:874
+26587783	001	LEP	gene	0	0	0	127:129,662:664,919:921,948:950,1132:1134,1140:1142
+26587783	002	mammalian energy balance	phenotype	0	0	0	67:90
+26587783	003	energy balance	phenotype	0	0	0	843:856
+26587783	004	embryonic development	phenotype	0	0	0	869:889
+26587783	005	leptin receptor	gene	0	0	0	931:945
+26587783	006	LEPR	gene	0	0	0	948:951,1140:1143
+26576729	001	growth rate	phenotype	0	0	0	1233:1243
+26551027	001	oxidative stress	phenotype	0	0	0	445:460,549:564,445:460,549:564,1245:1260
+26551027	002	immune response	phenotype	0	0	0	463:477
+26551027	003	blood Pb concentration	phenotype	0	0	0	900:921
+26551027	004	hemolytic activity	phenotype	0	0	0	1064:1081
+26436390	001	Pax7	gene	0	0	0	334:337,499:502,334:337,499:502,760:763
+26436390	002	myogenic differentiation antigen	gene	0	0	0	362:393
+26436390	003	MYOG	gene	0	0	0	417:420,860:863
+26408030	001	inhabiting an industrialized wetland	phenotype	0	0	0	93:128
+26398920	001	oculi artery	phenotype	0	0	0	95:106
+26398920	002	ocular diseases	phenotype	0	0	0	316:330
+26398920	003	right eye	phenotype	0	0	0	576:584
+26398920	004	pectinis oculi artery	phenotype	0	0	0	733:753
+26385467	001	snail host	phenotype	0	0	0	540:549
+26385336	001	calcium deficiency	phenotype	0	0	0	69:86
+26385336	002	mammillae density	phenotype	0	0	0	631:647
+26385336	003	mammillary knob thickness	phenotype	0	0	0	653:677
+26385336	004	secreted phosphoprotein 1	gene	0	0	0	874:898
+26385336	005	SPP1	gene	0	0	0	901:904
+26385336	006	carbonic anhydrase 2	gene	0	0	0	911:930
+26385336	007	CA2	gene	0	0	0	933:935
+26385336	008	CALB1	gene	0	0	0	1062:1066
+26385336	009	calcium transport	phenotype	0	0	0	1107:1123
+26385336	00A	Plasma estradiol concentration	phenotype	0	0	0	1268:1297
+26342465	001	lymphoid infiltration of the intestine	phenotype	0	0	0	605:642
+26342465	002	hemorrhages of the mucosa	phenotype	0	0	0	660:684
+26342465	003	dilation of the intestine	phenotype	0	0	0	690:714
+26323580	001	Ladoga Lake region	phenotype	0	0	0	161:178
+26292258	001	gondii infection	phenotype	0	0	0	106:121,237:252
+26218061	001	releasing hormone	gene	0	0	0	14:30
+26218061	002	nesting dusks	phenotype	0	0	0	1216:1228
+26218061	003	nesting ducks	phenotype	0	0	0	1317:1329
+26218061	004	GnRH receptor	gene	0	0	0	1425:1437
+26123724	001	body mass	phenotype	0	0	0	573:581
+26123724	002	endogenous antioxidants and oxidative stress	phenotype	0	0	0	697:740
+26121948	001	nocturnal density	phenotype	0	0	0	391:407,441:457
+25955279	001	Endothelin receptor B subtype 2	gene	0	0	0	1:31
+25955279	002	MITF	gene	0	0	0	1493:1496,1657:1660
+25955279	003	TYR	gene	0	0	0	1569:1571,1577:1579,1663:1665,1671:1673
+25955279	004	TYRP1	gene	0	0	0	1577:1581,1671:1675
+25917302	001	body fat mass	phenotype	0	0	0	286:298
+25917302	002	IGF2	gene	0	0	0	1053:1056
+25917302	003	FABP5	gene	0	0	0	1059:1063
+25917302	004	BMP7	gene	0	0	0	1066:1069
+25917302	005	lipid metabolism	phenotype	0	0	0	1021:1036
+25917302	006	RRM2	gene	0	0	0	1093:1096
+25917302	007	CYR61	gene	0	0	0	1106:1110
+25917302	008	TNFRSF19	gene	0	0	0	1194:1201
+25917302	009	TNFAIP6	gene	0	0	0	1204:1210
+25917302	00A	IGSF21	gene	0	0	0	1213:1218
+25917302	00B	NCF1	gene	0	0	0	1221:1224
+25917302	00C	tumor suppression	phenotype	0	0	0	1162:1178
+25843471	001	lethargy	phenotype	0	0	0	101:108
+25843471	002	swollen left eye	phenotype	0	0	0	116:131
+25843471	003	Mucoid discharge	phenotype	0	0	0	139:154
+25843471	004	conjunctival hyperemia	phenotype	0	0	0	171:192
+25843471	005	anterior uveitis	phenotype	0	0	0	231:246
+25843471	006	ocular disease	phenotype	0	0	0	1037:1050
+25816333	001	proteins with tetratricopeptide repeats	gene	0	0	0	24:62
+25816333	002	cell proliferation	phenotype	0	0	0	152:169
+25816333	003	IFIT1	gene	0	0	0	284:288
+25816333	004	IFIT2	gene	0	0	0	291:295
+25816333	005	IFIT3	gene	0	0	0	298:302
+25816333	006	IFIT5	gene	0	0	0	308:312,399:403,487:491,496:500,1524:1528
+25816333	007	TPR	gene	0	0	0	838:840,882:884,893:895
+25724855	001	pellucidus and Prosthogonimus rarus	phenotype	0	0	0	495:529
+25715691	001	Pekin L	gene	0	0	0	413:419
+25715691	002	white plumage mule ducklings	phenotype	0	0	0	431:458
+25706595	001	electron diffraction pattern	phenotype	0	0	0	300:327
+25706091	001	AHR	gene	0	0	0	1107:1109
+25691969	001	LPAIV infection	phenotype	0	0	0	263:277,865:879
+25691969	002	body condition	phenotype	0	0	0	313:326
+25691969	003	autumn LPAIV infection	phenotype	0	0	0	489:510
+25691969	004	body mass	phenotype	0	0	0	661:669,854:862
+25691969	005	Body mass	phenotype	0	0	0	706:714
+25691969	006	short distance	phenotype	0	0	0	1251:1264
+25669618	001	assemblage B	phenotype	0	0	0	806:817
+25669618	002	duodenalis assemblage D in Garrulus glandarius	phenotype	0	0	0	872:917
+25669618	003	duodenalis assemblage F in Anas platyrhynchos	phenotype	0	0	0	927:971
+25669618	004	Cryptosporidium meleagridis in Streptopelia turtur	phenotype	0	0	0	1076:1125
+25652220	001	common greenshanks	phenotype	0	0	0	453:470
+25636141	001	acute disease	phenotype	0	0	0	661:673
+25636141	002	myocardial degeneration	phenotype	0	0	0	782:804
+25636141	003	coagulative necrosis	phenotype	0	0	0	810:829
+25636141	004	acute heart failure	phenotype	0	0	0	847:865
+25636141	005	necrotizing myocarditis	phenotype	0	0	0	889:911
+25636141	006	pulmonary perivascular oedema	phenotype	0	0	0	937:965
+25636141	007	splenic and bursal lymphoid depletion	phenotype	0	0	0	1001:1037
+25636141	008	cardiac failure	phenotype	0	0	0	1385:1399
+25636141	009	clinical disease	phenotype	0	0	0	1513:1528
+25590589	001	egg mass	phenotype	0	0	0	459:466,1003:1010
+25590589	002	body mass	phenotype	0	0	0	1061:1069,1128:1136,1061:1069,1128:1136
+25590589	003	yolk sac mass	phenotype	0	0	0	1189:1201
+25590589	004	body size	phenotype	0	0	0	1272:1280
+25577952	001	liver weight	phenotype	0	0	0	41:52,1121:1132
+25577952	002	growth axis	phenotype	0	0	0	132:142
+25577952	003	GHRH	gene	0	0	0	320:323
+25577952	004	pituitary growth hormone	gene	0	0	0	346:369
+25577952	005	GH	gene	0	0	0	320:321,372:373,408:409
+25577952	006	liver growth hormone receptor	gene	0	0	0	377:405
+25577952	007	GHR	gene	0	0	0	320:322,408:410
+25577952	008	like growth factor	gene	0	0	0	425:442
+25577952	009	early growth	phenotype	0	0	0	1534:1545
+25518447	001	C botulism	phenotype	0	0	0	31:40,154:163
+25481845	001	white Pekin mallards	phenotype	0	0	0	143:162,1452:1471
+25481845	002	respiratory disorders	phenotype	0	0	0	270:290
+25481845	003	skin lesions	phenotype	0	0	0	296:307
+25481845	004	white nodules	phenotype	0	0	0	430:442
+25481845	005	multifocal skin lesions	phenotype	0	0	0	508:530
+25481845	006	granulomatous inflammation	phenotype	0	0	0	735:760
+25481845	007	dermatitis	phenotype	0	0	0	821:830
+25481845	008	necrotizing folliculitis	phenotype	0	0	0	853:876
+25481845	009	skin lesion	phenotype	0	0	0	1199:1209
+25481845	00A	cutaneous lesions	phenotype	0	0	0	1304:1320
+25450775	001	cytochrome b	gene	0	0	0	588:599
+25450775	002	cyt b	gene	0	0	0	602:606
+25450775	003	infected blood	phenotype	0	0	0	871:884
+25450775	004	malaria parasite	phenotype	0	0	0	1979:1994
+25391154	001	wildlife infectious disease epidemiology	phenotype	0	0	0	171:210
+25391154	002	clonal expansion	phenotype	0	0	0	1008:1023
+25386907	001	intraspecific nest parasitism	phenotype	0	0	0	688:716
+25386907	002	detecting parasitic eggs	phenotype	0	0	0	761:784
+25386907	003	body mass	phenotype	0	0	0	1241:1249
+25386907	004	egg size	phenotype	0	0	0	1255:1262
+25208517	001	dry weight	phenotype	0	0	0	752:761
+25179861	001	protein 1 transcription factor	gene	0	0	0	1165:1194
+25137178	001	lingual mucosa	phenotype	0	0	0	42:55
+25137178	002	keratin fibers	phenotype	0	0	0	554:567
+25109712	001	eggs fertility	phenotype	0	0	0	209:222
+25109712	002	higher fertility	phenotype	0	0	0	304:319,504:519
+25109712	003	egg weight	phenotype	0	0	0	681:690
+25109712	004	yolk fertility	phenotype	0	0	0	734:747
+25109712	005	Yolk 1 fertility	phenotype	0	0	0	829:844
+25109712	006	Yolk 2 fertility	phenotype	0	0	0	945:960
+25109712	007	egg size	phenotype	0	0	0	994:1001
+25085390	001	fatty liver	phenotype	0	0	0	29:39,1940:1950
+25085390	002	feed conversion	phenotype	0	0	0	1398:1412
+25085390	003	liver weight	phenotype	0	0	0	1769:1780
+25003652	001	thyroid hormone	gene	0	0	0	837:851
+25002547	001	CP 15	gene	0	0	0	399:403
+25002547	002	CP 10.5	gene	0	0	0	613:619
+25002547	003	Body weight	phenotype	0	0	0	927:937
+24992969	001	LEP	gene	0	0	0	15:17,222:224,1064:1066,1119:1121
+24981929	001	malignant diseases	phenotype	0	0	0	106:123
+24981929	002	heavy polypeptide 1 gene	gene	0	0	0	181:204
+24981929	003	FTH1	gene	0	0	0	207:210,404:407,804:807,837:840
+24981929	004	ferritin H	gene	0	0	0	1155:1164
+24981929	005	viral infections	phenotype	0	0	0	1761:1776
+24926893	001	GAPDH	gene	0	0	0	535:539
+24926893	002	GUSB	gene	0	0	0	542:545
+24926893	003	HMBS	gene	0	0	0	548:551
+24926893	004	PGK1	gene	0	0	0	560:563,1560:1563
+24926893	005	RPL13	gene	0	0	0	566:570
+24926893	006	RPL19	gene	0	0	0	573:577
+24926893	007	RPS7	gene	0	0	0	580:583,1566:1569
+24926893	008	SDHA	gene	0	0	0	586:589
+24926893	009	TFRC	gene	0	0	0	592:595,1572:1575
+24926893	00A	VIM	gene	0	0	0	598:600
+24926893	00B	YWHAZ	gene	0	0	0	603:607,1578:1582
+24926893	00C	FOXP2	gene	0	0	0	1224:1228
+24926893	00D	EGR1	gene	0	0	0	1261:1264
+24913959	001	body weight	phenotype	0	0	0	286:296
+24913959	002	skin weight	phenotype	0	0	0	679:689
+24913959	003	fatness of leg muscle	phenotype	0	0	0	803:823
+24899432	001	interferon gene	gene	0	0	0	222:236
+24879704	001	fatty liver	phenotype	0	0	0	307:317
+24879704	002	fat loss	phenotype	0	0	0	1417:1424
+24879704	003	adenosine triphosphate amount	gene	0	0	0	1482:1510
+24804691	001	neuronal development	phenotype	0	0	0	951:970
+24804691	002	glycine amidinotransferase	gene	0	0	0	1065:1090
+24804691	003	aldolase B	gene	0	0	0	1093:1102
+24804691	004	phosphofructokinase type C	gene	0	0	0	1155:1180
+24804691	005	haemoglobin subunit alpha	gene	0	0	0	1215:1239
+24804691	006	arginine deficiency	phenotype	0	0	0	981:999
+24795314	001	myogenic regulatory factors	gene	0	0	0	24:50
+24795314	002	mammalian skeletal myogenesis	phenotype	0	0	0	61:89
+24795314	003	embryonic development	phenotype	0	0	0	215:235
+24795314	004	Myf5	gene	0	0	0	311:314
+24795314	005	Myf6	gene	0	0	0	317:320,1203:1206
+24795314	006	breast muscle	phenotype	0	0	0	438:450
+24795314	007	Body weight	phenotype	0	0	0	555:565
+24795314	008	muscle weight	phenotype	0	0	0	571:583,1145:1157,1266:1278,1145:1157,1266:1278
+24795314	009	maintaining the development	phenotype	0	0	0	977:1003
+24795314	00A	skeletal muscle growth	phenotype	0	0	0	1502:1523
+24788792	001	clinical disease	phenotype	0	0	0	1340:1355
+24779463	001	Cygnus buccinator	phenotype	0	0	0	77:93
+24751587	001	drake neck plumage	phenotype	0	0	0	1001:1018
+24696190	001	activated receptor	gene	0	0	0	615:632
+24696190	002	enhancer binding protein	gene	0	0	0	659:682
+24696190	003	binding protein	gene	0	0	0	668:682,728:742
+24696190	004	FABP4	gene	0	0	0	745:749,1215:1219
+24584267	001	metal accumulation	phenotype	0	0	0	414:431
+24562817	001	spacer 1	gene	0	0	0	1074:1081
+24561606	001	Chelydra serpentina and Ocadia sinensis	phenotype	0	0	0	534:572
+24555793	001	growth factor	gene	0	0	0	69:81
+24555793	002	I receptor	gene	0	0	0	249:258
+24555793	003	IGF binding protein ( IGFBP	gene	0	0	0	
+24555793	004	embryonic development	phenotype	0	0	0	389:409,625:645,948:968
+24502738	001	neurologic clinical	phenotype	0	0	0	118:136
+24429073	001	muscle development	phenotype	0	0	0	78:95
+24429073	002	embryonic muscle development	phenotype	0	0	0	505:532
+24412807	001	liver metabolism	phenotype	0	0	0	249:264,1659:1674
+24412807	002	protein catabolism	phenotype	0	0	0	592:609,770:787
+24412807	003	lean meat deposition	phenotype	0	0	0	821:840
+24412807	004	fat deposition	phenotype	0	0	0	870:883,2232:2245
+24412807	005	stress response	phenotype	0	0	0	991:1005,2346:2360
+24394476	001	weight gain	phenotype	0	0	0	481:491
+26155095	001	gallopavo interferon beta	gene	0	0	0	68:92
+26155095	002	IFN	gene	0	0	0	95:97,226:228,634:636,718:720,781:783,855:857,634:636,718:720,781:783,855:857,634:636,718:720,781:783,855:857,634:636,718:720,781:783,855:857,982:984,1088:1090
+24324871	001	sigmaS = 0	phenotype	0	0	0	1374:1383,1594:1603
+24324871	002	sigmaS > 0	phenotype	0	0	0	1389:1398,1667:1676
+24294189	001	gastrointestinal tract	phenotype	0	0	0	153:174
+24294189	002	infections of urinary tract	phenotype	0	0	0	434:460
+24294189	003	glucose uptake	phenotype	0	0	0	808:821,889:902
+24294189	004	glucose dehydrogenase	gene	0	0	0	935:955
+24192340	001	HP H5N1	gene	0	0	0	646:652
+24180358	001	Myf6	gene	0	0	0	14:17,232:235,371:374,732:735,917:920,1176:1179,1347:1350,1454:1457,1347:1350,1454:1457
+24180358	002	muscle regulatory factors	gene	0	0	0	36:60
+24180358	003	muscle growth	phenotype	0	0	0	90:102
+24180358	004	breast muscle	phenotype	0	0	0	548:560
+24160690	001	cytochrome oxidase 1	gene	0	0	0	741:759
+24146753	001	viral diseases	phenotype	0	0	0	210:223
+24146753	002	AIV infection	phenotype	0	0	0	1083:1095,1131:1143
+24146753	003	viral infection	phenotype	0	0	0	1284:1298
+24146753	004	virus infection	phenotype	0	0	0	1400:1414
+24146753	005	behavior of conspecifics	phenotype	0	0	0	1448:1471
+24126784	001	Cell proliferation	phenotype	0	0	0	613:630
+24126784	002	Pax7	gene	0	0	0	1323:1326
+24126784	003	myoblast proliferation	phenotype	0	0	0	1432:1453
+24116183	001	heat stress	phenotype	0	0	0	161:171,1140:1150,1742:1752,1808:1818,1742:1752,1808:1818
+24116183	002	heat shock protein ( HSP	gene	0	0	0	
+24116183	003	adenosylmethionine synthetase	gene	0	0	0	1228:1256
+24116183	004	cell death	phenotype	0	0	0	1426:1435
+24116183	005	amino acid metabolism	phenotype	0	0	0	1461:1481
+24076354	001	derived chemotaxin 2	gene	0	0	0	16:35
+24076354	002	LECT2	gene	0	0	0	38:42,223:227,540:544,569:573,578:582,959:963,1078:1082,1105:1109,1185:1189
+24076354	003	regulation of liver regeneration	phenotype	0	0	0	107:138
+24076354	004	natural killer T	phenotype	0	0	0	161:176
+24076354	005	cell homeostasis	phenotype	0	0	0	178:193
+24076354	006	viral infections	phenotype	0	0	0	1714:1729
+24033258	001	host density	phenotype	0	0	0	368:379
+24033258	002	LPAIV infection	phenotype	0	0	0	1415:1429,1833:1847
+24028398	001	Newcastle disease virus	phenotype	0	0	0	13:35
+24028398	002	Newcastle disease	phenotype	0	0	0	13:29,73:89
+23973707	001	male body size	phenotype	0	0	0	821:834
+23967575	001	pond density	phenotype	0	0	0	1116:1127,1177:1188
+23931677	001	cell size	phenotype	0	0	0	531:539,801:809
+23916865	001	HPAI virus infections	phenotype	0	0	0	710:730
+23916689	001	Retinoic acid	gene	0	0	0	1:13
+23916689	002	innate immunity	phenotype	0	0	0	219:233
+23916689	003	viral infection	phenotype	0	0	0	987:1001
+23914249	001	vessel mesenteric	phenotype	0	0	0	511:527
+23914249	002	schistosome visceral	phenotype	0	0	0	800:819
+23914249	003	cercarial dermatitis	phenotype	0	0	0	879:898
+23911982	001	testis size	phenotype	0	0	0	1006:1016
+23911982	002	carotenoid concentration	phenotype	0	0	0	1022:1045
+23876184	001	HPAI virus infection	phenotype	0	0	0	1227:1246
+23773971	001	life span	phenotype	0	0	0	484:492
+23773971	002	aryl hydrocarbon receptor	gene	0	0	0	1952:1976
+23749191	001	influenza infection	phenotype	0	0	0	697:715
+23721954	001	cytochrome c oxidase	gene	0	0	0	485:504
+23678723	001	Newcastle disease	phenotype	0	0	0	28:44,288:304,28:44,288:304
+23678723	002	weight gain	phenotype	0	0	0	400:410
+23678723	003	growth of infected	phenotype	0	0	0	1146:1163
+23637797	001	IAV infection	phenotype	0	0	0	451:463,595:607
+23637797	002	IAV disease	phenotype	0	0	0	1531:1541
+23603471	001	body mass	phenotype	0	0	0	319:327
+23531827	001	carotenoid assimilation ability	phenotype	0	0	0	838:868
+23531827	002	increase immune response	phenotype	0	0	0	964:987
+23531827	003	nitric oxide levels	phenotype	0	0	0	1374:1392
+23531827	004	ovarian development	phenotype	0	0	0	1434:1452
+23531827	005	bile pigments	phenotype	0	0	0	1505:1517
+23500832	001	circulatory disturbances	phenotype	0	0	0	606:629
+23500832	002	inflammations to leukocytic infiltration	phenotype	0	0	0	655:694
+23500832	003	liver and kidney	phenotype	0	0	0	699:714
+23459475	001	wild type	phenotype	0	0	0	1243:1251
+23402121	001	viral infection	phenotype	0	0	0	576:590
+23402121	002	LPAI virus infection	phenotype	0	0	0	969:988
+23397842	001	inflammatory response	phenotype	0	0	0	393:413
+23397842	002	bacterial lipopolysaccharide	phenotype	0	0	0	476:503
+23397842	003	hemolysis	phenotype	0	0	0	687:695
+23397842	004	increased liver weights	phenotype	0	0	0	831:853
+23397842	005	decreased body and splenic	phenotype	0	0	0	856:881
+23397842	006	decreased packed cell volume	phenotype	0	0	0	896:923
+23354058	001	RP1	gene	0	0	0	616:618,759:761
+23354058	002	RP2	gene	0	0	0	626:628
+23344844	001	breast muscle	phenotype	0	0	0	100:112
+23344844	002	musculus pectoralis	phenotype	0	0	0	119:137
+23344844	003	dry weight	phenotype	0	0	0	371:380
+23342979	001	tooth loss	phenotype	0	0	0	512:521
+23342979	002	enamel matrix protein	gene	0	0	0	1286:1306
+23342979	003	AMBN	gene	0	0	0	1377:1380,1604:1607
+23342979	004	ENAM	gene	0	0	0	1386:1389,1619:1622
+23342979	005	AMEL	gene	0	0	0	1472:1475,1610:1613
+23342979	006	tooth development	phenotype	0	0	0	2143:2159
+23307376	001	LPAI virus infection	phenotype	0	0	0	1085:1104
+23307376	002	intestinal infection	phenotype	0	0	0	1347:1366
+23307376	003	occasional degenerating cells	phenotype	0	0	0	1389:1417
+23242805	001	body weight gain	phenotype	0	0	0	683:698
+23242805	002	proliferative pneumonia	phenotype	0	0	0	905:927
+23242805	003	cloacal swabs	phenotype	0	0	0	1189:1201
+23242805	004	pulmonary lesions	phenotype	0	0	0	1289:1305
+23242805	005	intestinal tract infection	phenotype	0	0	0	1311:1336
+23237367	001	LPAIV infection	phenotype	0	0	0	239:253,1204:1218
+23224277	001	density lipoprotein receptor	gene	0	0	0	5:32,82:109
+23224277	002	related protein 8	gene	0	0	0	34:50
+23224277	003	LRP8	gene	0	0	0	53:56,327:330,355:358,446:449,645:648,446:449,645:648,713:716,816:819,1005:1008,1335:1338
+23224277	004	body lipoprotein homeostasis	phenotype	0	0	0	141:168
+23224277	005	LDLR	gene	0	0	0	568:571
+23224277	006	abdominal adipose tissue	phenotype	0	0	0	1242:1265
+23214376	001	bone mineral density BMD	phenotype	0	0	0	5:28
+23214376	002	bone mineral density	phenotype	0	0	0	833:852,917:936,833:852,917:936
+23214376	003	deformities and fractures of the tibiotarsal bones	phenotype	0	0	0	1416:1465
+23214376	004	limb diseases	phenotype	0	0	0	1635:1647
+23148259	001	fatty liver	phenotype	0	0	0	161:171,857:867,1514:1524
+23148259	002	lipid content	phenotype	0	0	0	1642:1654,1756:1768
+23148259	003	fatty liver weight	phenotype	0	0	0	1715:1732
+23148259	004	triglyceride content	phenotype	0	0	0	1948:1967,2194:2213
+23148259	005	triglyceride contents	phenotype	0	0	0	2194:2214
+23145046	001	influenza A	phenotype	0	0	0	80:90
+23130574	001	aspartate aminotransferase	gene	0	0	0	45:70,751:776
+23130574	002	adrenocorticotrophic hormone	gene	0	0	0	289:316
+23121919	001	cercarial dermatitis	phenotype	0	0	0	373:392,1015:1034
+23121919	002	neglected disease	phenotype	0	0	0	1082:1098
+23112840	001	DHV infection	phenotype	0	0	0	1307:1319
+23112840	002	microbial infection	phenotype	0	0	0	1439:1457
+23050463	001	clade 1	gene	0	0	0	555:561
+23050463	002	IFN	gene	0	0	0	1390:1392,1401:1403,1390:1392,1401:1403
+23050463	003	CCL19	gene	0	0	0	1418:1422
+23050463	004	TLR7	gene	0	0	0	1522:1525
+23050463	005	virus infection	phenotype	0	0	0	1610:1624,2024:2038
+23050463	006	systemic infection	phenotype	0	0	0	1825:1842
+23045806	001	sloughing of the affected	phenotype	0	0	0	439:463
+23045806	002	chronic stress	phenotype	0	0	0	667:680
+23031599	001	initial fertility	phenotype	0	0	0	2060:2076
+23031599	002	fertility rate	phenotype	0	0	0	2124:2137
+22991545	001	pattern of subcutaneous adipose tissue growth	phenotype	0	0	0	62:106
+22991545	002	tail interacting protein	gene	0	0	0	608:631
+22991545	003	adipose differentiation	gene	0	0	0	642:664
+22991545	004	related protein	gene	0	0	0	666:680
+22991545	005	NSF	gene	0	0	0	1140:1142
+22991545	006	adipose expansion	phenotype	0	0	0	1769:1785
+22940115	001	plumage condition	phenotype	0	0	0	95:111
+22859590	001	genetic reassortments	phenotype	0	0	0	1232:1252
+22855613	001	locomotor behavior	phenotype	0	0	0	864:881
+22855613	002	body mass	phenotype	0	0	0	1181:1189
+22855613	003	hindlimb muscle mass	phenotype	0	0	0	1215:1234
+22855613	004	bone growth	phenotype	0	0	0	1315:1325
+22855612	001	feather unfurling	phenotype	0	0	0	1071:1087
+22816511	001	AIV infection	phenotype	0	0	0	1538:1550,1893:1905
+22771313	001	nutrient metabolism	phenotype	0	0	0	114:132
+22771313	002	lean Pekin duck liver	phenotype	0	0	0	155:175
+22771313	003	maintaining the high basal metabolism	phenotype	0	0	0	813:849
+22771313	004	duck liver	phenotype	0	0	0	1290:1299
+22723478	001	magnetic anomaly	phenotype	0	0	0	762:777
+22705491	001	oxidative stress	phenotype	0	0	0	337:352,1281:1296,1473:1488
+22705491	002	oxidative damage	phenotype	0	0	0	822:837
+22705491	003	oxidative damage levels	phenotype	0	0	0	1161:1183
+22666443	001	quantifying beak coloration	phenotype	0	0	0	1000:1026
+22666443	002	nitric oxide production	phenotype	0	0	0	1643:1665
+22666443	003	beak coloration	phenotype	0	0	0	1756:1770
+22652187	001	duck liver	phenotype	0	0	0	343:352
+22652187	002	subcutaneous adipose tissue	phenotype	0	0	0	355:381
+22652187	003	abdominal adipose tissue	phenotype	0	0	0	387:410
+22652187	004	plasma triacylglycerol	phenotype	0	0	0	469:490
+22652187	005	TG	gene	0	0	0	795:796
+22652187	006	hepatic lipogenesis	phenotype	0	0	0	1445:1463
+22645836	001	paresis	phenotype	0	0	0	123:129
+22645836	002	paralysis	phenotype	0	0	0	135:143
+22645836	003	seizures	phenotype	0	0	0	231:238
+22645836	004	intention tremors	phenotype	0	0	0	244:260
+22645836	005	pelvic limbs	phenotype	0	0	0	340:351
+22645836	006	dehydration	phenotype	0	0	0	463:473
+22645836	007	anemia	phenotype	0	0	0	551:556
+22645836	008	hypoglycemia	phenotype	0	0	0	576:587
+22645836	009	cardiopulmonary arrest	phenotype	0	0	0	719:740
+22645836	00A	neuronal ceroid lipofuscinosis	phenotype	0	0	0	862:891
+22645833	001	bacterial infections	phenotype	0	0	0	1213:1232
+22645833	002	bacterial diseases	phenotype	0	0	0	1893:1910
+22609802	001	influenza A	phenotype	0	0	0	830:840
+22609802	002	dry swabs	phenotype	0	0	0	1006:1014
+22591010	001	duck melanocortin 1 receptor	gene	0	0	0	64:91
+22591010	002	melanocyte stimulating hormone receptor	gene	0	0	0	100:138
+22591010	003	MC1R	gene	0	0	0	142:145,189:192,349:352,142:145,189:192,349:352,142:145,189:192,349:352,561:564
+22558299	001	hantavirus pulmonary syndrome	phenotype	0	0	0	48:76
+22558299	002	respiratory distress	phenotype	0	0	0	418:437
+22558299	003	hamster lethal disease	phenotype	0	0	0	553:574
+22536424	001	influenza A virus infection	phenotype	0	0	0	702:728
+22481893	001	myogenic enhancer transcription factor 2a	gene	0	0	0	13:53
+22481893	002	MEF2A	gene	0	0	0	56:60,149:153,325:329,419:423,751:755,965:969,1027:1031,1082:1086,1143:1147,1082:1086,1143:1147
+22481893	003	SRF	gene	0	0	0	470:472
+22481893	004	serum response factor	gene	0	0	0	476:496
+22481893	005	activated protein kinase	gene	0	0	0	517:540
+22481893	006	MEF2A transcription factor	gene	0	0	0	1027:1052
+22442675	001	endoplasmic retention	phenotype	0	0	0	757:777
+22403642	001	distance dispersal	phenotype	0	0	0	118:135
+22403642	002	survival over time	phenotype	0	0	0	648:665
+22403642	003	dispersal distance greatly	phenotype	0	0	0	1021:1046
+22403642	004	net energy intake	phenotype	0	0	0	1431:1447
+22326660	001	abdominal distension	phenotype	0	0	0	75:94
+22326660	002	tridermic teratoma	phenotype	0	0	0	224:241
+22326660	003	tridermic benign intracoelomic teratoma	phenotype	0	0	0	668:706
+22221240	001	body weight	phenotype	0	0	0	109:119,673:683,1591:1601
+22221240	002	live body weight	phenotype	0	0	0	1100:1115
+22221240	003	breast muscle	phenotype	0	0	0	1358:1370
+22211771	001	short midpiece	phenotype	0	0	0	316:329
+22201802	001	calcium carbonate	phenotype	0	0	0	560:576
+22201802	002	mammillary cone formation	phenotype	0	0	0	644:668
+22201802	003	palisade layer calcification	phenotype	0	0	0	684:711
+22177482	001	dry weight	phenotype	0	0	0	1235:1244
+22146993	001	long tegumental spines	phenotype	0	0	0	1043:1064
+22139676	001	deformed embryos	phenotype	0	0	0	897:912
+22111627	001	early embryonic	phenotype	0	0	0	305:319
+22111627	002	neural tube	phenotype	0	0	0	403:413
+22107096	001	double infection	phenotype	0	0	0	856:871
+22105827	001	developmental stage 4	phenotype	0	0	0	270:290
+22105827	002	embryo death	phenotype	0	0	0	657:668
+22042039	001	deformities spina bifida	phenotype	0	0	0	1248:1271
+22042039	002	craniorachischisis	phenotype	0	0	0	1277:1294
+22036527	001	enteric diseases	phenotype	0	0	0	102:117
+22036527	002	NADH oxidase	gene	0	0	0	663:674
+22036527	003	intermedia and	phenotype	0	0	0	859:872
+22028812	001	absence of migration delay	phenotype	0	0	0	987:1012
+22028812	002	AI infection	phenotype	0	0	0	1886:1897
+21995264	001	AIV infection	phenotype	0	0	0	1599:1611
+21927945	001	dry weight	phenotype	0	0	0	402:411,434:443,402:411,434:443,553:562
+21857940	001	influenza A viruses	phenotype	0	0	0	60:78
+21857940	002	IAV infection	phenotype	0	0	0	191:203,1658:1670
+21857940	003	LPAIV infection	phenotype	0	0	0	1002:1016,1475:1489
+21857940	004	poor condition	phenotype	0	0	0	1744:1757
+21856003	001	DHV infection	phenotype	0	0	0	1239:1251
+21819592	001	very low density lipoprotein receptor gene	gene	0	0	0	17:58
+21819592	002	VLDLR	gene	0	0	0	61:65,340:344,473:477,535:539,935:939,1334:1338,1386:1390,1435:1439,1386:1390,1435:1439,1494:1498,1702:1706,1873:1877,2004:2008
+21819592	003	low density lipoprotein receptor	gene	0	0	0	22:53,85:116
+21819592	004	LDLR	gene	0	0	0	62:65,119:122
+21819592	005	duck VLDLR	gene	0	0	0	1241:1250
+21819592	006	body weight	phenotype	0	0	0	1806:1816
+21789252	001	body mass	phenotype	0	0	0	87:95,978:986
+21789252	002	lean body mass	phenotype	0	0	0	497:510
+21789252	003	loss of body mass	phenotype	0	0	0	1076:1092
+21789252	004	body mass loss	phenotype	0	0	0	1248:1261
+21749425	001	egg weight	phenotype	0	0	0	1349:1358
+21728797	001	temporal appearance	phenotype	0	0	0	98:116
+21719198	001	Toxoplasma gondii infection	phenotype	0	0	0	43:69
+21682282	001	protoporphyrin IX	gene	0	0	0	893:909
+21682099	001	tufted duck	phenotype	0	0	0	1219:1229
+21653587	001	parasite pressure	phenotype	0	0	0	1517:1533
+21614608	001	duck embryonic	phenotype	0	0	0	25:38
+21614608	002	embryonic myoblasts	phenotype	0	0	0	191:209
+21614608	003	Desmin	gene	0	0	0	317:322,1037:1042,1182:1187
+21614608	004	muscle creatine kinase	gene	0	0	0	329:350
+21613520	001	cranial kinesis	phenotype	0	0	0	7:21
+21613520	002	bill elevation	phenotype	0	0	0	207:220
+21613520	003	mandibular depression	phenotype	0	0	0	1385:1405
+21612413	001	Toxoplasma gondii infection	phenotype	0	0	0	61:87
+21612413	002	gondii infection	phenotype	0	0	0	227:242
+21597064	001	body temperature	phenotype	0	0	0	581:596
+21560150	001	April 20	gene	0	0	0	126:133
+21560150	002	Body mass	phenotype	0	0	0	1062:1070
+21560150	003	liver and spleen	phenotype	0	0	0	1073:1088
+21560150	004	frequency of deformities	phenotype	0	0	0	1129:1152
+21560150	005	embryonic development	phenotype	0	0	0	1456:1476
+21500030	001	AI infection	phenotype	0	0	0	184:195
+21500030	002	LPAI virus infection	phenotype	0	0	0	880:899
+21500030	003	gastrointestinal tract	phenotype	0	0	0	1026:1047
+21497461	001	Brachyspira intermedia	phenotype	0	0	0	484:505
+21490006	001	sperm damage	phenotype	0	0	0	420:431
+21477844	001	blood lead	phenotype	0	0	0	695:704,1188:1197
+21477844	002	light diarrhea	phenotype	0	0	0	1041:1054
+21441197	001	paramyxoviruses type 1	phenotype	0	0	0	7:28
+21441197	002	Newcastle disease outbreaks	phenotype	0	0	0	1043:1069
+21441193	001	virus infection	phenotype	0	0	0	450:464
+21441193	002	LPAI virus infection	phenotype	0	0	0	1170:1189,1305:1324
+21425324	001	external deformities	phenotype	0	0	0	398:417
+21425324	002	lordosis and scoliosis	phenotype	0	0	0	796:817
+21425324	003	twisting of the spine	phenotype	0	0	0	820:840
+21425324	004	twisting of the neck	phenotype	0	0	0	875:894
+21425324	005	deformities of the wings	phenotype	0	0	0	901:924
+21425324	006	multiple deformities	phenotype	0	0	0	1097:1116
+21424223	001	acid metalliferous	phenotype	0	0	0	302:319
+21424223	002	storm water retention	phenotype	0	0	0	456:476
+21424223	003	aspartate aminotransferase	gene	0	0	0	1303:1328
+21424223	004	creatine kinase	gene	0	0	0	1331:1345
+21424223	005	ventricular hemorrhage	phenotype	0	0	0	1673:1694
+21424223	006	duodenal hemorrhage	phenotype	0	0	0	1719:1737
+21424223	007	acute metal toxicosis	phenotype	0	0	0	1850:1870
+21411076	001	acid dehydratase	gene	0	0	0	210:225
+21411076	002	oxidative stress	phenotype	0	0	0	235:250
+21411076	003	ALAD	gene	0	0	0	540:543
+21411076	004	glutathione peroxidase	gene	0	0	0	640:661
+21411076	005	vitamin A	gene	0	0	0	841:849
+21406369	001	fractures possessed	phenotype	0	0	0	569:587
+21406369	002	bone mass	phenotype	0	0	0	600:608
+21406369	003	deformities of the TT bones of the domestic duck	phenotype	0	0	0	1513:1560
+21337606	001	body weight	phenotype	0	0	0	178:188
+21337606	002	hemorrhage	phenotype	0	0	0	448:457
+21337606	003	impaired coagulation complex activity	phenotype	0	0	0	1047:1083
+21313851	001	LPAI virus infections	phenotype	0	0	0	502:522
+21313851	002	LPAI virus infection	phenotype	0	0	0	706:725
+21313851	003	LPAI infection	phenotype	0	0	0	900:913
+21310090	001	Mal	gene	0	0	0	640:642,980:982
+21290415	001	bilaterally symmetric neoptile feathers	phenotype	0	0	0	929:967
+21290415	002	symmetric neoptile feathers	phenotype	0	0	0	1102:1128,1678:1704
+21290415	003	fragile calamus	phenotype	0	0	0	1138:1152
+21248325	001	footpad dermatitis	phenotype	0	0	0	777:794
+21248325	002	eye health	phenotype	0	0	0	797:806
+21248325	003	gait score	phenotype	0	0	0	809:818
+21248325	004	nostril condition	phenotype	0	0	0	825:841
+23074663	001	presumed genesis modes of primordial pandemic	phenotype	0	0	0	406:450
+21171838	001	body weight	phenotype	0	0	0	810:820
+21161790	001	epidermal growth factor	gene	0	0	0	64:86
+21161790	002	EGF	gene	0	0	0	89:91,706:708,1200:1202,1287:1289,1360:1362,1287:1289,1360:1362
+21161790	003	protein kinase A	gene	0	0	0	837:852
+21161790	004	cytochrome P450 side	gene	0	0	0	1000:1019
+21161790	005	hydroxysteroid dehydrogenase	gene	0	0	0	1060:1087
+21161790	006	erk kinase	gene	0	0	0	1314:1323
+21161790	007	activated protein kinase	gene	0	0	0	1421:1444
+21154053	001	Cryptosporidium parasite	phenotype	0	0	0	1555:1578
+21140156	001	body mass	phenotype	0	0	0	717:725
+21140156	002	swelling response	phenotype	0	0	0	894:910
+21140156	003	body condition	phenotype	0	0	0	980:993,1175:1188,980:993,1175:1188
+21140156	004	PHA swelling	phenotype	0	0	0	1637:1648
+21082261	001	adipose differentiation	phenotype	0	0	0	105:127
+21048952	001	egg mass	phenotype	0	0	0	946:953
+20850473	001	CD4	gene	0	0	0	776:778
+20850473	002	duck enteritis virus	phenotype	0	0	0	1017:1036
+20843851	001	bill coloration	phenotype	0	0	0	1137:1151
+20843851	002	chick survival	phenotype	0	0	0	1475:1488
+20821613	001	Learning how much sediment waterfowl can consume in their diet and still maintain their health	phenotype	0	0	0	169:262
+20821613	002	weight loss	phenotype	0	0	0	600:610
+20821613	003	body weight	phenotype	0	0	0	736:746
+20821543	001	mineral oil	phenotype	0	0	0	612:622
+20723979	001	oxidative stress	phenotype	0	0	0	391:406
+20723979	002	mitochondrial metabolism	phenotype	0	0	0	423:446
+20688691	001	blood lead	phenotype	0	0	0	658:667,1337:1346
+20688691	002	body weight	phenotype	0	0	0	792:802
+20688691	003	lethargy	phenotype	0	0	0	1241:1248
+20688691	004	decreased response to external stimulus	phenotype	0	0	0	1257:1295
+20688643	001	carcass density	phenotype	0	0	0	970:984
+20653279	001	Body mass	phenotype	0	0	0	473:481
+20653279	002	body mass	phenotype	0	0	0	574:582
+20653279	003	body size	phenotype	0	0	0	646:654
+20653279	004	Improved body condition	phenotype	0	0	0	657:679
+20637173	001	hematological immune	phenotype	0	0	0	1035:1054
+20637173	002	gut canthaxanthin concentration	phenotype	0	0	0	1755:1785
+20567986	001	cyst type IV	phenotype	0	0	0	141:152
+20556426	001	cercarial dermatitis	phenotype	0	0	0	520:539
+20556426	002	merganser and Anser anser	phenotype	0	0	0	901:925
+20541945	001	duck breast muscle	phenotype	0	0	0	662:679
+20529248	001	Hepatitis B	phenotype	0	0	0	13:23
+20529248	002	liver infection	phenotype	0	0	0	57:71
+20529248	003	HBV infection	phenotype	0	0	0	156:168
+20529248	004	hepadnavirus infection	phenotype	0	0	0	224:245,412:433
+20529248	005	Duck heptatitis B	phenotype	0	0	0	279:295
+20529248	006	lamin A	gene	0	0	0	1221:1227
+20529248	007	annexin A2	gene	0	0	0	1257:1266,1322:1331
+20529248	008	amino acid metabolism	phenotype	0	0	0	1612:1632
+20529248	009	stress responses	phenotype	0	0	0	1635:1650
+20521698	001	embryo infectious dose	phenotype	0	0	0	507:528
+20521652	001	high pathogenicity avian influenza	phenotype	0	0	0	249:282
+20521652	002	green urine	phenotype	0	0	0	549:559
+20521652	003	Escherichia coli infection	phenotype	0	0	0	753:778
+20521652	004	Joostenburgvlakte region	phenotype	0	0	0	1006:1029
+20521652	005	Oudtshoorn region	phenotype	0	0	0	954:970,1112:1128
+20496603	001	sensory nerve conduction velocities	phenotype	0	0	0	671:705
+20496603	002	cord dorsum potentials	phenotype	0	0	0	720:741
+20496603	003	sensory nerve	phenotype	0	0	0	671:683,777:789
+20496603	004	loss of sensory nerve conduction	phenotype	0	0	0	1437:1468
+20454557	001	weight gain	phenotype	0	0	0	285:295,1958:1968
+20454557	002	Liver mass	phenotype	0	0	0	1312:1321
+20454557	003	weight increase	phenotype	0	0	0	1835:1849
+20437221	001	plumage water retention	phenotype	0	0	0	1135:1157
+20397088	001	leg skeletal muscle	phenotype	0	0	0	92:110
+20382820	001	vascular endothelial cell tropism	phenotype	0	0	0	529:561
+20382820	002	adrenal gland	phenotype	0	0	0	794:806
+20382820	003	meningoencephalitis	phenotype	0	0	0	1162:1180
+20382820	004	virus infections	phenotype	0	0	0	1335:1350
+20382820	005	systemic disease	phenotype	0	0	0	1419:1434
+20382820	006	asymptomatic infection of respiratory and gastrointestinal systems	phenotype	0	0	0	1459:1524
+20187818	001	cardiac disease	phenotype	0	0	0	96:110
+20148704	001	C3	gene	0	0	0	21:22,45:46
+20148704	002	CR2	gene	0	0	0	78:80
+20148704	003	complement protein C3	gene	0	0	0	239:259
+20148704	004	glycoprotein F	gene	0	0	0	784:797
+20148704	005	Newcastle disease	phenotype	0	0	0	730:746
+20126617	001	body temperature	phenotype	0	0	0	600:615,895:910
+20126617	002	heart rate	phenotype	0	0	0	618:627,862:871
+20126617	003	LPAI infection	phenotype	0	0	0	1276:1289
+20126617	004	herd immunity	phenotype	0	0	0	1571:1583
+20117191	001	body size	phenotype	0	0	0	588:596,855:863,943:951
+20093677	001	Duck swollen head hemorrhagic disease virus	phenotype	0	0	0	87:129
+20093677	002	Duck viral swollen head hemorrhagic disease	phenotype	0	0	0	509:551
+20093677	003	DSHDV infection	phenotype	0	0	0	1312:1326
+20064520	001	gonadotropin hormone releasing hormone	gene	0	0	0	707:744
+20044017	001	blood parasite	phenotype	0	0	0	42:55
+20044017	002	simondi infection	phenotype	0	0	0	641:657,765:781,818:834
+20021503	001	torticollis	phenotype	0	0	0	799:809
+19999766	001	axillary ulcerative lesions	phenotype	0	0	0	191:217
+19999766	002	feather folliculomas	phenotype	0	0	0	341:360
+19999766	003	poor prognosis	phenotype	0	0	0	450:463
+19999766	004	ulcerative lesion	phenotype	0	0	0	541:557
+19999766	005	basosquamous carcinoma	phenotype	0	0	0	663:684,1136:1157,1233:1254
+19999766	006	Basosquamous carcinoma	phenotype	0	0	0	913:934
+19999766	007	feather folliculoma	phenotype	0	0	0	1112:1130
+19999766	008	ulcerative or proliferative skin lesions	phenotype	0	0	0	1309:1348
+19999383	001	AIV infection	phenotype	0	0	0	1199:1211
+19965911	001	olfactory receptor	gene	0	0	0	148:165
+19965911	002	olfactory abilities	phenotype	0	0	0	1697:1715
+19937535	001	systemic infection	phenotype	0	0	0	834:851
+19937525	001	Newcastle disease	phenotype	0	0	0	32:48
+19937511	001	tissue tropism	phenotype	0	0	0	508:521
+19937511	002	myocarditis	phenotype	0	0	0	1043:1053
+19937511	003	skeletal myositis	phenotype	0	0	0	1059:1075
+19914253	001	growth hormone secretagogue receptor	gene	0	0	0	65:100
+19914253	002	growth hormone	gene	0	0	0	65:78,126:139
+19914253	003	gastrointestinal tract	phenotype	0	0	0	946:967,1357:1378,1969:1990,2151:2172
+19914253	004	Peking duck gastrointestinal tract	phenotype	0	0	0	1957:1990
+19864211	001	UCN	gene	0	0	0	12:14,409:411,641:643,926:928,1101:1103
+19864211	002	releasing factor	gene	0	0	0	74:89
+19864211	003	POMC	gene	0	0	0	178:181
+19864211	004	adrenocorticotropic hormone	gene	0	0	0	202:228
+19864211	005	stimulating hormone	gene	0	0	0	268:286
+19864211	006	regulating the function of the immune system	phenotype	0	0	0	1259:1302
+19821888	001	acute blood loss	phenotype	0	0	0	70:85,756:771,888:903,1303:1318
+19821888	002	blood volume	phenotype	0	0	0	790:801
+19821888	003	regenerative response	phenotype	0	0	0	1561:1581
+19821888	004	blood loss	phenotype	0	0	0	1612:1621
+30256876	001	UCN	gene	0	0	0	12:14,409:411,641:643,925:927,1100:1102
+30256876	002	releasing factor	gene	0	0	0	74:89
+30256876	003	POMC	gene	0	0	0	178:181
+30256876	004	adrenocorticotropic hormone	gene	0	0	0	202:228
+30256876	005	stimulating hormone	gene	0	0	0	268:286
+30256876	006	regulating the function of the immune system	phenotype	0	0	0	1258:1301
+19656363	001	duck macrochromosomes and demonstrated conserved synteny	phenotype	0	0	0	837:892
+19640549	001	electron microscopical	phenotype	0	0	0	425:446
+19640549	002	gastrointestinal disease	phenotype	0	0	0	1341:1364
+19640549	003	dry weight	phenotype	0	0	0	1395:1404
+19640549	004	irreversible cell damage	phenotype	0	0	0	1721:1744
+19640549	005	crypt necks	phenotype	0	0	0	1749:1759
+19630230	001	decreased activity	phenotype	0	0	0	439:456
+19630230	002	ataxia	phenotype	0	0	0	471:476
+19630230	003	infection to aigamo duck operations	phenotype	0	0	0	1437:1471
+19581004	001	mucosal immunity	phenotype	0	0	0	49:64,223:238
+19581004	002	finch serum protein	gene	0	0	0	928:946
+19581004	003	conjunctivitis	phenotype	0	0	0	1101:1114
+19581004	004	Mycoplasma gallisepticum infection	phenotype	0	0	0	1132:1165
+19523985	001	nucleoprotein antigen	gene	0	0	0	444:464
+19523985	002	influenza A	phenotype	0	0	0	1260:1270
+19514809	001	migratory routes of individual duck species	phenotype	0	0	0	1108:1150
+19463029	001	body size	phenotype	0	0	0	775:783
+19406168	001	stretch of open reading frame 1b	gene	0	0	0	626:657
+19406168	002	probe degeneration	phenotype	0	0	0	729:746
+19374476	001	dry weight	phenotype	0	0	0	314:323
+19362739	001	defensin 2	gene	0	0	0	236:245
+19356266	001	cercarial dermatitis	phenotype	0	0	0	25:44
+19356266	002	visceral schistosomes	phenotype	0	0	0	1469:1489
+19297545	001	IPC energy metabolism	phenotype	0	0	0	397:417
+19280366	001	Peroxisome proliferators	gene	0	0	0	1:24
+19280366	002	lipid metabolism	phenotype	0	0	0	131:146
+19216259	001	respiratory distress	phenotype	0	0	0	106:125
+19216259	002	lethargy	phenotype	0	0	0	169:176
+19216259	003	neoplastic mass	phenotype	0	0	0	263:277
+19216259	004	testicular tumor	phenotype	0	0	0	504:519
+19216259	005	Sertoli cell testicular tumor	phenotype	0	0	0	649:677
+19216259	006	sex cord	phenotype	0	0	0	733:740
+19174921	001	MT1	gene	0	0	0	910:912,1072:1074
+19174921	002	hepatic CH3Hg concentration	phenotype	0	0	0	1219:1245
+19129127	001	body mass	phenotype	0	0	0	346:354,1151:1159
+19129127	002	LPAI infection	phenotype	0	0	0	425:438,1344:1357,1711:1724
+19129127	003	migratory mallards	phenotype	0	0	0	486:503
+19129127	004	body mass loss	phenotype	0	0	0	538:551
+19129127	005	Body mass	phenotype	0	0	0	945:953
+19129127	006	deteriorated body mass	phenotype	0	0	0	1742:1763
+19105044	001	Body weight	phenotype	0	0	0	301:311
+19105044	002	GH	gene	0	0	0	1108:1109
+19105044	003	growth hormone	gene	0	0	0	1112:1125
+19069785	001	Russian Academy of Medical Sciences	phenotype	0	0	0	900:934
+19045936	001	Embryonic survival	phenotype	0	0	0	1:18
+19045936	002	reduced survival endpoints	phenotype	0	0	0	884:909
+19045936	003	reduced bursal mass	phenotype	0	0	0	988:1006
+19045936	004	follicle size	phenotype	0	0	0	1012:1024
+19023759	001	reluctance to feed	phenotype	0	0	0	1025:1042
+19023759	002	torticollis	phenotype	0	0	0	1065:1075
+19023759	003	breast muscle	phenotype	0	0	0	1424:1436
+18980430	001	sensory nerve conduction velocities	phenotype	0	0	0	206:240
+18980430	002	sensory nerve	phenotype	0	0	0	461:473
+18980430	003	loss of nerve conduction	phenotype	0	0	0	759:782
+18980430	004	sensory nerve conduction	phenotype	0	0	0	1253:1276
+18980430	005	traumatic injuries to the brachial plexus	phenotype	0	0	0	1435:1475
+18980430	006	brachial plexus nerve blockade	phenotype	0	0	0	1606:1635
+18957137	001	genetic structure	phenotype	0	0	0	209:225
+18957137	002	cytochrome b	gene	0	0	0	635:646
+18957137	003	Cyt b	gene	0	0	0	649:653
+18825730	001	neurological disease	phenotype	0	0	0	40:59
+18809869	001	zona pellucida protein C	gene	0	0	0	301:324
+18716782	001	Natriuretic peptides	gene	0	0	0	452:470
+18716782	002	natriuretic peptides	gene	0	0	0	527:545,1143:1161
+18716782	003	natriuretic peptide antiserum	gene	0	0	0	738:765
+18716782	004	secreted natriuretic peptide	gene	0	0	0	845:871
+18687407	001	hepatic metabolisms	phenotype	0	0	0	180:198
+18687407	002	hepatic steatosis	phenotype	0	0	0	1146:1162
+18664102	001	Australapatemon minor	phenotype	0	0	0	1310:1330
+18664102	002	Leucochloridiomorpha lutea	phenotype	0	0	0	1333:1358
+18664102	003	Pseudocapillaria mergi i Polymorphus magnus	phenotype	0	0	0	1474:1516
+18657864	001	activating receptors	gene	0	0	0	63:82
+18657864	002	hepatitis B	phenotype	0	0	0	1026:1036
+18648047	001	diarrhea	phenotype	0	0	0	859:866
+18648047	002	Salmonella Typhimurium infection	phenotype	0	0	0	1467:1498
+18631261	001	spring temperature	phenotype	0	0	0	984:1001
+18628122	001	red jungle fowl	phenotype	0	0	0	694:708
+18628122	002	olfactory bulb size	phenotype	0	0	0	1268:1286
+18628122	003	olfactory capability	phenotype	0	0	0	1316:1335
+18601714	001	short reproductive	phenotype	0	0	0	579:596
+18601714	002	testosterone steroidogenesis	phenotype	0	0	0	1024:1051
+18601714	003	autocrine testosterone production	phenotype	0	0	0	1626:1658
+18601714	004	testosterone testicular	phenotype	0	0	0	1788:1810
+18568660	001	serum immunoglobulin Y	gene	0	0	0	93:114
+18568660	002	Newcastle disease	phenotype	0	0	0	772:788
+18498950	001	behavioral abnormalities	phenotype	0	0	0	77:100
+18498950	002	motor incoordination	phenotype	0	0	0	110:129,738:757,1492:1511
+18498950	003	motor coordination	phenotype	0	0	0	366:383
+18498950	004	olfactory bulb	phenotype	0	0	0	1048:1061
+18498950	005	behavioral deficits	phenotype	0	0	0	1110:1128
+18498950	006	body size	phenotype	0	0	0	1265:1273
+18496857	001	growth rate	phenotype	0	0	0	619:629
+18496857	002	Growth rate	phenotype	0	0	0	659:669
+18496857	003	craniofacial skeleton	phenotype	0	0	0	830:850
+18484055	001	bilateral seminoma	phenotype	0	0	0	11:28,392:409
+18484055	002	neoplastic spermatogenic cells	phenotype	0	0	0	244:273
+18454809	001	lipid metabolism	phenotype	0	0	0	203:218
+18421496	001	white ibis	phenotype	0	0	0	1820:1829
+18409086	001	white proteins	gene	0	0	0	8:21
+18409086	002	Ovotransferrin	gene	0	0	0	385:398
+18409086	003	egg white	phenotype	0	0	0	507:515
+18359507	001	early embryo mortality	phenotype	0	0	0	546:567
+18359507	002	medium embryo mortality	phenotype	0	0	0	576:598
+18359507	003	late embryo mortality	phenotype	0	0	0	610:630
+18359507	004	Overall fertility	phenotype	0	0	0	743:759
+18359507	005	fertile egg	phenotype	0	0	0	887:897
+18337310	001	increase in body temperature	phenotype	0	0	0	91:118
+18337310	002	stress fever	phenotype	0	0	0	235:246,294:305
+18214862	001	hypoxia	phenotype	0	0	0	169:175,1103:1109
+18214862	002	hypoxic pulmonary vasoconstriction	phenotype	0	0	0	367:400
+18214862	003	hypoxic response	phenotype	0	0	0	511:526,1765:1780
+18214862	004	systemic hypoxic vasodilation	phenotype	0	0	0	1656:1684
+18214862	005	pulmonary hypoxic vasoconstriction	phenotype	0	0	0	1690:1723
+18214862	006	hypoxic vasoconstriction	phenotype	0	0	0	1869:1892
+18085166	001	of the parasympathicus	phenotype	0	0	0	393:414
+18085166	002	paralysis of skeletal muscles	phenotype	0	0	0	430:458
+18084777	001	cyst type I	phenotype	0	0	0	48:58,1089:1099
+18084777	002	cyst type III	phenotype	0	0	0	1123:1135
+18065138	001	acute respiratory distress	phenotype	0	0	0	72:97
+18065138	002	lethargy	phenotype	0	0	0	103:110
+18065138	003	respiratory distress	phenotype	0	0	0	160:179
+18065138	004	neck lacerations	phenotype	0	0	0	247:262
+18065138	005	collapsed trachea	phenotype	0	0	0	388:404
+18058032	001	DDT	gene	0	0	0	2229:2231
+17900574	001	androgen receptor	gene	0	0	0	5:21
+17900574	002	AR	gene	0	0	0	24:25,180:181,280:281,180:181,280:281,389:390,496:497,389:390,496:497,559:560,651:652,788:789,953:954,1281:1282,1499:1500
+17704370	001	intracranial fat body	phenotype	0	0	0	46:66,653:673
+17704370	002	motor incoordination	phenotype	0	0	0	533:552
+17704370	003	olfactory bulb	phenotype	0	0	0	941:954
+17675860	001	like receptor 7	gene	0	0	0	1003:1017
+17675860	002	lectin immunoreceptors	phenotype	0	0	0	971:992
+17675140	001	breast tissue	phenotype	0	0	0	64:76
+17675140	002	DDT	gene	0	0	0	1422:1424
+17675140	003	Breast tissue	phenotype	0	0	0	1949:1961
+17675140	004	breast muscle	phenotype	0	0	0	2934:2946
+17576569	001	Angiotensin II	gene	0	0	0	1185:1198
+17576569	002	ANG II	gene	0	0	0	1201:1206,1302:1307,1485:1490
+17552093	001	influenza A	phenotype	0	0	0	908:918
+17549551	001	Renal and pancreatic	phenotype	0	0	0	775:794
+17494599	001	influenza A virus infection	phenotype	0	0	0	19:45
+17403008	001	body weight	phenotype	0	0	0	213:223
+17403008	002	abdominal fat	phenotype	0	0	0	419:431
+17403008	003	skin fat	phenotype	0	0	0	443:450,785:792
+17403008	004	drip loss	phenotype	0	0	0	518:526
+17403008	005	cooking loss	phenotype	0	0	0	541:552
+17403008	006	weight of crop	phenotype	0	0	0	769:782
+17403008	007	weight of breast	phenotype	0	0	0	948:963
+17403008	008	fat thickness	phenotype	0	0	0	1135:1147
+17403008	009	weight of liver	phenotype	0	0	0	1270:1284
+17385558	001	wild field	phenotype	0	0	0	82:91
+17385558	002	lethargy	phenotype	0	0	0	566:573
+17385558	003	muscular weakness	phenotype	0	0	0	576:592
+17385558	004	Liver and spleen enlargement	phenotype	0	0	0	640:667
+17385558	005	thin smears	phenotype	0	0	0	730:740
+17385558	006	enlarged livers	phenotype	0	0	0	765:779
+17371385	001	bronchosyringeal cartilage	phenotype	0	0	0	347:372,960:985,1087:1112
+17371385	002	longish oval	phenotype	0	0	0	571:582
+17359270	001	haemolytic porcine isolates of intestinal spirochaetes	phenotype	0	0	0	20:73
+17317328	001	metal accumulation	phenotype	0	0	0	190:207
+17317328	002	MT1	gene	0	0	0	299:301,324:326,299:301,324:326,364:366,641:643,833:835,865:867,833:835,865:867,1043:1045,1124:1126,1266:1268,1650:1652
+17317328	003	MT3	gene	0	0	0	685:687
+17317328	004	MT2	gene	0	0	0	852:854,1014:1016,1132:1134,1432:1434,1620:1622,1432:1434,1620:1622,1707:1709
+17317328	005	hepatic Ag	phenotype	0	0	0	1503:1512
+17230398	001	prey size	phenotype	0	0	0	707:715
+17215160	001	stimulating hormone	gene	0	0	0	87:105
+17215160	002	male muscovy duck Cairina moschata	phenotype	0	0	0	423:456
+17215160	003	TRH	gene	0	0	0	1488:1490
+17184349	001	spatial configurations	phenotype	0	0	0	661:682
+17177058	001	inflammation of secondary	phenotype	0	0	0	1027:1051
+17177058	002	alveolar wall congestion	phenotype	0	0	0	1307:1330
+17177058	003	edema	phenotype	0	0	0	1333:1337
+17177058	004	lymphocyte infiltrates	phenotype	0	0	0	1343:1364
+17166697	001	androgen receptors	gene	0	0	0	576:593
+17161174	001	congenital heart disease	phenotype	0	0	0	27:50,1409:1432
+17161174	002	hypoxemia	phenotype	0	0	0	164:172
+17161174	003	cardiopulmonary arrest	phenotype	0	0	0	231:252
+17161174	004	circulation membrane oxygen	phenotype	0	0	0	393:419
+17161174	005	persistent acidosis	phenotype	0	0	0	495:513
+17161174	006	hemorrhagic spleen	phenotype	0	0	0	932:949
+17161174	007	splenic infarct	phenotype	0	0	0	1123:1137,1199:1213
+17161174	008	hemoperitoneum	phenotype	0	0	0	1501:1514
+17161174	009	splenic rupture	phenotype	0	0	0	1529:1543
+17161174	00A	Melanitta nigra	phenotype	0	0	0	1830:1844
+17023601	001	aquaporin 1	gene	0	0	0	241:251,555:565
+17023601	002	AQP1	gene	0	0	0	568:571,701:704,836:839,900:903,836:839,900:903
+17023601	003	aquaporin 5	gene	0	0	0	578:588
+17023601	004	AQP5	gene	0	0	0	591:594,710:713,1032:1035
+16989964	001	ovarian development	phenotype	0	0	0	8:26
+16989964	002	releasing hormone	gene	0	0	0	257:273
+16989964	003	body mass	phenotype	0	0	0	720:728
+16989964	004	ovary weight	phenotype	0	0	0	707:718,773:784
+16938296	001	angiotensin II	gene	0	0	0	1074:1087
+16938296	002	PRL	gene	0	0	0	1108:1110,1283:1285,2095:2097
+16938296	003	body mass	phenotype	0	0	0	958:966
+16938296	004	salt gland secretion	phenotype	0	0	0	2292:2311
+16930702	001	IGHM	gene	0	0	0	132:135
+16919729	001	transcription factors	gene	0	0	0	749:769
+16903476	001	egg weight	phenotype	0	0	0	571:580
+16894718	001	intestinal flukes	phenotype	0	0	0	277:293
+16894718	002	Notocotylus attenuatus of the family Notocotylidae	phenotype	0	0	0	830:879
+16854647	001	seminoma with visceral metastases	phenotype	0	0	0	22:54
+16854647	002	rough whitish nodules	phenotype	0	0	0	270:290
+16854647	003	right testicular parenchyma	phenotype	0	0	0	391:417
+16854647	004	Multiple lung metastases	phenotype	0	0	0	715:738
+16854647	005	peritoneal metastases	phenotype	0	0	0	851:871
+16840252	001	toxicity of lead to the liver and kidney	phenotype	0	0	0	304:343
+16840252	002	dry weight	phenotype	0	0	0	539:548
+16840252	003	GSH S	gene	0	0	0	1161:1165
+16840252	004	glutamyl transferase	gene	0	0	0	1495:1514
+16840252	005	lipid peroxidation	phenotype	0	0	0	1549:1566
+16822269	001	pituitary adenylate cyclase - activating polypeptide	gene	0	0	0	
+16822269	002	CD68	gene	0	0	0	320:323
+16649371	001	cercarial dermatitis	phenotype	0	0	0	1106:1125
+16649371	002	paddy field workers	phenotype	0	0	0	1181:1199
+16537157	001	enteric disease	phenotype	0	0	0	1735:1749
+19754829	001	Sertoli cell tumor	phenotype	0	0	0	64:81
+19754829	002	left testis	phenotype	0	0	0	97:107
+19754829	003	clinical condition	phenotype	0	0	0	338:355
+19754829	004	Sertoli cell tumors	phenotype	0	0	0	381:399
+16480768	001	EBP	gene	0	0	0	553:555,610:612
+16446990	001	plasma chemistries	phenotype	0	0	0	404:421
+16446990	002	blood lead	phenotype	0	0	0	848:857
+16446990	003	ALAD	gene	0	0	0	914:917
+16425630	001	influenza A	phenotype	0	0	0	7:17
+16425630	002	poultry disease	phenotype	0	0	0	90:104
+16425630	003	plovers and lapwings	phenotype	0	0	0	1969:1988
+16407091	001	body weight	phenotype	0	0	0	449:459
+16407091	002	male Canada geese	phenotype	0	0	0	593:609
+16407091	003	hemorrhage into	phenotype	0	0	0	716:730
+16407091	004	accumulation in liver and kidney	phenotype	0	0	0	763:794
+16407091	005	dry weight	phenotype	0	0	0	928:937
+16407091	006	V accumulation in liver and kidney	phenotype	0	0	0	1223:1256
+16407091	007	intestinal hemorrhage	phenotype	0	0	0	1306:1326,1653:1673
+16407091	008	hepatic oxidative stress	phenotype	0	0	0	1370:1393
+16407091	009	weight loss	phenotype	0	0	0	1488:1498
+16407091	00A	liver and kidney	phenotype	0	0	0	1610:1625
+16398331	001	influenza A	phenotype	0	0	0	630:640
+16392015	001	physical injury	phenotype	0	0	0	482:496
+16392015	002	gross abnormalities	phenotype	0	0	0	514:532
+16392015	003	body weight	phenotype	0	0	0	778:788,1053:1063
+16392015	004	weight gain	phenotype	0	0	0	1037:1047
+16359109	001	fertility rate	phenotype	0	0	0	1109:1122
+16359109	002	increased fertility	phenotype	0	0	0	1296:1314
+16351835	001	muscarinic acetylcholine receptors	gene	0	0	0	1659:1692
+16351835	002	vasoactive intestinal peptide	gene	0	0	0	1712:1740
+16313299	001	transcription factor	gene	0	0	0	707:726
+16313299	002	CD 28 RE	gene	0	0	0	773:780
+16307214	001	toxicity to embryos	phenotype	0	0	0	801:819
+16307214	002	reproductive impairment	phenotype	0	0	0	974:996
+16307214	003	egg weight	phenotype	0	0	0	2910:2919
+16292650	001	arterial blood pressure	phenotype	0	0	0	320:342
+16292650	002	heart rates	phenotype	0	0	0	450:460
+16292650	003	angiotensin II	gene	0	0	0	753:766
+16292650	004	ANG II	gene	0	0	0	769:774
+16272326	001	TAP2	gene	0	0	0	475:478,713:716
+16272326	002	TAP1	gene	0	0	0	707:710
+16244083	001	dry weight	phenotype	0	0	0	275:284
+16206573	001	reduced hatchability	phenotype	0	0	0	80:99
+16191707	001	supraorbital bony recesses	phenotype	0	0	0	123:148
+16191707	002	Granulomatous inflammation	phenotype	0	0	0	151:176
+16191707	003	central necrotic heterophils	phenotype	0	0	0	585:612
+16191707	004	multinucleate giant cells	phenotype	0	0	0	619:643
+16182151	001	CR1	gene	0	0	0	19:21,124:126,926:928,1079:1081,1315:1317
+16182151	002	lactate dehydrogenase B	gene	0	0	0	167:189
+16075271	001	Cell cycle arrest	phenotype	0	0	0	1:17
+16075271	002	CDK2	gene	0	0	0	134:137
+16075271	003	osmotic stress	phenotype	0	0	0	477:490,570:583
+16075271	004	acetylcholine receptor	gene	0	0	0	1307:1328
+15964231	001	fatty hepatocyte plasma membrane	phenotype	0	0	0	827:858
+15964231	002	fatty acids	phenotype	0	0	0	903:913
+15964231	003	hepatic lipogenesis	phenotype	0	0	0	1242:1260
+15955364	001	duck females	phenotype	0	0	0	164:175
+15955364	002	early embryo mortality	phenotype	0	0	0	1084:1105,1325:1346
+15951252	001	IPC discharge	phenotype	0	0	0	968:980,1064:1076
+15951252	002	carbonic anhydrase	gene	0	0	0	1218:1235
+15921605	001	rice field rats	phenotype	0	0	0	923:937,1079:1093,1832:1846
+15914837	001	acute respiratory syndrome	phenotype	0	0	0	92:117
+15914837	002	lower body weights	phenotype	0	0	0	727:744
+15892059	001	AVM disease	phenotype	0	0	0	1206:1216
+15887091	001	saline tolerance	phenotype	0	0	0	95:110
+15887091	002	body water	phenotype	0	0	0	255:264
+15887091	003	aldosterone concentration	phenotype	0	0	0	660:684
+15841394	001	inflammatory diseases	phenotype	0	0	0	241:261
+15841394	002	macrophage inflammatory protein 1	gene	0	0	0	621:653
+15841394	003	MIP	gene	0	0	0	661:663,956:958,1096:1098,956:958,1096:1098
+15841394	004	hepatitis B	phenotype	0	0	0	1573:1583
+15839428	001	weight loss	phenotype	0	0	0	792:802
+15839421	001	anatipestifer infection	phenotype	0	0	0	502:524
+15827222	001	brain lesions	phenotype	0	0	0	566:578,828:840,1205:1217,2242:2254
+15827222	002	ataxia	phenotype	0	0	0	1812:1817
+15827222	003	limb weakness	phenotype	0	0	0	1820:1832
+15805046	001	vitamin A	gene	0	0	0	719:727
+15777815	001	social stress	phenotype	0	0	0	332:344,661:673
+15777815	002	social ranks	phenotype	0	0	0	846:857
+15763726	001	mucinous adenocarcinoma	phenotype	0	0	0	11:33
+15763726	002	type II pneumocytoid carcinoma	phenotype	0	0	0	371:400
+15763726	003	papillary growths	phenotype	0	0	0	458:474
+15763726	004	ciliated cell adenocarcinoma	phenotype	0	0	0	631:658
+15763726	005	squamous metaplasia	phenotype	0	0	0	665:683
+15763726	006	neoplasm	phenotype	0	0	0	794:801
+15763726	007	squamous differentiation	phenotype	0	0	0	849:872
+15763726	008	malignant tumours	phenotype	0	0	0	1009:1025
+15720008	001	Duckling mass	phenotype	0	0	0	317:329
+15720008	002	skeletal size	phenotype	0	0	0	335:347,669:681
+15720008	003	body mass	phenotype	0	0	0	655:663
+15597192	001	regulating energy homeostasis	phenotype	0	0	0	821:849
+15579551	001	heat loss	phenotype	0	0	0	166:174,299:307
+15579551	002	body temperature	phenotype	0	0	0	343:358
+15465716	001	neurologic disease	phenotype	0	0	0	40:57
+15369835	001	gonadotropin releasing hormone	gene	0	0	0	798:827
+15369835	002	estrogen receptor	gene	0	0	0	857:873
+15369835	003	hepatic GH receptor	gene	0	0	0	1132:1150
+15369835	004	GHR	gene	0	0	0	1153:1155
+15369835	005	IGF receptor	gene	0	0	0	1169:1180
+15369835	006	embryonic growth	phenotype	0	0	0	1836:1851
+15345473	001	sea lamprey dorsal aorta	phenotype	0	0	0	1036:1059
+15345473	002	marine toad aorta	phenotype	0	0	0	1062:1078
+15345473	003	alligator aorta	phenotype	0	0	0	1081:1095
+15345473	004	duck aorta	phenotype	0	0	0	1105:1114
+15327119	001	GI tract	phenotype	0	0	0	219:226,1160:1167,1342:1349,1494:1501
+15327119	002	growth of intestinal villi	phenotype	0	0	0	240:265
+15327119	003	body mass	phenotype	0	0	0	568:576,967:975,2278:2286
+15327119	004	increased body mass	phenotype	0	0	0	2019:2037
+15327119	005	growth rate	phenotype	0	0	0	2043:2053
+15276981	001	gondii infection	phenotype	0	0	0	1094:1109
+15205935	001	TAP2	gene	0	0	0	1100:1103,1205:1208,1355:1358,1406:1409
+15185116	001	osmotic stress	phenotype	0	0	0	130:143
+15185116	002	cell proliferation	phenotype	0	0	0	165:182
+15185116	003	excess salt	phenotype	0	0	0	296:306
+15185116	004	muscarinic acetylcholine receptors	gene	0	0	0	512:545
+15185116	005	vasoactive intestinal peptide	gene	0	0	0	790:818
+15092913	001	TEF	gene	0	0	0	1266:1268
+15077686	001	zinc toxicosis	phenotype	0	0	0	132:145
+15077686	002	abnormal size	phenotype	0	0	0	632:644
+15077686	003	clinical disease	phenotype	0	0	0	937:952
+15077686	004	hypochromic RBCs	phenotype	0	0	0	1136:1151
+15077686	005	RBC nuclear abnormalities	phenotype	0	0	0	1173:1197
+15077686	006	morphologic abnormalities	phenotype	0	0	0	1250:1274
+15077686	007	hemolysis	phenotype	0	0	0	1364:1372
+15077686	008	iron deficiency	phenotype	0	0	0	1410:1424
+15077686	009	Erythrocyte nuclear abnormalities	phenotype	0	0	0	1519:1551
+15017285	001	collect intestinal spirochaetes	phenotype	0	0	0	39:69
+14972586	001	Eudyptula minor	phenotype	0	0	0	285:299
+14676018	001	degenerative abnormalities	phenotype	0	0	0	387:412
+14676018	002	the exocrine	phenotype	0	0	0	417:428
+14676018	003	zinc poisoning	phenotype	0	0	0	1263:1276
+14663159	001	mesencephalic trigeminal nucleus	phenotype	0	0	0	31:62
+14663159	002	embryonic development	phenotype	0	0	0	218:238
+14663159	003	programmed cell death	phenotype	0	0	0	791:811
+14658340	001	genetic distances	phenotype	0	0	0	566:582
+14638295	001	abnormal embryos	phenotype	0	0	0	1217:1232
+14638295	002	lower body and liver weights	phenotype	0	0	0	1249:1276
+14567235	001	neurologic disease	phenotype	0	0	0	40:57
+14567235	002	neurologic abnormalities	phenotype	0	0	0	879:902
+14567226	001	abnormalities of the liver and kidney	phenotype	0	0	0	912:948
+14511579	001	WN infection	phenotype	0	0	0	1605:1616
+12965190	001	fatty acids	phenotype	0	0	0	37:47
+12965190	002	lipid peroxidation	phenotype	0	0	0	138:155,1162:1179
+12965190	003	decreased triglycerides	phenotype	0	0	0	685:707
+12965190	004	fatty acid elongation	phenotype	0	0	0	1034:1054
+12965190	005	plasma alkaline phosphatase	gene	0	0	0	1249:1275
+12965190	006	bone metabolism	phenotype	0	0	0	1311:1325
+12928896	001	pituitary adenylate cyclase activating peptide	gene	0	0	0	574:619
+12928896	002	Gal	gene	0	0	0	638:640
+12928896	003	proventricular ganglion cells	phenotype	0	0	0	424:452
+12910770	001	nervous system impairment of motor function	phenotype	0	0	0	368:410
+12910770	002	abnormal movement and posture	phenotype	0	0	0	429:457
+12910770	003	weakness	phenotype	0	0	0	460:467
+12910770	004	paralysis	phenotype	0	0	0	470:478
+12909708	001	saline tolerance	phenotype	0	0	0	141:156,1150:1165
+12892758	001	hepatic steatosis	phenotype	0	0	0	15:31,896:912,1348:1364
+12892758	002	lipid channelling	phenotype	0	0	0	205:221
+12892758	003	fatty liver	phenotype	0	0	0	305:315,1146:1156
+12892758	004	muscular development	phenotype	0	0	0	492:511
+12794672	001	fatty acids	phenotype	0	0	0	713:723
+12790425	001	thromboxane A2	gene	0	0	0	269:282
+12790425	002	gastrointestinal bleeding	phenotype	0	0	0	1283:1307
+12790425	003	muscle necrosis	phenotype	0	0	0	1332:1346,1765:1779
+12790425	004	analgesia	phenotype	0	0	0	1525:1533
+12743723	001	substitute for thermogenesis	phenotype	0	0	0	117:144
+12743723	002	oxygen consumption	phenotype	0	0	0	648:665
+12743723	003	body temperature	phenotype	0	0	0	755:770
+12743723	004	energy intake	phenotype	0	0	0	1162:1174
+12737224	001	egg weight	phenotype	0	0	0	483:492
+12737224	002	body weight	phenotype	0	0	0	498:508,1199:1209
+12712597	001	lost body mass	phenotype	0	0	0	470:483
+12712597	002	angiotensin II	gene	0	0	0	1402:1415
+12712597	003	plasma concentration	phenotype	0	0	0	1826:1845
+12685074	001	mucosal necrosis	phenotype	0	0	0	221:236
+12685074	002	gastrointestinal pathology	phenotype	0	0	0	636:661
+12596366	001	skin affection	phenotype	0	0	0	179:192
+12596366	002	cercarial dermatitis	phenotype	0	0	0	614:633
+12596366	003	respiratory and	phenotype	0	0	0	794:808
+12596366	004	digestive allergic symptoms	phenotype	0	0	0	813:839
+12596366	005	skin dermatitis	phenotype	0	0	0	2177:2191
+12596366	006	mesenteric veins	phenotype	0	0	0	2578:2593
+12596366	007	liver veins	phenotype	0	0	0	2679:2689
+12596366	008	lymphocytic vasculitis	phenotype	0	0	0	2738:2759
+12596366	009	mesothelial hyperplasia	phenotype	0	0	0	2785:2807
+12596366	00A	vascular thromboses	phenotype	0	0	0	3024:3042
+12596366	00B	pulmonary arteries	phenotype	0	0	0	3353:3370
+12596366	00C	hepatic veins	phenotype	0	0	0	3376:3388
+12596366	00D	hepatic lesions	phenotype	0	0	0	3694:3708
+12596366	00E	persistent lesions	phenotype	0	0	0	3855:3872
+12592440	001	Body mass	phenotype	0	0	0	210:218
+12592440	002	body water	phenotype	0	0	0	227:236
+12592440	003	Osm	gene	0	0	0	885:887,912:914
+12592439	001	body mass	phenotype	0	0	0	424:432,699:707
+12528432	001	neurologic disease	phenotype	0	0	0	71:88
+12528432	002	neurologic signs of disease	phenotype	0	0	0	652:678
+12524015	001	inflammatory drugs	phenotype	0	0	0	268:285
+12481873	001	DDT	gene	0	0	0	1:3,581:583,633:635,581:583,633:635
+12079054	001	Embryonic mortality	phenotype	0	0	0	1:19
+12079054	002	embryonic development	phenotype	0	0	0	559:579
+12061662	001	aspartate aminotransferase	gene	0	0	0	920:945
+12061662	002	creatine kinase	gene	0	0	0	948:962
+12061662	003	lactate dehydrogenase	gene	0	0	0	969:989
+12051984	001	long bone growth	phenotype	0	0	0	262:277
+12051984	002	bone shape	phenotype	0	0	0	355:364
+12051984	003	bone growth	phenotype	0	0	0	469:479
+12017770	001	growth rate	phenotype	0	0	0	319:329
+12017770	002	bone growth rate	phenotype	0	0	0	790:805,885:900
+12014506	001	yellow intracranial masses	phenotype	0	0	0	269:294
+12014506	002	intracranial lipomas	phenotype	0	0	0	352:371,701:720
+12014506	003	univacuolated fatty tissue	phenotype	0	0	0	387:412
+12014506	004	cerebellar folia	phenotype	0	0	0	594:609
+11964497	001	pars dorsalis	phenotype	0	0	0	940:952
+11964497	002	craniocervical motor nuclei	phenotype	0	0	0	1240:1266
+11924603	001	clinical disease	phenotype	0	0	0	671:686
+11924603	002	pancreatic mottling	phenotype	0	0	0	777:795
+11924603	003	cerebral malacia	phenotype	0	0	0	879:894
+11924603	004	bursal atrophy	phenotype	0	0	0	911:924
+11924603	005	meningoencephalitis	phenotype	0	0	0	991:1009
+11924603	006	myocarditis	phenotype	0	0	0	1021:1031
+11924603	007	Viral infection	phenotype	0	0	0	1310:1324
+11924603	008	viral antigen	gene	0	0	0	1570:1582
+11879935	001	impaired reproduction with teratogenesis	phenotype	0	0	0	224:263
+11879935	002	reduced growth	phenotype	0	0	0	266:279
+11879935	003	histopathological lesions and alterations in hepatic glutathione metabolism	phenotype	0	0	0	282:356
+11879935	004	oxidative stress	phenotype	0	0	0	478:493,583:598,3482:3497
+11879935	005	lipid peroxidation	phenotype	0	0	0	913:930
+11879935	006	body weight	phenotype	0	0	0	1472:1482
+11879935	007	abnormal feather loss	phenotype	0	0	0	1860:1880
+11879935	008	histopathological lesions	phenotype	0	0	0	1886:1910
+11879935	009	GSH peroxidase	gene	0	0	0	2676:2689
+11879935	00A	GSSG reductase	gene	0	0	0	2745:2758
+11879935	00B	induced teratogenesis	phenotype	0	0	0	3230:3250
+11838227	001	respiratory disease	phenotype	0	0	0	85:103
+11760152	001	lipid peroxides	phenotype	0	0	0	53:67
+11760152	002	oxidative stress	phenotype	0	0	0	325:340,358:373
+11760152	003	GSH S - transferase	gene	0	0	0	
+11760152	004	body weight	phenotype	0	0	0	817:827
+11760152	005	CSH peroxidase	gene	0	0	0	1121:1134
+11760152	006	GSH reductase	gene	0	0	0	1146:1158
+11760152	007	lipid peroxidation	phenotype	0	0	0	1284:1301,1722:1739
+11760152	008	hepatic lipid peroxidation	phenotype	0	0	0	1568:1593
+11719286	001	TRH	gene	0	0	0	1644:1646,1700:1702,1813:1815,2180:2182
+11584754	001	spacer 1	gene	0	0	0	53:60
+11504220	001	body weight	phenotype	0	0	0	1075:1085
+11504219	001	decreased hematocrit	phenotype	0	0	0	870:889
+11504219	002	hemoglobin concentration	phenotype	0	0	0	892:915
+11504218	001	body weight	phenotype	0	0	0	409:419
+11504218	002	organ weight	phenotype	0	0	0	422:433
+11504218	003	liver hemosiderosis	phenotype	0	0	0	955:973
+11504218	004	body weights	phenotype	0	0	0	1446:1457
+11482602	001	accumulation of necrotic debris	phenotype	0	0	0	269:299
+11460741	001	aryl hydrocarbon receptor	gene	0	0	0	481:505
+11460741	002	AHR	gene	0	0	0	508:510,1287:1289,1346:1348,1399:1401,1423:1425
+11460741	003	white leghorn	phenotype	0	0	0	697:709
+11405270	001	malformations in skull and brain anatomy	phenotype	0	0	0	144:183
+11405270	002	several central nervous deficiencies	phenotype	0	0	0	190:225
+11405270	003	intracranial tissue accumulations	phenotype	0	0	0	241:273
+11405270	004	intracranial alterations	phenotype	0	0	0	589:612
+11404311	001	ANG II	gene	0	0	0	404:409,478:483,582:587,590:595,742:747
+11318587	001	seoi infection	phenotype	0	0	0	916:929
+11316495	001	muscle shortening	phenotype	0	0	0	1250:1266
+11316495	002	limb cycle frequency	phenotype	0	0	0	1600:1619
+11316495	003	energy savings	phenotype	0	0	0	1858:1871
+11312653	001	oxidative stress	phenotype	0	0	0	13:28,1378:1393
+11312653	002	glutathione peroxidase	gene	0	0	0	464:485
+11312653	003	PCB 126	gene	0	0	0	612:618
+11312653	004	edema and liver lesions	phenotype	0	0	0	661:683
+11312653	005	decreased embryo size	phenotype	0	0	0	686:706
+11312653	006	increased eye and head malformations	phenotype	0	0	0	709:744
+11312653	007	fat storage	phenotype	0	0	0	768:778
+11312653	008	lipid peroxidation	phenotype	0	0	0	1236:1253
+11312653	009	embryo toxicity	phenotype	0	0	0	1429:1443
+11312653	00A	oxidative damage	phenotype	0	0	0	1500:1515
+11268834	001	body weight	phenotype	0	0	0	1004:1014,1098:1108
+11234542	001	black guillemots Cepphus grylle	phenotype	0	0	0	614:644
+11234542	002	tufted ducks	phenotype	0	0	0	877:888
+11234542	003	black guillemots	phenotype	0	0	0	1167:1182
+11206986	001	central nervous deficiencies	phenotype	0	0	0	284:311
+11206986	002	cranial alterations	phenotype	0	0	0	1542:1560
+11206986	003	malformations of the calvaria	phenotype	0	0	0	1563:1591
+11206986	004	osteophytes	phenotype	0	0	0	1594:1604
+11206986	005	increased capacity of the cranium	phenotype	0	0	0	1607:1639
+11205534	001	skeletal scoliosis	phenotype	0	0	0	786:803
+11205534	002	edema	phenotype	0	0	0	848:852
+11205534	003	oxidative stress	phenotype	0	0	0	902:917,1447:1462
+11205534	004	increased hepatic thiobarbituric acid	phenotype	0	0	0	960:996
+11205534	005	lipid peroxidation	phenotype	0	0	0	1027:1044
+11205534	006	decreased brain GSH	phenotype	0	0	0	1487:1505
+11171301	001	body size	phenotype	0	0	0	438:446
+11171301	002	body mass	phenotype	0	0	0	940:948,1038:1046,940:948,1038:1046,1549:1557
+11127414	001	lost body mass	phenotype	0	0	0	364:377
+11127414	002	heart mass	phenotype	0	0	0	404:413
+11127414	003	gut mass	phenotype	0	0	0	555:562
+11127414	004	inflammation of renal interstitium	phenotype	0	0	0	638:671
+11127414	005	heart water	phenotype	0	0	0	764:774
+11080061	001	carbonic anhydrase	gene	0	0	0	166:183
+11048678	001	cytochrome P	gene	0	0	0	688:699
+11048678	002	liver microsomes	phenotype	0	0	0	741:756
+10871425	001	ALAD	gene	0	0	0	690:693
+10871425	002	blood lead concentration	phenotype	0	0	0	605:628
+10871425	003	depression of red blood cell	phenotype	0	0	0	661:688
+10871425	004	erythrocyte protoporphyrin concentration	phenotype	0	0	0	741:780
+10871425	005	blood lead	phenotype	0	0	0	814:823,1413:1422
+10871425	006	body growth	phenotype	0	0	0	1444:1454
+10871425	007	liver biochemistry	phenotype	0	0	0	1460:1477
+10828844	001	thyroid receptor	gene	0	0	0	185:200
+10828844	002	muscle growth	phenotype	0	0	0	137:149
+10828844	003	thyroid hormones	gene	0	0	0	542:557
+10828844	004	body mass	phenotype	0	0	0	408:416,437:445,511:519,625:633,672:680,408:416,437:445,511:519,625:633,672:680,408:416,437:445,511:519,625:633,672:680,408:416,437:445,511:519,625:633,672:680,1640:1648
+10828844	005	semimembranosus leg muscle	phenotype	0	0	0	734:759
+10828844	006	skeletal dimensions	phenotype	0	0	0	1048:1066
+10828844	007	feather length	phenotype	0	0	0	1077:1090
+10828844	008	Body mass	phenotype	0	0	0	1121:1129
+10790508	001	aminolevulinic acid dehydratase	gene	0	0	0	829:859
+10790508	002	ALAD	gene	0	0	0	862:865
+10790508	003	reduced red blood cell	phenotype	0	0	0	800:821
+10790508	004	lower blood lead	phenotype	0	0	0	1579:1594
+10790508	005	blood lead	phenotype	0	0	0	1674:1683
+10760740	001	mallard duck chorioallantoic membrane	phenotype	0	0	0	1928:1964
+19184795	001	malformations in skull and brain anatomy	phenotype	0	0	0	171:210
+19184795	002	central nervous deficiencies	phenotype	0	0	0	225:252
+19184795	003	abnormal fatty tissue deposits	phenotype	0	0	0	848:877
+19184795	004	cranial malformations	phenotype	0	0	0	907:927
+19184795	005	variable bone formations	phenotype	0	0	0	934:957
+19184795	006	cranium growth	phenotype	0	0	0	1571:1584
+10734378	001	egg fertility	phenotype	0	0	0	90:102,523:535
+10734378	002	Egg fertility	phenotype	0	0	0	566:578
+10682752	001	paralysis and anorexia	phenotype	0	0	0	686:707
+10682752	002	and gizzard weight	phenotype	0	0	0	750:767
+10682752	003	increased kidney weight	phenotype	0	0	0	770:792
+10682752	004	macroscopic lesions	phenotype	0	0	0	799:817
+10682752	005	or abnormal	phenotype	0	0	0	976:986
+10682752	006	aspartate aminotransferase	gene	0	0	0	1594:1619
+10682752	007	alkaline phosphatase	gene	0	0	0	1651:1670
+10681098	001	salt gland secretion	phenotype	0	0	0	379:398
+10681098	002	glomerular filtration rate	phenotype	0	0	0	407:432
+10681098	003	total body water	phenotype	0	0	0	441:456
+10681098	004	body mass	phenotype	0	0	0	584:592
+10681098	005	renal tubular damage	phenotype	0	0	0	947:966
+10633919	001	leg paralysis	phenotype	0	0	0	245:257,1089:1101
+10633919	002	orientation / balance disorders of birds	phenotype	0	0	0	
+10633919	003	cercarial dermatitis of mammals	phenotype	0	0	0	952:982
+10609050	001	neuronal density	phenotype	0	0	0	336:351
+10609050	002	neuron density	phenotype	0	0	0	381:394
+10609050	003	nerve plexuses	phenotype	0	0	0	532:545
+10609050	004	tunica adventitia	phenotype	0	0	0	562:578
+10609050	005	muscular motility	phenotype	0	0	0	961:977
+10603329	001	heat loss	phenotype	0	0	0	693:701,732:740
+10603329	002	metabolic heat production	phenotype	0	0	0	745:769
+10563490	001	unihemispheric slow	phenotype	0	0	0	74:92
+10563490	002	wave sleep	phenotype	0	0	0	94:103
+10562453	001	glomerular filtration rate	phenotype	0	0	0	246:271
+10562453	002	preinfusion plasma melatonin concentration	phenotype	0	0	0	845:886
+10562453	003	secretion rate	phenotype	0	0	0	1032:1045
+10562453	004	salt gland secretion	phenotype	0	0	0	1469:1488
+10190055	001	mammalian monooxygenase	gene	0	0	0	21:43
+10190055	002	cytochrome P450	gene	0	0	0	1473:1487
+10099952	001	oculomotor nerve	phenotype	0	0	0	1002:1017
+10076926	001	horseradish peroxidase	gene	0	0	0	275:296
+10047601	001	atrophy of the breast	phenotype	0	0	0	597:617
+10047600	001	white phosphorus	phenotype	0	0	0	33:48
+10047600	002	body weight	phenotype	0	0	0	332:342
+10047600	003	liver dysfunction	phenotype	0	0	0	911:927
+10047600	004	hemolysis	phenotype	0	0	0	937:945
+10047600	005	aspartate aminotransferase	gene	0	0	0	1025:1050
+10047600	006	lactate dehydrogenase	gene	0	0	0	1074:1094
+10047600	007	alanine aminotransferase	gene	0	0	0	1101:1124
+10047600	008	White phosphorus	phenotype	0	0	0	948:963
+10047600	009	blood urea nitrogen	phenotype	0	0	0	1053:1071
+9879557	001	schistosome infection	phenotype	0	0	0	166:186
+9813837	001	inflammatory response	phenotype	0	0	0	578:598
+9813837	002	Bacterial infections	phenotype	0	0	0	715:734
+9813837	003	Mean weights of kidneys	phenotype	0	0	0	768:790
+9813836	001	hemoglobin concentration	phenotype	0	0	0	462:485
+9813836	002	renal nephrosis	phenotype	0	0	0	986:1000
+9813836	003	biliary stasis	phenotype	0	0	0	1154:1167,1175:1188
+9755048	001	Osmotic stress	phenotype	0	0	0	1:14
+9755048	002	cell proliferation	phenotype	0	0	0	89:106
+9755048	003	Jun	gene	0	0	0	320:322,407:409,490:492,407:409,490:492,733:735
+9755048	004	osmotic stress	phenotype	0	0	0	173:186,638:651
+9755048	005	ACh receptor	gene	0	0	0	1178:1189
+9680527	001	dry weight	phenotype	0	0	0	903:912
+9680527	002	body weight	phenotype	0	0	0	979:989
+9646407	001	malformations in skull and brain anatomy	phenotype	0	0	0	137:176
+9646407	002	several central nervous deficiencies	phenotype	0	0	0	183:218
+9646407	003	abnormal tissue deposits	phenotype	0	0	0	959:982
+9646407	004	cranial malformations	phenotype	0	0	0	1035:1055
+9646407	005	variable bone formations	phenotype	0	0	0	1062:1085
+9646407	006	malformations of upper beak and cranium	phenotype	0	0	0	1200:1238
+9601923	001	adult turkey vultures	phenotype	0	0	0	491:511
+9628539	001	testosterone concentration	phenotype	0	0	0	542:567,657:682
+9601924	001	reduced growth	phenotype	0	0	0	55:68
+9601924	002	bone abnormalities	phenotype	0	0	0	75:92
+9601924	003	bone growth	phenotype	0	0	0	586:596,1251:1261
+9601924	004	calcium homeostasis	phenotype	0	0	0	631:649
+9601924	005	bone mineralization	phenotype	0	0	0	800:818,1791:1809
+9601924	006	decreased tibia dry weight	phenotype	0	0	0	975:1000
+9601924	007	tibia weight	phenotype	0	0	0	1283:1294
+9601924	008	growth rate	phenotype	0	0	0	1643:1653
+9601151	001	weight loss	phenotype	0	0	0	345:355
+9601151	002	Triglyceride levels	phenotype	0	0	0	640:658
+9601151	003	blood lipid classes	phenotype	0	0	0	1078:1096
+9591362	001	Angiotensin II	gene	0	0	0	102:115
+9591362	002	ANG II	gene	0	0	0	118:123,217:222,812:817,991:996,1019:1024,1253:1258,1299:1304,1410:1415,1476:1481,1410:1415,1476:1481,1661:1666,1805:1810,1661:1666,1805:1810
+9591362	003	arterial blood pressure	phenotype	0	0	0	363:385,1340:1362
+9591362	004	conscious white Pekin ducks	phenotype	0	0	0	390:416
+9591362	005	Nasal salt gland fluid secretion	phenotype	0	0	0	419:450
+9591362	006	ANG I	gene	0	0	0	898:902,929:933,1551:1555
+9591362	007	AT1 receptor	gene	0	0	0	1107:1118
+9591362	008	AT2 receptor	gene	0	0	0	1159:1170
+9591362	009	angiotensin II	gene	0	0	0	2004:2017,2134:2147,2228:2241,2337:2350,2134:2147,2228:2241,2337:2350
+9591362	00A	angiotensin I	gene	0	0	0	2134:2146,2228:2240,2313:2325,2337:2349
+9577778	001	C. burnetii infection	phenotype	0	0	0	1165:1185
+9541602	001	duck bile	phenotype	0	0	0	123:131
+9440248	001	sheep red blood cells	phenotype	0	0	0	457:477
+9440248	002	lectin	gene	0	0	0	766:771
+9440248	003	plasma cholesterol levels	phenotype	0	0	0	1037:1061
+9388021	001	Horseradish peroxidase	gene	0	0	0	300:321
+9388021	002	contralateral intratelencephalic connections	phenotype	0	0	0	1358:1401
+9388021	003	occipitomesencephalic tract	phenotype	0	0	0	1908:1934
+9268144	001	horseradish peroxidase	gene	0	0	0	690:711
+9268144	002	facial subnuclei	phenotype	0	0	0	792:807
+9249683	001	Chronic selenium toxicosis	phenotype	0	0	0	1:26
+9249683	002	feeding selenium	phenotype	0	0	0	95:110
+9249683	003	hepatocellular vacuolar degeneration	phenotype	0	0	0	421:456
+9249683	004	panlobular necrosis	phenotype	0	0	0	491:509
+9249683	005	apoptosis of pancreatic exocrine	phenotype	0	0	0	523:554
+9249683	006	hypermaturity and avascularity of contour feathers of the head with atrophy of feather follicles	phenotype	0	0	0	563:658
+9249683	007	lymphocytic necrosis	phenotype	0	0	0	661:680
+9249683	008	atrophy of lymphoid organs	phenotype	0	0	0	686:711
+9249683	009	degeneration of fat	phenotype	0	0	0	802:820
+9249683	00A	atrophy of lymphoid tissue	phenotype	0	0	0	1030:1055
+9249683	00B	hyalinogranular swelling of hepatocytes	phenotype	0	0	0	1058:1096
+9249683	00C	atrophy of seminiferous tubules	phenotype	0	0	0	1099:1129
+9249683	00D	senescence of feathers	phenotype	0	0	0	1136:1157
+9249683	00E	histologic lesions	phenotype	0	0	0	1175:1192
+9249683	00F	selenium accumulation	phenotype	0	0	0	1362:1382
+9249683	00G	chronic selenosis	phenotype	0	0	0	1830:1846
+9249683	00H	weight loss	phenotype	0	0	0	1860:1870
+28307498	001	dabbling ducks on breeding lakes	phenotype	0	0	0	101:132
+9131547	001	white phosphorus	phenotype	0	0	0	47:62
+9131547	002	fat deposition	phenotype	0	0	0	841:854
+9131547	003	White phosphorus	phenotype	0	0	0	892:907
+9088617	001	breast muscle pectoralis	phenotype	0	0	0	82:105
+9088617	002	spent layer Tsaiya	phenotype	0	0	0	116:133
+9088617	003	Tsaiya duck breast muscle	phenotype	0	0	0	730:754
+15093475	001	eggshell thickness	phenotype	0	0	0	158:175
+15093475	002	DDT	gene	0	0	0	410:412,557:559,410:412,557:559,1164:1166
+15093475	003	wild brown pelicans	phenotype	0	0	0	1200:1218
+15093475	004	eggshell thinning	phenotype	0	0	0	1265:1281
+15093475	005	decreased eggshell thickness	phenotype	0	0	0	1613:1640
+9691499	001	fungal inflammation	phenotype	0	0	0	845:863
+9424942	001	Dicranotaenia coronula for Chloephaga picta and Cairina moschata	phenotype	0	0	0	531:594
+9424942	002	Cloacotaenia megalops for Branta bernicla	phenotype	0	0	0	597:637
+9424942	003	Branta bernicla and Anas platyrhynchos	phenotype	0	0	0	698:735
+9424942	004	Fimbriaria fasciolaris for Cygnus olor and Chloephaga picta	phenotype	0	0	0	738:796
+9424942	005	Sobolevicanthus gracilis for Cygnus atratus	phenotype	0	0	0	799:841
+9424942	006	Chloephaga picta and Tadorna tadorna	phenotype	0	0	0	844:879
+9424942	007	Anser indicus and Anser caerulescens	phenotype	0	0	0	1006:1041
+9424942	008	Syngamus trachea	phenotype	0	0	0	1044:1059
+9424942	009	Echinuria uncinata for Anser indicus	phenotype	0	0	0	1080:1115
+9424942	00A	Ganguleterakis dispar for Cgynus melanocoryphus	phenotype	0	0	0	1118:1164
+9424942	00B	Cgynus olor and Anser caerulescens	phenotype	0	0	0	1167:1200
+9424942	00C	Pterothominx caudinflata for Anser indicus	phenotype	0	0	0	1203:1244
+9424942	00D	Amidostomum ansersis for Cygnus olor and Branta bernicla	phenotype	0	0	0	1247:1302
+9424942	00E	Capillaria anatis for Anas acuta	phenotype	0	0	0	1305:1336
+9027691	001	triglyceride levels	phenotype	0	0	0	399:417
+9027691	002	intact body mass	phenotype	0	0	0	547:562
+9027691	003	nutrient masses	phenotype	0	0	0	697:711
+9027691	004	body mass	phenotype	0	0	0	870:878
+18645898	001	alanine aminotransferase	gene	0	0	0	102:125
+18645898	002	creatine phosphokinase	gene	0	0	0	135:156
+18645898	003	apres infection	phenotype	0	0	0	423:437
+18645898	004	les valeurs comparees a celles d'un lot temoin	phenotype	0	0	0	442:487
+8939001	001	cytochrome b	gene	0	0	0	425:436
+8781073	001	breast muscle	phenotype	0	0	0	91:103
+8842464	001	egg weight	phenotype	0	0	0	409:418,817:826,1373:1382,1552:1561
+8842464	002	egg fertility	phenotype	0	0	0	1037:1049
+8827673	001	selenium toxicosis	phenotype	0	0	0	160:177,1868:1885
+8827673	002	body weight	phenotype	0	0	0	1452:1462,1631:1641
+8827673	003	macroscopic abnormalities	phenotype	0	0	0	1663:1687
+8827673	004	reproductive failure	phenotype	0	0	0	1731:1750
+8827673	005	alterations of blood and tissue chemistries	phenotype	0	0	0	1757:1799
+8827673	006	Lead or dioxin poisoning	phenotype	0	0	0	1802:1825
+8687999	001	toxicity to fish	phenotype	0	0	0	142:157
+8687999	002	oxidative stress	phenotype	0	0	0	305:320
+8687999	003	glutathione peroxidase	gene	0	0	0	862:883
+8687999	004	hepatic glutathione	gene	0	0	0	1084:1102
+8687999	005	impaired growth	phenotype	0	0	0	990:1004
+8761986	001	supraspinal motor nucleus	phenotype	0	0	0	231:255
+8727570	001	extracellular dilution acidosis	phenotype	0	0	0	37:67
+8727570	002	osmotic stress	phenotype	0	0	0	139:152
+8727570	003	hyperosmotic stress	phenotype	0	0	0	860:878
+8727570	004	extracellular acidosis	phenotype	0	0	0	1637:1658
+8815101	001	Clostridium botulinum type C	phenotype	0	0	0	54:81
+8722273	001	black ducks	phenotype	0	0	0	790:800
+9142338	001	vena portalis renalis caudalis	phenotype	0	0	0	171:200,1022:1051
+9142338	002	vena iliaca communis	phenotype	0	0	0	207:226,893:912,1088:1107
+9142338	003	blood pressure	phenotype	0	0	0	294:307,959:972,1216:1229,1360:1373
+9142338	004	vena iliaca externa and vena portalis renalis caudalis	phenotype	0	0	0	754:807
+9142338	005	renal refluent venous blood	phenotype	0	0	0	864:890
+9142338	006	vena renalis caudalis	phenotype	0	0	0	918:938
+9142338	007	higher blood pressure	phenotype	0	0	0	1209:1229
+9142338	008	renal parenchyma	phenotype	0	0	0	1468:1483
+8982813	001	lysosomal aggregations	phenotype	0	0	0	208:229
+8982813	002	cerebellar circuitry passes	phenotype	0	0	0	1224:1250
+8713040	001	susceptibility of the Muscovy	phenotype	0	0	0	21:49
+8627931	001	aspartate aminotransferase	gene	0	0	0	408:433
+8627931	002	blood packed cell volume	phenotype	0	0	0	456:479
+8627918	001	lymphocytic inflammation	phenotype	0	0	0	802:825
+8627918	002	particle deposition	phenotype	0	0	0	844:862,911:929,844:862,911:929
+8627918	003	histiocytic inflammation	phenotype	0	0	0	873:896
+8627918	004	inflammatory responses	phenotype	0	0	0	1470:1491
+7640300	001	alpha B	gene	0	0	0	1089:1095,1131:1137,1251:1257
+7640300	002	osmotic stress	phenotype	0	0	0	1052:1065
+8592358	001	mycoplasma infection	phenotype	0	0	0	33:52
+8592347	001	Vitamin A	gene	0	0	0	1:9
+8592347	002	male mallards	phenotype	0	0	0	210:222
+8592347	003	vitamin A	gene	0	0	0	311:319,403:411,517:525,403:411,517:525,594:602,674:682
+8592347	004	Squamous metaplastic lesions	phenotype	0	0	0	348:375
+8592346	001	squamous metaplasia	phenotype	0	0	0	155:173
+8592346	002	vitamin A	gene	0	0	0	386:394,448:456,759:767,878:886,963:971,878:886,963:971,1130:1138,1214:1222,1130:1138,1214:1222,1338:1346,1446:1454,1338:1346,1446:1454
+8592346	003	Palatine salivary	phenotype	0	0	0	602:618
+8592346	004	Liver weight	phenotype	0	0	0	980:991
+8592346	005	body size	phenotype	0	0	0	1013:1021
+8592346	006	vitamin A concentration	phenotype	0	0	0	1039:1061
+7775238	001	malignant uveal melanoma	phenotype	0	0	0	91:114
+7775238	002	ocular neoplasm	phenotype	0	0	0	251:265
+7775238	003	rib cage	phenotype	0	0	0	301:308
+8583635	001	Newcastle disease	phenotype	0	0	0	608:624
+8583635	002	AIV infection	phenotype	0	0	0	659:671,898:910
+8583635	003	hemagglutination inhibition	phenotype	0	0	0	1181:1207
+8583635	004	neuraminidase inhibition	phenotype	0	0	0	1218:1241
+8583634	001	anatis infection	phenotype	0	0	0	583:598,660:675,583:598,660:675
+8583634	002	cold stress	phenotype	0	0	0	527:537,641:651
+7793009	001	miliary tuberculosis of spleen	phenotype	0	0	0	219:248
+7793009	002	miliary tuberculosis of liver	phenotype	0	0	0	273:301
+7793009	003	miliary tuberculosis of liver and spleen	phenotype	0	0	0	396:435
+7793009	004	tuberculous lesions	phenotype	0	0	0	911:929
+7793009	005	avium infection	phenotype	0	0	0	1194:1208
+7733242	001	protein kinase C	gene	0	0	0	695:710
+7733242	002	protein phosphatases	gene	0	0	0	735:754
+7733242	003	acetylcholine receptor	gene	0	0	0	1247:1268
+7893758	001	argininosuccinate lyase	gene	0	0	0	365:387
+7893758	002	ASL	gene	0	0	0	390:392,613:615,707:709,613:615,707:709,774:776,1126:1128,1343:1345,1421:1423,1570:1572,1343:1345,1421:1423,1570:1572,1343:1345,1421:1423,1570:1572,2032:2034
+7893758	003	CR1	gene	0	0	0	1046:1048,1148:1150
+7893758	004	delta 1	gene	0	0	0	1409:1415,1480:1486,1409:1415,1480:1486
+15091521	001	aminolevulinic acid dehydratase	gene	0	0	0	1281:1311
+15091521	002	ALAD	gene	0	0	0	1314:1317,1413:1416
+15091521	003	blood lead	phenotype	0	0	0	1462:1471
+9319469	001	body moves	phenotype	0	0	0	207:216
+8568228	001	blood brain barrier	phenotype	0	0	0	398:416
+7702525	001	Thin blood smears	phenotype	0	0	0	1:17
+7702525	002	blood parasites	phenotype	0	0	0	332:346
+7828009	001	Body weight	phenotype	0	0	0	445:455
+7828009	002	fatty liver weight	phenotype	0	0	0	568:585,1058:1075
+7828009	003	Pekin x	gene	0	0	0	902:908
+7828009	004	body weight	phenotype	0	0	0	951:961
+7803160	001	contains neck	phenotype	0	0	0	533:545
+7803159	001	facial motor subnuclei innervating jaw - opener muscles	phenotype	0	0	0	
+7933277	001	cystic cavities	phenotype	0	0	0	812:826
+7933277	002	Infected proventricular gland	phenotype	0	0	0	961:989
+7933277	003	pressure atrophy	phenotype	0	0	0	1030:1045
+7933277	004	inflammatory response	phenotype	0	0	0	1204:1224,1334:1354
+8024707	001	binding protein	gene	0	0	0	117:131
+8024707	002	fatty acid synthase thioesterase	gene	0	0	0	302:333,1264:1295
+8024707	003	DBI	gene	0	0	0	168:170,397:399,416:418,704:706,1003:1005,1116:1118,1249:1251
+8184958	001	cerebral blood flow	phenotype	0	0	0	124:142
+8184958	002	arterial blood pressure	phenotype	0	0	0	585:607,893:915
+8184958	003	heart rate	phenotype	0	0	0	651:660
+8184958	004	arterial blood gas tensions	phenotype	0	0	0	663:689
+8199891	001	Average fertility	phenotype	0	0	0	415:431
+8173581	001	dermatitis	phenotype	0	0	0	-44:-35
+8173581	002	parasitizing rate	phenotype	0	0	0	314:330
+8142956	001	body weight	phenotype	0	0	0	-81:-71
+8142956	002	Growth rate	phenotype	0	0	0	259:269
+8142956	003	weight loss	phenotype	0	0	0	348:358
+8142956	004	anemia	phenotype	0	0	0	685:690
+7928022	001	Growth of body and heart weight	phenotype	0	0	0	1:31
+7928022	002	body weight	phenotype	0	0	0	446:456,796:806
+8258848	001	growth rate	phenotype	0	0	0	176:186
+8258848	002	egg weight	phenotype	0	0	0	451:460
+8220576	001	infected dwarf mallards	phenotype	0	0	0	687:709
+8220576	002	Trichobilharzia infection	phenotype	0	0	0	827:851
+8220576	003	cercarial dermatitis	phenotype	0	0	0	1874:1893
+8371274	001	alpha B	gene	0	0	0	1:7,212:218
+8371274	002	shock protein	gene	0	0	0	112:124,574:586
+8257373	001	depressed weight gain	phenotype	0	0	0	303:323,547:567
+8257370	001	tissue damage	phenotype	0	0	0	532:544
+7690719	001	duck lymphocyte	phenotype	0	0	0	262:276
+7690719	002	TNF	gene	0	0	0	770:772
+7690719	003	mammalian target cells	phenotype	0	0	0	1165:1186
+24201552	001	acetylcholinesterase	gene	0	0	0	704:723
+24201552	002	depression of brain AChE	phenotype	0	0	0	1085:1108
+8515432	001	Muscarinic acetylcholine receptor	gene	0	0	0	1:33
+8515432	002	phospholipase C	gene	0	0	0	1388:1402
+8487381	001	enzymes creatine kinase	gene	0	0	0	29:51
+8487381	002	aspartate aminotransferase	gene	0	0	0	62:87
+8487381	003	muscle damage	phenotype	0	0	0	176:188
+8487381	004	energy malnutrition	phenotype	0	0	0	846:864
+15091819	001	lost weight	phenotype	0	0	0	332:342
+1490583	001	Angiotensin II	gene	0	0	0	1665:1678
+29865604	001	caudal cruciate	phenotype	0	0	0	265:279
+1455688	001	Con A	gene	0	0	0	224:228,524:528
+1455688	002	lentil lectin	gene	0	0	0	305:317
+1455688	003	lymphocyte responses	phenotype	0	0	0	727:746
+1401901	001	CH1	gene	0	0	0	478:480,807:809
+1401901	002	CH2	gene	0	0	0	486:488
+1415660	001	arterial blood pressure	phenotype	0	0	0	63:85
+1415660	002	heart rate	phenotype	0	0	0	94:103
+1415660	003	hindlimb vascular	phenotype	0	0	0	132:148
+1415660	004	aortic nerve	phenotype	0	0	0	339:350,1155:1166
+1415660	005	TPR	gene	0	0	0	759:761
+1514839	001	histopathological lesions of the liver	phenotype	0	0	0	943:980
+1514839	002	hepatic lesions	phenotype	0	0	0	1171:1185
+1514839	003	physiological stress	phenotype	0	0	0	1486:1505
+24234343	001	DDT	gene	0	0	0	256:258
+1602572	001	disseminated Staphylococcus aureus infection	phenotype	0	0	0	214:257
+1602572	002	vitamin A	gene	0	0	0	511:519
+1602572	003	squamous metaplasia	phenotype	0	0	0	438:456
+1602572	004	submucosal glands	phenotype	0	0	0	465:481
+1602572	005	Vitamin A	gene	0	0	0	533:541
+1313230	001	accumulation of their breakdown	phenotype	0	0	0	520:550
+1554253	001	impaired growth	phenotype	0	0	0	1064:1078
+1554253	002	hepatic lesions	phenotype	0	0	0	1081:1095
+1554253	003	lipid peroxidation	phenotype	0	0	0	1101:1118
+1554253	004	decreased growth	phenotype	0	0	0	1319:1334
+1554253	005	liver histopathology	phenotype	0	0	0	1341:1360
+1295558	001	dendritic trees	phenotype	0	0	0	262:276
+1786030	001	cranial teratoma	phenotype	0	0	0	171:186
+1961999	001	acidosis	phenotype	0	0	0	243:250,272:279,450:457
+1961999	002	dilution acidosis	phenotype	0	0	0	263:279
+1961999	003	intracellular alkalosis	phenotype	0	0	0	714:736
+1772445	001	transcription protein	gene	0	0	0	422:442
+1872367	001	inositol phosphate production	phenotype	0	0	0	774:802
+1872367	002	cell growth	phenotype	0	0	0	1426:1436
+1920662	001	wound healing	phenotype	0	0	0	153:165
+1920662	002	life span	phenotype	0	0	0	280:288
+1920662	003	Parasite death	phenotype	0	0	0	593:606
+1920662	004	host lesion resolution	phenotype	0	0	0	612:633
+1920662	005	Host death	phenotype	0	0	0	780:789
+1879657	001	androgen receptor	gene	0	0	0	771:787,846:862
+1879657	002	progestin receptor	gene	0	0	0	953:970
+1879657	003	progestin receptors	gene	0	0	0	1056:1074
+1879657	004	gland progestin receptor	gene	0	0	0	1263:1286
+2067053	001	acetylcholinesterase	gene	0	0	0	7:26
+2016754	001	bile duct hyperplasia	phenotype	0	0	0	442:462
+2016754	002	hemosiderin pigmentation of the liver and spleen	phenotype	0	0	0	468:515
+2016754	003	plasma alkaline phosphatase	gene	0	0	0	699:725
+2016754	004	cholestatic liver injury	phenotype	0	0	0	765:788
+2016754	005	lipid peroxidation	phenotype	0	0	0	1117:1134
+1770434	001	blood flow	phenotype	0	0	0	74:83,1091:1100,1628:1637
+1770434	002	glandular blood flow	phenotype	0	0	0	366:385,867:886
+1770434	003	angiotensin II	gene	0	0	0	582:595
+1770434	004	ANG II	gene	0	0	0	598:603,738:743,1316:1321
+1770434	005	salt gland secretion	phenotype	0	0	0	514:533,912:931,1043:1062
+1770434	006	arterial blood pressure	phenotype	0	0	0	798:820
+1770434	007	salt gland blood flow	phenotype	0	0	0	1185:1205
+1770434	008	gland secretion	phenotype	0	0	0	1245:1259
+1770434	009	blood flow rate	phenotype	0	0	0	1387:1401
+29865521	001	blood flow	phenotype	0	0	0	460:469
+2015005	001	histopathological lesions of the liver	phenotype	0	0	0	872:909
+2015005	002	glutathione reductase	gene	0	0	0	1084:1104
+1850807	001	skin lesions	phenotype	0	0	0	136:147
+1850807	002	cutaneous lesions	phenotype	0	0	0	440:456
+1850807	003	duck virus enteritis	phenotype	0	0	0	537:556
+2023309	001	acetylcholinesterase	gene	0	0	0	8:27
+2023309	002	cholinesterase	gene	0	0	0	260:273
+2023304	001	white blood cells	phenotype	0	0	0	211:227
+2023304	002	male mallards	phenotype	0	0	0	261:273
+1989497	001	fatty acids esterified	phenotype	0	0	0	363:384
+1989497	002	fatty acid synthase thioesterase	gene	0	0	0	924:955
+1989497	003	fatty acid synthase	gene	0	0	0	924:942,1014:1032
+1989497	004	lipid composition	phenotype	0	0	0	1402:1418
+1773860	001	Con A	gene	0	0	0	121:125
+1773860	002	lentil lectin	gene	0	0	0	153:165
+1773860	003	HP	gene	0	0	0	193:194
+1752216	001	shifting pattern of lysosome accumulation	phenotype	0	0	0	300:340
+1752216	002	LA disappeared	phenotype	0	0	0	586:599
+1752216	003	cell death	phenotype	0	0	0	921:930
+1752216	004	degeneration of synaptic components	phenotype	0	0	0	1129:1163
+2269436	001	Argininosuccinate lyase	gene	0	0	0	1:23
+2269436	002	ASL	gene	0	0	0	25:27,522:524,929:931
+2269436	003	eye lens	phenotype	0	0	0	164:171
+2269436	004	adenylosuccinate lyase	gene	0	0	0	1022:1043
+2280898	001	Horseradish peroxidase	gene	0	0	0	1:22
+2280898	002	motor subnucleus	phenotype	0	0	0	504:519
+2169398	001	Atrial natriuretic factor	gene	0	0	0	172:196
+2169398	002	salt gland secretion	phenotype	0	0	0	559:578
+2169398	003	arterial pressure	phenotype	0	0	0	979:995
+2169398	004	heart rate	phenotype	0	0	0	1001:1010
+2235072	001	host Anas platyrhynchos	phenotype	0	0	0	618:640
+2388354	001	blood lead	phenotype	0	0	0	778:787
+2388353	001	sheep red blood cells	phenotype	0	0	0	278:298
+2167392	001	infectious disease	phenotype	0	0	0	157:174
+2167392	002	contagious disease	phenotype	0	0	0	326:343
+2189020	001	osmotic stress	phenotype	0	0	0	215:228
+2189020	002	venous plexuses	phenotype	0	0	0	847:861
+2331033	001	resting heart rate	phenotype	0	0	0	414:431
+2331033	002	arterial pressure	phenotype	0	0	0	486:502
+2331033	003	dive bradycardia	phenotype	0	0	0	832:847
+2134364	001	retinal pigment epithelium	phenotype	0	0	0	73:98
+15092218	001	domestic duck Anas platyrhynchos and common eider Somateria mollissima	phenotype	0	0	0	220:289
+15092218	002	embryonic mortality	phenotype	0	0	0	496:514
+2304203	001	white blood cell counts	phenotype	0	0	0	14:36
+2304202	001	TPR	gene	0	0	0	309:311,1075:1077
+2304202	002	ALB	gene	0	0	0	324:326,966:968
+2304202	003	glutamyl transferase	gene	0	0	0	351:370
+2304202	004	lactate dehydrogenase	gene	0	0	0	581:601
+2304202	005	LD	gene	0	0	0	604:605,1080:1081
+2304202	006	cholinesterase	gene	0	0	0	611:624
+2304202	007	alanine aminotransferase	gene	0	0	0	633:656
+2304202	008	aspartate aminotransferase	gene	0	0	0	665:690
+2260767	001	maximal spermatogenesis	phenotype	0	0	0	88:110
+2260767	002	right testis	phenotype	0	0	0	216:227
+1977550	001	function oxidase	gene	0	0	0	262:277
+1977550	002	thyroid hormones	gene	0	0	0	355:370
+1977550	003	NADPH cytochrome C reductase	gene	0	0	0	468:495
+1977550	004	body weight	phenotype	0	0	0	665:675
+1977550	005	plasma triiodothyronine concentration	phenotype	0	0	0	730:766
+2596581	001	inositol phosphate	phenotype	0	0	0	330:347
+2810550	001	hemagglutination inhibition	phenotype	0	0	0	256:282
+2810550	002	wild type	phenotype	0	0	0	577:585
+2759358	001	a stuffed mallard hen	phenotype	0	0	0	1112:1132
+2716102	001	enzymes creatine kinase	gene	0	0	0	26:48
+2716102	002	aspartate aminotransferase	gene	0	0	0	59:84
+2716102	003	muscle injury	phenotype	0	0	0	389:401
+2716097	001	wild black ducks	phenotype	0	0	0	27:42
+2716097	002	weight change	phenotype	0	0	0	415:427
+2716097	003	protoporphyrin concentration	phenotype	0	0	0	481:508
+2716097	004	weight loss	phenotype	0	0	0	708:718
+2704698	001	Glomerular filtration rate	phenotype	0	0	0	227:252
+2704698	002	renal plasma flow	phenotype	0	0	0	342:358
+2704698	003	body mass	phenotype	0	0	0	537:545,805:813
+2704698	004	kidney mass	phenotype	0	0	0	1493:1503
+2914566	001	increased body temperature	phenotype	0	0	0	344:369
+2914566	002	body temperature	phenotype	0	0	0	473:488,821:836
+2914566	003	breast skin temperature	phenotype	0	0	0	632:654
+2783741	001	ulcerative hemorrhagic enteritis	phenotype	0	0	0	159:190
+2783741	002	inflammatory response	phenotype	0	0	0	286:306
+2783741	003	hemorrhage	phenotype	0	0	0	364:373
+2783741	004	anemia	phenotype	0	0	0	461:466
+2783741	005	medullary hematopoiesis occurred in the liver	phenotype	0	0	0	487:531
+2783741	006	erythroid hyperplasia	phenotype	0	0	0	541:561
+2783741	007	muscular weakness	phenotype	0	0	0	635:651
+2783741	008	blood loss	phenotype	0	0	0	696:705
+2721160	001	cytochrome P450	gene	0	0	0	1263:1277
+2636811	001	shell gland	phenotype	0	0	0	94:104
+2565790	001	acute immobilization stress	phenotype	0	0	0	174:200
+2543834	001	lipid peroxidation	phenotype	0	0	0	190:207,689:706,1251:1268,1424:1441
+2543834	002	malondialdehyde concentration	phenotype	0	0	0	644:672
+2543834	003	GSSG reductase	gene	0	0	0	817:830,1148:1161,1196:1209
+2543834	004	glutathione metabolism	phenotype	0	0	0	1397:1418
+2522769	001	respiratory disease	phenotype	0	0	0	268:286
+2522769	002	lesions of airsacculitis	phenotype	0	0	0	310:333
+2522769	003	respiratory cryptosporidiosis	phenotype	0	0	0	585:613
+2906084	001	GH	gene	0	0	0	12:13,131:132,204:205,401:402,603:604,697:698,810:811,915:916,992:993,1128:1129,1385:1386,1506:1507,1385:1386,1506:1507
+2906084	002	TRH	gene	0	0	0	106:108,245:247,299:301,245:247,299:301,359:361,472:474,644:646,748:750,644:646,748:750,824:826,970:972,1073:1075,1460:1462,1494:1496,1460:1462,1494:1496
+2906084	003	releasing factor	gene	0	0	0	134:149
+3170205	001	gastrointestinal tract	phenotype	0	0	0	263:284
+3411699	001	salvaged carcass	phenotype	0	0	0	986:1001,1129:1144,1251:1266
+3227895	001	parabronchial oxygen extraction	phenotype	0	0	0	124:154,587:617
+3227895	002	vertebral canal temperature	phenotype	0	0	0	157:183,334:360
+3227895	003	body temperature	phenotype	0	0	0	189:204
+3227895	004	oxygen extraction	phenotype	0	0	0	796:812
+28311829	001	egg size	phenotype	0	0	0	21:28,135:142,1220:1227
+28311829	002	thermal stress	phenotype	0	0	0	300:313
+28311829	003	egg mass	phenotype	0	0	0	501:508
+28311829	004	critical temperature	phenotype	0	0	0	728:747
+28311829	005	energy reserves	phenotype	0	0	0	835:849
+3411632	001	embryonic weight	phenotype	0	0	0	432:447
+3411632	002	hydrocephaly	phenotype	0	0	0	1057:1068
+3411632	003	microphthalmia	phenotype	0	0	0	1071:1084
+3411632	004	lower bill defects	phenotype	0	0	0	1087:1104
+3411632	005	foot defects with ectrodactyly	phenotype	0	0	0	1111:1140
+3411632	006	edema	phenotype	0	0	0	1193:1197
+3411632	007	stunted embryonic growth	phenotype	0	0	0	1203:1226
+3411632	008	renal alteration	phenotype	0	0	0	1564:1579
+3352094	001	thymus size	phenotype	0	0	0	924:934
+3352094	002	bone breaking strength	phenotype	0	0	0	940:961
+3352094	003	trabecular bone	phenotype	0	0	0	1054:1068
+3352094	004	enlarged adrenals	phenotype	0	0	0	1074:1090
+3352094	005	saline water	phenotype	0	0	0	1321:1332,1382:1393
+2964117	001	clinical disease	phenotype	0	0	0	65:80
+2964117	002	respiratory distress	phenotype	0	0	0	440:459
+3691965	001	locomotor inhibition	phenotype	0	0	0	123:142
+3451744	001	sera 16	gene	0	0	0	436:442
+3682096	001	emaciation and death	phenotype	0	0	0	316:335
+3694117	001	Diving bradycardia	phenotype	0	0	0	396:413
+3694117	002	arterial blood pressure	phenotype	0	0	0	526:548
+3694117	003	blood gases	phenotype	0	0	0	969:979
+3666683	001	Prolactin	gene	0	0	0	908:916
+2961429	001	atrial natriuretic peptide	gene	0	0	0	37:62
+2961429	002	angiotensin II	gene	0	0	0	74:87
+2961429	003	ANG II	gene	0	0	0	90:95,211:216,336:341,386:391,467:472,522:527,636:641
+3618829	001	angiotensin II	gene	0	0	0	85:98
+3618829	002	ANG II	gene	0	0	0	101:106,441:446,589:594,681:686,838:843,870:875,1018:1023,1083:1088,1018:1023,1083:1088
+2442066	001	angiotensin II	gene	0	0	0	225:238
+2442066	002	ANG II	gene	0	0	0	241:246,420:425
+2442066	003	urinary water excretion	phenotype	0	0	0	312:334
+2442066	004	urinary salt excretion	phenotype	0	0	0	341:362
+3625892	001	weakness	phenotype	0	0	0	614:621
+3625892	002	ataxia	phenotype	0	0	0	624:629
+3625892	003	tremors	phenotype	0	0	0	632:638
+3625892	004	terminal convulsions	phenotype	0	0	0	644:663
+3625892	005	foci of epithelial necrosis	phenotype	0	0	0	773:799
+3625892	006	focal hepatic necrosis	phenotype	0	0	0	883:904
+3625892	007	mucosal necrosis over the intestinal lymphoid tissue	phenotype	0	0	0	926:977
+3625892	008	intestinal hemorrhage	phenotype	0	0	0	984:1004
+2888829	001	releasing factor	gene	0	0	0	21:36
+2888829	002	GH	gene	0	0	0	18:19,85:86,163:164,348:349,443:444,348:349,443:444,556:557,1104:1105,1296:1297,1345:1346,1296:1297,1345:1346
+3591985	001	hypoxia	phenotype	0	0	0	681:687
+3591985	002	hypercapnia	phenotype	0	0	0	808:818
+3591985	003	acidosis	phenotype	0	0	0	821:828
+3591985	004	hypoglycemia	phenotype	0	0	0	834:845
+3591985	005	heart rate	phenotype	0	0	0	905:914
+3591985	006	blood pressure	phenotype	0	0	0	917:930
+3591985	007	arterial blood gas tensions	phenotype	0	0	0	933:959
+3582734	001	cell proliferation	phenotype	0	0	0	573:590,957:974,1136:1153,1438:1455
+3582949	001	cardiovascular deterioration	phenotype	0	0	0	627:654
+3582949	002	Adaptive hypertrophy	phenotype	0	0	0	779:798
+3582949	003	weight of the glands	phenotype	0	0	0	897:916
+3110891	001	arterial blood gases	phenotype	0	0	0	48:67
+2441315	001	horseradish peroxidase	phenotype	0	0	0	262:283,289:310
+2441315	002	germ agglutinin histochemistry	phenotype	0	0	0	318:347
+3035244	001	pleomorphic sarcoma	phenotype	0	0	0	12:30
+3035244	002	malignant fibrous histiocytoma	phenotype	0	0	0	355:384
+2884271	001	Pancreatic somatostatin	phenotype	0	0	0	1:23
+2884271	002	pancreatic hormones	phenotype	0	0	0	1131:1149
+3101522	001	acidosis	phenotype	0	0	0	1221:1228
+3105213	001	rete testis	phenotype	0	0	0	875:885
+3034230	001	white pekin ducks	phenotype	0	0	0	502:518,594:610,502:518,594:610
+2890489	001	ANG II	gene	0	0	0	73:78,358:363,556:561,618:623
+2890489	002	systemic arterial blood pressure	phenotype	0	0	0	109:140
+2890489	003	plasma glucose levels	phenotype	0	0	0	481:501
+2432694	001	body weight	phenotype	0	0	0	124:134
+2432694	002	estrogen deficiency	phenotype	0	0	0	1042:1060
+3774509	001	angiotensin II	gene	0	0	0	318:331
+3774509	002	depressed salt gland secretion	phenotype	0	0	0	375:404
+3732620	001	locomotor inhibition	phenotype	0	0	0	267:286
+3732620	002	repetition rate	phenotype	0	0	0	445:459,465:479
+3709981	001	familiar stuffed hen over 4 stuffed ducklings	phenotype	0	0	0	371:415
+2877916	001	angiotensin II	gene	0	0	0	208:221
+2877916	002	ANG II	gene	0	0	0	224:229,624:629,788:793,1005:1010,1317:1322
+2877916	003	ischiatic arterial blood flow	phenotype	0	0	0	78:106
+2877916	004	ischiatic vascular resistance	phenotype	0	0	0	113:141
+3714439	001	body weight	phenotype	0	0	0	80:90,128:138,80:90,128:138
+3714439	002	heat loss	phenotype	0	0	0	344:352
+3714439	003	Tes	gene	0	0	0	792:794,829:831,792:794,829:831
+3714439	004	skin vasoconstriction	phenotype	0	0	0	1183:1203
+2421458	001	body weight	phenotype	0	0	0	133:143,165:175,208:218,133:143,165:175,208:218,133:143,165:175,208:218
+2421458	002	clutch size	phenotype	0	0	0	491:501
+2421458	003	estradiol insufficiency	phenotype	0	0	0	1194:1216
+3958677	001	heart rate	phenotype	0	0	0	56:65,527:536,597:606,1042:1051,1142:1151
+3958677	002	short dives	phenotype	0	0	0	421:431
+3954224	001	male White Pekin ducklings	phenotype	0	0	0	24:49
+3954224	002	body weight	phenotype	0	0	0	227:237
+3954224	003	left ventricular myocardium	phenotype	0	0	0	364:390
+3954224	004	PIH 24	gene	0	0	0	530:535
+3954224	005	mineralization of mitochondria	phenotype	0	0	0	574:603
+3954224	006	PID 2	gene	0	0	0	609:613
+3954224	007	myocardial necrosis	phenotype	0	0	0	654:672
+3954224	008	reduced numbers of myofibrils	phenotype	0	0	0	764:792
+3954224	009	increased numbers of polysomes	phenotype	0	0	0	795:824
+3954224	00A	myofibrillar damage	phenotype	0	0	0	1138:1156
+3007271	001	ANG II	gene	0	0	0	109:114,220:225,399:404,635:640,220:225,399:404,635:640,220:225,399:404,635:640,689:694,902:907,1028:1033,1329:1334,1393:1398,1329:1334,1393:1398
+3007271	002	arterial pressure	phenotype	0	0	0	301:317
+3007271	003	pulse pressure	phenotype	0	0	0	328:341
+3007271	004	cardiac frequency	phenotype	0	0	0	359:375
+3940926	001	bovine parathyroid hormone	gene	0	0	0	36:61
+3940926	002	PTH	gene	0	0	0	455:457,590:592,941:943
+3798765	001	retinal field	phenotype	0	0	0	335:347
+3751687	001	horseradish peroxidase	gene	0	0	0	156:177
+3751687	002	trigeminal motoneurons	phenotype	0	0	0	21:42
+3089881	001	body weights	phenotype	0	0	0	555:566
+2415525	001	fatty acid synthase thioesterase	gene	0	0	0	196:227,639:670,1804:1835
+2415525	002	fatty acid synthase	gene	0	0	0	1740:1758
+4075777	001	social interaction	phenotype	0	0	0	916:933
+24896699	001	white mallard drake	phenotype	0	0	0	395:413
+2414344	001	glossopharyngeal ganglia	phenotype	0	0	0	20:43
+2414344	002	trigeminal nucleus proper	phenotype	0	0	0	183:207
+2414344	003	cranial nerve	phenotype	0	0	0	529:541
+4054582	001	chronic salt stress	phenotype	0	0	0	332:350
+3834775	001	horseradish peroxidase	gene	0	0	0	110:131
+2995197	001	angiotensin II	gene	0	0	0	35:48
+2995197	002	superfusion of adrenal	phenotype	0	0	0	1304:1325
+4045323	001	Fatty acids	phenotype	0	0	0	671:681
+4045323	002	acids reappeared	phenotype	0	0	0	831:846
+4017995	001	fatty acids	phenotype	0	0	0	489:499
+4017995	002	reduced body weights	phenotype	0	0	0	636:655
+4017995	003	reduced weights of livers	phenotype	0	0	0	661:685
+4017995	004	energy metabolism	phenotype	0	0	0	1341:1357
+3929351	001	hypoxia	phenotype	0	0	0	70:76,407:413,874:880,956:962
+3929351	002	blood flow	phenotype	0	0	0	90:99,120:129,478:487,499:508
+3929351	003	hypocapnic hypoxia	phenotype	0	0	0	423:440
+3929351	004	pattern of blood flow	phenotype	0	0	0	467:487
+3929351	005	coronary blood flow	phenotype	0	0	0	1016:1034
+3929351	006	metabolic acidosis	phenotype	0	0	0	1084:1101
+2991075	001	corticosterone concentration	phenotype	0	0	0	185:212
+2862973	001	growth hormone	gene	0	0	0	87:100
+2862973	002	GH	gene	0	0	0	103:104,212:213,479:480,731:732,814:815,977:978
+2862973	003	fatty acids	phenotype	0	0	0	405:415
+3891506	001	releasing hormone	gene	0	0	0	278:294
+3988030	001	adrenocorticotrophic hormone	gene	0	0	0	1115:1142
+4077686	001	mammalian slow muscle	phenotype	0	0	0	273:293
+3975499	001	lung thickness	phenotype	0	0	0	421:434
+3975499	002	ventral pulmonary aponeurosis	phenotype	0	0	0	790:818
+3975498	001	hypoxia	phenotype	0	0	0	370:376,745:751,1025:1031
+2864178	001	cardiac frequency	phenotype	0	0	0	304:320
+2864178	002	cardiac stroke	phenotype	0	0	0	363:376
+2864178	003	decreased body weight	phenotype	0	0	0	386:406
+2864178	004	decreased plasma norepinephrine	phenotype	0	0	0	413:443
+2864178	005	hypotension	phenotype	0	0	0	658:668
+2864178	006	body weight	phenotype	0	0	0	799:809
+2864178	007	blood pressure	phenotype	0	0	0	947:960
+6527779	001	lobule IV	phenotype	0	0	0	566:574
+6527779	002	pars dorsalis	phenotype	0	0	0	1658:1670
+6150878	001	plasma growth hormone	gene	0	0	0	131:151
+6150878	002	GH	gene	0	0	0	154:155,180:181,265:266,318:319,265:266,318:319,389:390
+6150878	003	insulin concentration	phenotype	0	0	0	680:700
+6150878	004	pancreatic insulin	gene	0	0	0	1273:1290
+6521961	001	Angiotensin II	gene	0	0	0	779:792
+6521961	002	arterial blood pressure	phenotype	0	0	0	856:878
+6441923	001	breathing Pekin ducks	phenotype	0	0	0	150:170
+6099427	001	enzootic disease	phenotype	0	0	0	782:797
+6092207	001	weight gain	phenotype	0	0	0	243:253
+6092207	002	aldosterone concentration	phenotype	0	0	0	991:1015
+6092207	003	corticosterone secretion	phenotype	0	0	0	1205:1228
+6092207	004	electrolyte balance	phenotype	0	0	0	1369:1387
+6465351	001	hypoxia	phenotype	0	0	0	53:59,694:700
+6465351	002	pulmonary arterial blood pressure	phenotype	0	0	0	203:235
+6742237	001	hypoxia	phenotype	0	0	0	435:441,843:849
+6742237	002	coronary blood flow	phenotype	0	0	0	676:694
+6742237	003	hypocapnic hypoxia	phenotype	0	0	0	1102:1119
+6745632	001	body weight	phenotype	0	0	0	1231:1241,1330:1340
+6745632	002	body weight gain	phenotype	0	0	0	1330:1345
+6745632	003	body reserves	phenotype	0	0	0	1467:1479
+6484318	001	body temperature	phenotype	0	0	0	45:60
+6484318	002	arterial blood pressure	phenotype	0	0	0	68:90
+6484318	003	increased cardiac	phenotype	0	0	0	1485:1501
+6710528	001	embryonic growth	phenotype	0	0	0	908:923
+6710528	002	axial scoliosis	phenotype	0	0	0	1028:1042
+6710528	003	edema	phenotype	0	0	0	1062:1066
+6710528	004	Brain neurotoxic esterase	gene	0	0	0	1187:1211
+6710528	005	acetylcholinesterase	gene	0	0	0	1522:1541
+6710528	006	aspartate aminotransferase	gene	0	0	0	1726:1751
+6710528	007	Plasma cholinesterase	phenotype	0	0	0	1642:1662
+6710528	008	alkaline phosphatase activities	phenotype	0	0	0	1668:1698
+6710528	009	demyelination	phenotype	0	0	0	1936:1948
+6710528	00A	delayed neurotoxicity	phenotype	0	0	0	2011:2031
+6234053	001	mucous membrane of hind gut	phenotype	0	0	0	1047:1073
+6234053	002	distension pressure	phenotype	0	0	0	1154:1172
+6324446	001	duck virus enteritis	phenotype	0	0	0	90:109
+6699217	001	short hair cells	phenotype	0	0	0	1048:1063
+6699217	002	tall hair	phenotype	0	0	0	1094:1102
+6699216	001	short hair cells	phenotype	0	0	0	858:873,1163:1178
+6699216	002	tall hair	phenotype	0	0	0	1123:1131
+6424873	001	body weight	phenotype	0	0	0	159:169,218:228,159:169,218:228
+6424873	002	fat plus carcass weights	phenotype	0	0	0	411:434
+6424873	003	abdominal fat weights	phenotype	0	0	0	544:564
+6424873	004	hypothalmic lesions	phenotype	0	0	0	715:733
+6370453	001	Ependymal folds	phenotype	0	0	0	508:522
+6370453	002	vasoactive intestinal polypeptide	gene	0	0	0	773:805
+6370453	003	VIP	gene	0	0	0	808:810,1021:1023,1164:1166
+6370453	004	ependymal folds	phenotype	0	0	0	993:1007
+6370453	005	lateral septal organ	phenotype	0	0	0	1463:1482
+6641666	001	GPT	gene	0	0	0	424:426
+6641666	002	kidney lesions	phenotype	0	0	0	506:519
+6641666	003	Body weight	phenotype	0	0	0	726:736
+6641666	004	liver weight	phenotype	0	0	0	739:750
+6641666	005	femur weight	phenotype	0	0	0	774:785
+6641666	006	cadmium concentration	phenotype	0	0	0	841:861,1157:1177
+6885480	001	consuming contaminated waterfowl tissue	phenotype	0	0	0	1412:1450
+6414880	001	angiotensin II	gene	0	0	0	11:24
+6414880	002	aortic blood pressure	phenotype	0	0	0	67:87
+6618932	001	hypoxia	phenotype	0	0	0	51:57,345:351,1005:1011
+6618932	002	lower body ischemia	phenotype	0	0	0	63:81
+6618932	003	body denervated birds breathing 10	phenotype	0	0	0	195:228
+6618932	004	tachypnea	phenotype	0	0	0	251:259,294:302,251:259,294:302,564:572,925:933
+6618932	005	Occlusion of the abdominal aorta	phenotype	0	0	0	413:444
+6618932	006	hypertension	phenotype	0	0	0	504:515
+6644918	001	infection in mallards	phenotype	0	0	0	435:455
+6644918	002	cell size	phenotype	0	0	0	1695:1703
+6627087	001	corticosterone receptor	gene	0	0	0	2042:2064
+6884992	001	hemoglobin component	phenotype	0	0	0	47:66
+6873485	001	embryonic vocalizations	phenotype	0	0	0	943:965
+6883185	001	weight gain	phenotype	0	0	0	188:198
+6883185	002	proliferative esophagitis	phenotype	0	0	0	418:442
+6883185	003	atrophy of all lymphoid	phenotype	0	0	0	478:500
+6883185	004	hematopoietic suppression	phenotype	0	0	0	691:715
+6883185	005	hemorrhagic syndrome	phenotype	0	0	0	723:742
+6340745	001	daily movement	phenotype	0	0	0	261:274
+6340745	002	luteinizing hormone releasing hormone	gene	0	0	0	762:798
+6340745	003	Prolactin	gene	0	0	0	1882:1890,2054:2062
+6840521	001	Prolactin	gene	0	0	0	130:138,264:272
+6293806	001	angiotensin II	gene	0	0	0	32:45
+6293806	002	arterial blood pressure	phenotype	0	0	0	169:191,901:923
+6184217	001	angiotensin II	gene	0	0	0	47:60
+6184217	002	drop in blood pressure	phenotype	0	0	0	499:520
+6847608	001	urea concentration	phenotype	0	0	0	530:547
+6614742	001	Pallial epithelium hypertrophy	phenotype	0	0	0	218:247
+6407178	001	wild water	phenotype	0	0	0	247:256
+6299740	001	fracture replicas	phenotype	0	0	0	1064:1080
+6187513	001	angiotensin I	gene	0	0	0	95:107,146:158
+6187513	002	angiotensin II	gene	0	0	0	146:159
+6187513	003	baseline blood pressure	phenotype	0	0	0	733:755
+6187513	004	neural reflexes	phenotype	0	0	0	787:801
+6132724	001	body weight	phenotype	0	0	0	671:681
+7163655	001	mean body weight	phenotype	0	0	0	99:114
+7163655	002	volume of capillary blood	phenotype	0	0	0	554:578
+7163655	003	body weight	phenotype	0	0	0	653:663,1148:1158,653:663,1148:1158
+6130168	001	alanine aminotransferase	gene	0	0	0	15:38
+6130168	002	aspartate aminotransferase	gene	0	0	0	47:72
+6130168	003	creatine phosphokinase	gene	0	0	0	81:102
+6130168	004	alkaline phosphatase	gene	0	0	0	111:130
+6130168	005	lactate dehydrogenase	gene	0	0	0	143:163
+6130168	006	glutamyl transferase	gene	0	0	0	225:244
+6130168	007	ornithine carbamyl transferase	gene	0	0	0	350:379
+7130459	001	mesencephalic trigeminal nucleus	phenotype	0	0	0	668:699
+7130459	002	trigeminal motor nucleus	phenotype	0	0	0	878:901
+7130060	001	rete testis	phenotype	0	0	0	5:15,682:692
+7130060	002	electron microscopes	phenotype	0	0	0	252:271
+6813512	001	dry weight	phenotype	0	0	0	357:366,432:441
+6122333	001	DDT	gene	0	0	0	47:49
+6122333	002	dry weight	phenotype	0	0	0	785:794
+6122333	003	shell gland	phenotype	0	0	0	1299:1309,1426:1436,1555:1565
+7150114	001	molecular weight	phenotype	0	0	0	249:264
+7150114	002	apovitellenin I	gene	0	0	0	480:494,652:666,851:865
+7150114	003	apovitellenin II	gene	0	0	0	954:969,1052:1067
+7061266	001	hyperpnea	phenotype	0	0	0	12:20,404:412,576:584,791:799,824:832,905:913
+7061266	002	arterial blood gases	phenotype	0	0	0	327:346
+7061266	003	hypoxia	phenotype	0	0	0	365:371
+7061266	004	hypercapnia	phenotype	0	0	0	377:387
+7061266	005	chronic bilateral carotid body denervation depressed	phenotype	0	0	0	437:488
+7061266	006	heart rate	phenotype	0	0	0	628:637,1104:1113
+7061266	007	systemic arterial baroreceptor denervation	phenotype	0	0	0	852:893
+7061266	008	blood gas	phenotype	0	0	0	935:943
+7058921	001	systemic baroreceptors	phenotype	0	0	0	53:74
+7058921	002	predive heart	phenotype	0	0	0	440:452
+7058921	003	arterial blood pressure	phenotype	0	0	0	691:713
+7058921	004	chemoreceptor denervates	phenotype	0	0	0	1026:1049
+7058921	005	arterial blood pressure rose spectacularly	phenotype	0	0	0	1056:1097
+7058921	006	blood pressure	phenotype	0	0	0	1386:1399
+6176190	001	brain and visceral defects	phenotype	0	0	0	792:817
+6176190	002	defects of the joints	phenotype	0	0	0	981:1001
+6130869	001	rates of electrolyte excretion	phenotype	0	0	0	427:456
+6817294	001	DDT	gene	0	0	0	227:229,389:391
+7338949	001	cholinesterase	gene	0	0	0	201:214
+7325692	001	paresis	phenotype	0	0	0	176:182
+7325692	002	bone density	phenotype	0	0	0	588:599
+7028906	001	GH	gene	0	0	0	35:36,136:137,35:36,136:137,812:813,941:942,812:813,941:942
+7028906	002	fatty acid level	phenotype	0	0	0	450:465
+7028906	003	blood glucose level	phenotype	0	0	0	700:718
+6274488	001	integrity of the duckling intestine	phenotype	0	0	0	306:340
+6796936	001	DDT	gene	0	0	0	544:546,1197:1199
+7265315	001	ornithine carbamoyltransferase	gene	0	0	0	500:529
+7265315	002	alanine aminotransferase	gene	0	0	0	535:558
+7282409	001	heat exchanger	phenotype	0	0	0	61:74
+7265309	001	growth parameters	phenotype	0	0	0	220:236
+7265309	002	body weight	phenotype	0	0	0	239:249
+7265309	003	wing length	phenotype	0	0	0	252:262
+7265309	004	Liver hypertrophy	phenotype	0	0	0	627:643
+7265309	005	splenic atrophy	phenotype	0	0	0	649:663
+7265309	006	alanine aminotransferase	gene	0	0	0	831:854
+7265309	007	ornithine carbamoyltransferase	gene	0	0	0	860:889
+7255927	001	lumbar lymph nodes	phenotype	0	0	0	27:44
+7255927	002	mammalian lymph nodes	phenotype	0	0	0	120:140
+6790722	001	stunted growth	phenotype	0	0	0	240:253
+6790722	002	temporal pattern of embryonic death	phenotype	0	0	0	1029:1063
+6790722	003	Retarded growth	phenotype	0	0	0	1199:1213
+6790722	004	embryonic body weight	phenotype	0	0	0	1232:1252
+7217363	001	vertical columns	phenotype	0	0	0	654:669
+7271655	001	fatty change in the liver	phenotype	0	0	0	287:311
+7224673	001	cholinesterase	gene	0	0	0	18:31
+6296945	001	male domestic	phenotype	0	0	0	7:19
+7293792	001	DDT	gene	0	0	0	45:47
+7293792	002	reduce the reproductive success	phenotype	0	0	0	85:115
+7293792	003	dry weight	phenotype	0	0	0	271:280
+7293792	004	reduction of the shell thickness	phenotype	0	0	0	358:389
+7293792	005	wet weight	phenotype	0	0	0	658:667
+7293792	006	shell gland	phenotype	0	0	0	937:947
+7217841	001	reproductive impairment	phenotype	0	0	0	88:110
+6780700	001	blood parasites	phenotype	0	0	0	221:235
+6253590	001	brachial vein	phenotype	0	0	0	772:784
+7232144	001	influenza A	phenotype	0	0	0	743:753
+6999036	001	sensory trigeminal nucleus	phenotype	0	0	0	116:141
+7439771	001	growth of	phenotype	0	0	0	12:20
+6999114	001	survival of skin allografts	phenotype	0	0	0	514:540
+6246810	001	gentle mechanical dispersion	phenotype	0	0	0	289:316
+6246810	002	metabolic inhibitors	phenotype	0	0	0	808:827
+7412022	001	C2	gene	0	0	0	186:187
+7412022	002	Clostridium botulinum type C	phenotype	0	0	0	17:44
+7412022	003	pulmonary edema	phenotype	0	0	0	622:636
+7412022	004	hemorrhage	phenotype	0	0	0	642:651
+7412022	005	respiratory paralysis	phenotype	0	0	0	669:689
+7375742	001	hypoxia	phenotype	0	0	0	33:39,520:526
+7375742	002	oxygen transport	phenotype	0	0	0	42:57,1445:1460
+7357208	001	periarterial nerve	phenotype	0	0	0	181:198
+7357208	002	intravascular noradrenaline	phenotype	0	0	0	1395:1421
+7357208	003	duckling mesenteric arterial vasculature	phenotype	0	0	0	2193:2232,2913:2952
+6768903	001	Haemoproteus infection	phenotype	0	0	0	1:22
+6768903	002	white Pekin ducks	phenotype	0	0	0	41:57,483:499
+542897	001	Decreased embryonic growth resulted	phenotype	0	0	0	654:688
+542897	002	skeletal aberrations	phenotype	0	0	0	832:851
+542897	003	eye and brain defects	phenotype	0	0	0	988:1008
+522220	001	white crowned sparrows	phenotype	0	0	0	475:496
+93890	001	plasma testosterone	phenotype	0	0	0	373:391
+93890	002	testis growth	phenotype	0	0	0	434:446
+230903	001	subcapsular zone	phenotype	0	0	0	392:407
+513150	001	embryonic survival	phenotype	0	0	0	610:627
+513150	002	temporal pattern of embryonic death	phenotype	0	0	0	648:682
+513150	003	Embryonic growth	phenotype	0	0	0	749:764
+513150	004	embryonic death	phenotype	0	0	0	1003:1017
+24924978	001	social behavior	phenotype	0	0	0	458:472
+469520	001	acid phosphatase	gene	0	0	0	322:337
+102665	001	soft palate	phenotype	0	0	0	1011:1021
+318528	001	Liver hypertrophy	phenotype	0	0	0	569:585
+318528	002	splenic atrophy	phenotype	0	0	0	591:605
+318528	003	alanine aminotransferase	gene	0	0	0	765:788
+318528	004	ornithine carbamyl transferase	gene	0	0	0	794:823
+318528	005	Hepatocyte hypertrophy	phenotype	0	0	0	835:856
+318528	006	tubular inflammation	phenotype	0	0	0	954:973
+318528	007	degeneration in the kidney	phenotype	0	0	0	979:1004
+722682	001	dry weight	phenotype	0	0	0	147:156
+722682	002	ovarian mass	phenotype	0	0	0	288:299
+722682	003	atretic follicles	phenotype	0	0	0	314:330
+318512	001	cold stress	phenotype	0	0	0	872:882
+318512	002	adrenal hypertrophy	phenotype	0	0	0	1347:1365
+318512	003	involution of the lymphoepithelial tissues	phenotype	0	0	0	1378:1419
+718435	001	atrioventricular ostia	phenotype	0	0	0	401:422
+702032	001	embryonic avian	phenotype	0	0	0	633:647
+569405	001	male domestic ducks	phenotype	0	0	0	130:148
+569405	002	plasma testosterone	phenotype	0	0	0	442:460
+98622	001	muscle cysts	phenotype	0	0	0	75:86,490:501
+98622	002	fecal sporocysts	phenotype	0	0	0	151:166
+705813	001	aldosterone sedimented	phenotype	0	0	0	529:550
+660564	001	whirling disease	phenotype	0	0	0	435:450,678:693
+632731	001	cortical growth	phenotype	0	0	0	310:324
+632731	002	left ovary	phenotype	0	0	0	376:385
+632731	003	hybrid gonadal	phenotype	0	0	0	467:480
+633403	001	bone lead	phenotype	0	0	0	75:83,681:689,714:722,798:806
+633403	002	accumulation of bone lead	phenotype	0	0	0	665:689
+924873	001	Newcastle disease	phenotype	0	0	0	264:280
+922833	001	Gap junctions	phenotype	0	0	0	969:981
+332381	001	corticoid concentration	phenotype	0	0	0	696:718
+332381	002	osmotic stress	phenotype	0	0	0	1145:1158
+332381	003	serum corticoid	phenotype	0	0	0	1336:1350
+886407	001	total body length	phenotype	0	0	0	381:397
+886407	002	esophageal length	phenotype	0	0	0	400:416
+886407	003	vagina length	phenotype	0	0	0	453:465
+886407	004	inner rim	phenotype	0	0	0	493:501
+410954	001	blood parasites	phenotype	0	0	0	192:206
+145306	001	elongated spermatids	phenotype	0	0	0	356:375
+1002866	001	nucleus N VII	phenotype	0	0	0	247:259
+1002866	002	anterior solitarii	phenotype	0	0	0	337:354,373:390,449:466
+1002866	003	ventrolateralis anterior solitarii	phenotype	0	0	0	433:466
+1002866	004	terminal degeneration	phenotype	0	0	0	495:515
+1002866	005	tympani nerve	phenotype	0	0	0	834:846
+791639	001	releasing hormone	gene	0	0	0	239:255
+184891	001	osmiophilic lipid inclusions	phenotype	0	0	0	225:252
+988551	001	the weight of the adrenal gland	phenotype	0	0	0	62:92
+988551	002	body weight	phenotype	0	0	0	106:116,1048:1058
+1028452	001	deep anomalies	phenotype	0	0	0	184:197
+1028452	002	fertile Barbary drake testis	phenotype	0	0	0	905:932
+995813	001	low response	phenotype	0	0	0	369:380
+995813	002	body temperature	phenotype	0	0	0	567:582
+974275	001	tissue lesions	phenotype	0	0	0	283:296
+134641	001	white Pekin ducks	phenotype	0	0	0	288:304
+134641	002	black guillemot	phenotype	0	0	0	333:347
+134641	003	white Pekins	phenotype	0	0	0	570:581
+132447	001	activated adenosine triphosphatase	gene	0	0	0	23:56
+966321	001	hemoglobin concentration	phenotype	0	0	0	245:268
+966321	002	blood lead	phenotype	0	0	0	1173:1182
+1277273	001	anterior hypothalamic	phenotype	0	0	0	235:255
+1277273	002	dendritic spines	phenotype	0	0	0	572:587
+933309	001	hemoglobin content	phenotype	0	0	0	254:271
+933309	002	erythrocyte counts	phenotype	0	0	0	277:294
+772155	001	skin grafts	phenotype	0	0	0	138:148
+772155	002	male embryos	phenotype	0	0	0	286:297,362:373
+1213054	001	Sorbitol dehydrogenase	gene	0	0	0	1:22
+16811877	001	distress vocalizations	phenotype	0	0	0	132:153
+16811877	002	absence of visual movement	phenotype	0	0	0	587:612
+16811877	003	visual movement	phenotype	0	0	0	687:701
+57744	001	hypothalamic lesions	phenotype	0	0	0	102:121
+57744	002	Anterior bilateral lesions	phenotype	0	0	0	288:313
+57744	003	aphagia	phenotype	0	0	0	327:333
+57744	004	loss in body weight	phenotype	0	0	0	343:361
+1175207	001	brain catecholamines	phenotype	0	0	0	26:45
+1175207	002	osmotic stress	phenotype	0	0	0	758:771
+169995	001	osmotic stress	phenotype	0	0	0	447:460
+24173099	001	hypertrophy of the salt gland	phenotype	0	0	0	102:130
