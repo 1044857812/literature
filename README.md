@@ -1,5 +1,5 @@
 # literature
-Analysis code for transcriptome data
+Analysis code for literature data
 
 ## Data processing
 
