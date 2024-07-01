@@ -1,4 +1,4 @@
-# literature
+# literature-analysis
 Analysis code for literature data
 
 ## Data processing
