@@ -1,4 +1,4 @@
-# RNA-Seq
+# literature
 Analysis code for transcriptome data
 
 ## Data processing
